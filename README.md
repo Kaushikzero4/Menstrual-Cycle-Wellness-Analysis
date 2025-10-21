@@ -41,16 +41,6 @@ This project explores **how lifestyle, emotions, physical experiences, and behav
 - **Cravings & Stress:** High-stress participants experience more intense cravings during menstrual and luteal phases  
 - **Exercise & Pain:** Regular exercise mitigates pain and improves stability during menstrual cycles  
 
----
 
-## Visualizations
- 
-*Overview of participants’ sleep, stress, and lifestyle habits.*
-
-
-*Mood trends across menstrual cycle phases.*
-
- 
-*Visualization of cravings and pain levels with coping strategies.*
 
 
