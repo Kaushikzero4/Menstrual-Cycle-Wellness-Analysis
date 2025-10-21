@@ -1,0 +1,5001 @@
+Participant_ID,Cycle_Phase,Pain_Level,Pain_Relief_Method,Relief_Effectiveness,Mood
+P0001,Follicular,6,Heating Pad,7,Neutral
+P0002,Menstrual,5,Medication,9,Tired
+P0003,Luteal,10,Medication,4,Neutral
+P0004,Luteal,6,Heating Pad,7,Tired
+P0005,Luteal,9,Medication,1,Sad
+P0006,Follicular,7,Medication,8,Irritable
+P0007,Follicular,10,Medication,7,Neutral
+P0008,Ovulation,3,Medication,7,Tired
+P0009,Menstrual,10,Heating Pad,2,Irritable
+P0010,Menstrual,10,Heating Pad,10,Happy
+P0011,Ovulation,5,Rest,9,Happy
+P0012,Follicular,4,Heating Pad,8,Irritable
+P0013,Ovulation,5,Medication,1,Irritable
+P0014,Luteal,8,Heating Pad,1,Tired
+P0015,Menstrual,6,None,5,Neutral
+P0016,Menstrual,4,Rest,2,Sad
+P0017,Luteal,5,None,1,Neutral
+P0018,Follicular,7,Medication,10,Neutral
+P0019,Luteal,8,Rest,8,Sad
+P0020,Luteal,5,Medication,4,Happy
+P0021,Follicular,2,Medication,2,Happy
+P0022,Menstrual,6,Rest,5,Tired
+P0023,Menstrual,9,Yoga,6,Happy
+P0024,Ovulation,3,Rest,8,Neutral
+P0025,Menstrual,7,None,7,Irritable
+P0026,Menstrual,8,Medication,7,Tired
+P0027,Follicular,6,Heating Pad,1,Irritable
+P0028,Luteal,3,Heating Pad,3,Irritable
+P0029,Menstrual,1,Medication,3,Neutral
+P0030,Menstrual,3,Medication,7,Happy
+P0031,Menstrual,6,Rest,2,Neutral
+P0032,Luteal,4,None,10,Tired
+P0033,Luteal,1,Medication,7,Happy
+P0034,Luteal,6,Heating Pad,9,Neutral
+P0035,Menstrual,1,Rest,1,Sad
+P0036,Follicular,8,Rest,2,Irritable
+P0037,Follicular,3,Heating Pad,6,Tired
+P0038,Follicular,3,Yoga,2,Neutral
+P0039,Ovulation,1,Medication,2,Tired
+P0040,Ovulation,3,Heating Pad,5,Happy
+P0041,Luteal,7,Heating Pad,7,Irritable
+P0042,Menstrual,10,Rest,4,Sad
+P0043,Ovulation,8,Medication,6,Sad
+P0044,Follicular,8,Heating Pad,3,Sad
+P0045,Menstrual,3,None,4,Neutral
+P0046,Menstrual,5,Rest,4,Irritable
+P0047,Luteal,1,Medication,4,Sad
+P0048,Ovulation,9,Heating Pad,1,Happy
+P0049,Menstrual,8,Yoga,4,Neutral
+P0050,Menstrual,10,Heating Pad,4,Neutral
+P0051,Menstrual,2,Medication,6,Tired
+P0052,Follicular,10,Medication,9,Neutral
+P0053,Luteal,1,Rest,10,Sad
+P0054,Follicular,4,Medication,6,Irritable
+P0055,Menstrual,9,Yoga,6,Happy
+P0056,Ovulation,8,Rest,7,Irritable
+P0057,Follicular,3,Medication,7,Happy
+P0058,Luteal,10,Medication,1,Happy
+P0059,Ovulation,6,Yoga,8,Tired
+P0060,Follicular,9,Heating Pad,1,Sad
+P0061,Follicular,10,Heating Pad,9,Tired
+P0062,Ovulation,8,Medication,4,Sad
+P0063,Menstrual,10,Heating Pad,9,Neutral
+P0064,Menstrual,5,Medication,8,Tired
+P0065,Menstrual,9,Rest,9,Neutral
+P0066,Ovulation,9,Medication,6,Irritable
+P0067,Luteal,3,Medication,9,Happy
+P0068,Luteal,8,Heating Pad,4,Happy
+P0069,Ovulation,4,None,3,Irritable
+P0070,Luteal,10,Rest,3,Irritable
+P0071,Luteal,7,Rest,8,Neutral
+P0072,Ovulation,10,Medication,2,Happy
+P0073,Ovulation,8,Medication,6,Happy
+P0074,Luteal,7,Rest,9,Tired
+P0075,Menstrual,5,Medication,9,Irritable
+P0076,Luteal,1,Heating Pad,8,Irritable
+P0077,Ovulation,8,Medication,8,Irritable
+P0078,Ovulation,5,Yoga,1,Neutral
+P0079,Ovulation,3,Medication,7,Irritable
+P0080,Luteal,2,Heating Pad,1,Happy
+P0081,Ovulation,3,Medication,9,Sad
+P0082,Menstrual,9,Yoga,3,Tired
+P0083,Luteal,2,Heating Pad,1,Neutral
+P0084,Luteal,10,Heating Pad,8,Neutral
+P0085,Menstrual,1,Medication,7,Tired
+P0086,Ovulation,2,Heating Pad,2,Happy
+P0087,Luteal,2,Medication,7,Tired
+P0088,Luteal,5,Medication,5,Happy
+P0089,Menstrual,1,Medication,7,Irritable
+P0090,Menstrual,10,Medication,10,Neutral
+P0091,Luteal,8,Medication,7,Happy
+P0092,Menstrual,2,Heating Pad,2,Sad
+P0093,Menstrual,6,Rest,2,Happy
+P0094,Follicular,5,Rest,7,Sad
+P0095,Follicular,2,Medication,3,Irritable
+P0096,Menstrual,10,Heating Pad,4,Happy
+P0097,Luteal,1,Heating Pad,7,Neutral
+P0098,Follicular,6,Medication,2,Neutral
+P0099,Follicular,6,Medication,2,Happy
+P0100,Ovulation,3,Heating Pad,9,Sad
+P0101,Follicular,8,Medication,1,Happy
+P0102,Ovulation,9,Medication,3,Sad
+P0103,Ovulation,3,Heating Pad,10,Irritable
+P0104,Follicular,9,Medication,4,Happy
+P0105,Menstrual,8,Medication,5,Irritable
+P0106,Luteal,5,Medication,3,Sad
+P0107,Ovulation,6,Yoga,9,Neutral
+P0108,Ovulation,1,Heating Pad,5,Neutral
+P0109,Ovulation,5,Heating Pad,7,Tired
+P0110,Follicular,10,Heating Pad,7,Irritable
+P0111,Ovulation,10,Heating Pad,9,Neutral
+P0112,Follicular,7,Rest,2,Neutral
+P0113,Follicular,1,Heating Pad,3,Neutral
+P0114,Menstrual,10,Medication,4,Tired
+P0115,Luteal,9,Medication,8,Happy
+P0116,Menstrual,7,Medication,1,Neutral
+P0117,Luteal,4,Medication,9,Irritable
+P0118,Menstrual,4,Yoga,5,Irritable
+P0119,Follicular,10,Rest,4,Tired
+P0120,Menstrual,7,Medication,8,Tired
+P0121,Follicular,6,Heating Pad,9,Sad
+P0122,Luteal,3,Medication,3,Sad
+P0123,Luteal,9,Heating Pad,4,Tired
+P0124,Menstrual,6,Yoga,1,Happy
+P0125,Menstrual,2,Medication,3,Tired
+P0126,Ovulation,10,Medication,10,Tired
+P0127,Follicular,2,None,5,Tired
+P0128,Follicular,1,Medication,8,Neutral
+P0129,Follicular,5,Heating Pad,1,Happy
+P0130,Follicular,10,Heating Pad,1,Tired
+P0131,Luteal,6,Medication,3,Happy
+P0132,Ovulation,3,Heating Pad,9,Tired
+P0133,Menstrual,4,None,9,Neutral
+P0134,Ovulation,5,Medication,1,Neutral
+P0135,Menstrual,4,Medication,4,Irritable
+P0136,Follicular,9,Heating Pad,8,Happy
+P0137,Luteal,3,Medication,2,Irritable
+P0138,Follicular,5,Medication,4,Irritable
+P0139,Menstrual,7,Yoga,7,Happy
+P0140,Luteal,7,Heating Pad,7,Tired
+P0141,Follicular,6,Medication,5,Tired
+P0142,Menstrual,9,Medication,7,Neutral
+P0143,Menstrual,7,Medication,6,Tired
+P0144,Follicular,4,Medication,2,Tired
+P0145,Menstrual,10,Heating Pad,9,Sad
+P0146,Menstrual,9,Medication,5,Sad
+P0147,Ovulation,6,Medication,2,Happy
+P0148,Menstrual,1,Heating Pad,6,Happy
+P0149,Menstrual,9,Medication,10,Happy
+P0150,Luteal,7,Medication,5,Sad
+P0151,Luteal,6,Heating Pad,2,Sad
+P0152,Follicular,6,Rest,10,Happy
+P0153,Ovulation,4,Heating Pad,10,Sad
+P0154,Luteal,4,Rest,7,Happy
+P0155,Luteal,3,Medication,10,Sad
+P0156,Follicular,8,Heating Pad,2,Happy
+P0157,Menstrual,8,Heating Pad,7,Happy
+P0158,Ovulation,2,Medication,6,Sad
+P0159,Menstrual,5,Heating Pad,4,Neutral
+P0160,Ovulation,9,Medication,4,Tired
+P0161,Follicular,9,Heating Pad,6,Tired
+P0162,Menstrual,7,Medication,9,Happy
+P0163,Luteal,4,Rest,10,Sad
+P0164,Luteal,4,Yoga,6,Irritable
+P0165,Menstrual,10,Heating Pad,6,Sad
+P0166,Follicular,7,Medication,1,Irritable
+P0167,Ovulation,3,Medication,5,Neutral
+P0168,Luteal,3,Heating Pad,1,Sad
+P0169,Menstrual,5,Medication,9,Neutral
+P0170,Menstrual,6,Medication,10,Tired
+P0171,Menstrual,8,Medication,4,Sad
+P0172,Follicular,1,Medication,2,Happy
+P0173,Luteal,7,Heating Pad,9,Neutral
+P0174,Menstrual,8,Medication,6,Sad
+P0175,Luteal,5,Heating Pad,10,Neutral
+P0176,Menstrual,10,Heating Pad,3,Happy
+P0177,Ovulation,2,Medication,2,Neutral
+P0178,Follicular,4,Medication,6,Irritable
+P0179,Luteal,6,Medication,10,Sad
+P0180,Luteal,9,Heating Pad,6,Happy
+P0181,Follicular,2,Yoga,9,Tired
+P0182,Ovulation,4,Yoga,5,Irritable
+P0183,Luteal,10,Yoga,9,Sad
+P0184,Menstrual,5,Heating Pad,5,Tired
+P0185,Luteal,8,Rest,2,Sad
+P0186,Luteal,8,Yoga,1,Sad
+P0187,Luteal,2,Heating Pad,9,Irritable
+P0188,Ovulation,6,Heating Pad,10,Sad
+P0189,Ovulation,6,Medication,7,Neutral
+P0190,Ovulation,5,Medication,3,Sad
+P0191,Menstrual,8,None,6,Tired
+P0192,Follicular,10,Heating Pad,10,Sad
+P0193,Follicular,2,Heating Pad,4,Tired
+P0194,Ovulation,2,Medication,9,Neutral
+P0195,Luteal,7,Yoga,2,Neutral
+P0196,Menstrual,9,Rest,4,Neutral
+P0197,Ovulation,3,Heating Pad,1,Sad
+P0198,Ovulation,7,Yoga,7,Irritable
+P0199,Ovulation,3,Medication,4,Irritable
+P0200,Luteal,6,Medication,5,Happy
+P0201,Ovulation,3,Medication,1,Tired
+P0202,Luteal,1,Medication,2,Irritable
+P0203,Ovulation,6,None,4,Tired
+P0204,Follicular,3,Heating Pad,2,Happy
+P0205,Luteal,1,None,1,Neutral
+P0206,Luteal,5,Heating Pad,10,Irritable
+P0207,Ovulation,8,Medication,1,Irritable
+P0208,Menstrual,8,Yoga,6,Sad
+P0209,Menstrual,8,Heating Pad,2,Happy
+P0210,Menstrual,3,Heating Pad,3,Tired
+P0211,Ovulation,8,Medication,5,Irritable
+P0212,Luteal,4,Medication,3,Neutral
+P0213,Ovulation,8,Medication,6,Neutral
+P0214,Ovulation,3,Heating Pad,7,Sad
+P0215,Follicular,3,Yoga,10,Tired
+P0216,Follicular,1,Heating Pad,6,Sad
+P0217,Luteal,8,Medication,2,Happy
+P0218,Luteal,8,Medication,9,Neutral
+P0219,Luteal,9,None,2,Happy
+P0220,Luteal,6,Heating Pad,6,Irritable
+P0221,Follicular,2,Rest,9,Neutral
+P0222,Luteal,1,Medication,9,Sad
+P0223,Follicular,8,Heating Pad,2,Irritable
+P0224,Follicular,10,Medication,9,Sad
+P0225,Follicular,4,Heating Pad,8,Sad
+P0226,Luteal,7,Medication,7,Neutral
+P0227,Menstrual,10,Yoga,8,Irritable
+P0228,Menstrual,4,Medication,10,Happy
+P0229,Menstrual,1,Rest,8,Sad
+P0230,Menstrual,8,Medication,1,Sad
+P0231,Luteal,10,Heating Pad,9,Tired
+P0232,Ovulation,9,Heating Pad,6,Tired
+P0233,Follicular,10,Yoga,1,Irritable
+P0234,Ovulation,9,Medication,1,Sad
+P0235,Menstrual,9,Heating Pad,7,Tired
+P0236,Luteal,4,Heating Pad,10,Neutral
+P0237,Luteal,9,Medication,2,Happy
+P0238,Luteal,4,Heating Pad,6,Happy
+P0239,Follicular,2,Medication,5,Tired
+P0240,Luteal,10,Medication,5,Irritable
+P0241,Menstrual,3,Medication,10,Sad
+P0242,Menstrual,2,Rest,6,Sad
+P0243,Ovulation,1,Yoga,8,Neutral
+P0244,Ovulation,6,Heating Pad,5,Irritable
+P0245,Menstrual,4,Medication,8,Happy
+P0246,Follicular,7,Medication,5,Neutral
+P0247,Menstrual,7,Medication,10,Neutral
+P0248,Ovulation,10,None,6,Happy
+P0249,Follicular,1,Rest,8,Irritable
+P0250,Follicular,9,Medication,2,Neutral
+P0251,Ovulation,8,Heating Pad,7,Neutral
+P0252,Luteal,10,None,3,Happy
+P0253,Menstrual,1,Heating Pad,9,Irritable
+P0254,Follicular,8,Yoga,10,Neutral
+P0255,Ovulation,5,Rest,7,Sad
+P0256,Luteal,1,Heating Pad,3,Neutral
+P0257,Follicular,4,Yoga,8,Tired
+P0258,Ovulation,7,Medication,10,Happy
+P0259,Luteal,5,Rest,2,Sad
+P0260,Follicular,3,Heating Pad,10,Happy
+P0261,Follicular,4,Heating Pad,8,Sad
+P0262,Luteal,2,Medication,7,Tired
+P0263,Ovulation,8,Yoga,5,Tired
+P0264,Follicular,2,Heating Pad,4,Irritable
+P0265,Ovulation,6,Yoga,10,Tired
+P0266,Ovulation,7,None,10,Irritable
+P0267,Follicular,7,Medication,1,Happy
+P0268,Ovulation,1,Yoga,4,Irritable
+P0269,Luteal,8,Yoga,6,Irritable
+P0270,Luteal,9,Rest,6,Tired
+P0271,Luteal,7,Medication,2,Tired
+P0272,Luteal,8,Rest,9,Sad
+P0273,Menstrual,4,Rest,1,Irritable
+P0274,Menstrual,8,Medication,4,Happy
+P0275,Menstrual,3,Medication,4,Irritable
+P0276,Ovulation,1,Heating Pad,2,Irritable
+P0277,Luteal,8,Medication,8,Neutral
+P0278,Ovulation,6,Yoga,2,Sad
+P0279,Follicular,9,Rest,2,Neutral
+P0280,Ovulation,3,Rest,2,Happy
+P0281,Ovulation,8,Medication,1,Neutral
+P0282,Menstrual,9,Rest,5,Sad
+P0283,Luteal,9,Heating Pad,4,Tired
+P0284,Luteal,7,Rest,2,Irritable
+P0285,Menstrual,10,Rest,1,Sad
+P0286,Menstrual,3,Yoga,1,Neutral
+P0287,Menstrual,3,Heating Pad,2,Irritable
+P0288,Menstrual,2,Heating Pad,1,Neutral
+P0289,Luteal,1,Medication,9,Happy
+P0290,Follicular,2,Rest,2,Sad
+P0291,Follicular,5,Yoga,3,Tired
+P0292,Menstrual,1,Heating Pad,9,Sad
+P0293,Follicular,10,Medication,5,Neutral
+P0294,Follicular,4,Heating Pad,8,Irritable
+P0295,Menstrual,10,Heating Pad,7,Neutral
+P0296,Menstrual,10,Medication,6,Neutral
+P0297,Luteal,1,Heating Pad,2,Sad
+P0298,Menstrual,10,Heating Pad,4,Happy
+P0299,Follicular,8,Heating Pad,9,Happy
+P0300,Ovulation,5,Medication,7,Tired
+P0301,Follicular,10,None,3,Happy
+P0302,Luteal,4,Medication,6,Sad
+P0303,Follicular,3,Medication,8,Sad
+P0304,Follicular,9,Rest,8,Sad
+P0305,Follicular,6,Heating Pad,8,Irritable
+P0306,Menstrual,1,Medication,8,Irritable
+P0307,Luteal,8,None,10,Neutral
+P0308,Ovulation,10,Rest,6,Tired
+P0309,Menstrual,2,Medication,10,Sad
+P0310,Luteal,9,Rest,3,Irritable
+P0311,Menstrual,7,Rest,9,Tired
+P0312,Follicular,3,Heating Pad,3,Tired
+P0313,Luteal,4,Heating Pad,4,Tired
+P0314,Ovulation,3,Heating Pad,10,Happy
+P0315,Ovulation,6,Medication,1,Happy
+P0316,Luteal,9,Medication,2,Happy
+P0317,Luteal,10,Medication,6,Happy
+P0318,Luteal,9,Medication,1,Happy
+P0319,Ovulation,1,Medication,9,Sad
+P0320,Follicular,10,Medication,8,Neutral
+P0321,Luteal,6,Rest,2,Happy
+P0322,Menstrual,1,Heating Pad,2,Irritable
+P0323,Ovulation,4,Medication,8,Happy
+P0324,Follicular,7,Heating Pad,8,Sad
+P0325,Follicular,4,Medication,1,Irritable
+P0326,Menstrual,9,Heating Pad,5,Tired
+P0327,Luteal,10,Heating Pad,2,Happy
+P0328,Ovulation,5,Heating Pad,1,Sad
+P0329,Follicular,9,Medication,3,Irritable
+P0330,Ovulation,1,Medication,3,Happy
+P0331,Ovulation,4,Medication,10,Happy
+P0332,Ovulation,7,None,9,Neutral
+P0333,Follicular,2,Medication,10,Irritable
+P0334,Menstrual,9,Rest,1,Sad
+P0335,Menstrual,3,Medication,2,Neutral
+P0336,Menstrual,4,Medication,9,Tired
+P0337,Luteal,4,Heating Pad,5,Neutral
+P0338,Menstrual,8,Medication,9,Neutral
+P0339,Ovulation,2,Medication,6,Irritable
+P0340,Ovulation,5,Heating Pad,10,Irritable
+P0341,Follicular,2,Medication,10,Tired
+P0342,Menstrual,6,Heating Pad,3,Irritable
+P0343,Menstrual,9,Medication,8,Neutral
+P0344,Ovulation,9,Rest,9,Tired
+P0345,Menstrual,1,Heating Pad,2,Sad
+P0346,Luteal,4,Rest,9,Sad
+P0347,Ovulation,4,Rest,4,Sad
+P0348,Follicular,1,Medication,8,Happy
+P0349,Luteal,10,Medication,5,Happy
+P0350,Menstrual,2,Heating Pad,6,Irritable
+P0351,Menstrual,6,Heating Pad,4,Happy
+P0352,Ovulation,10,Medication,5,Happy
+P0353,Menstrual,3,Rest,1,Happy
+P0354,Menstrual,9,Medication,3,Tired
+P0355,Luteal,3,Heating Pad,4,Neutral
+P0356,Follicular,3,Medication,1,Neutral
+P0357,Menstrual,9,Medication,3,Happy
+P0358,Luteal,3,Heating Pad,4,Happy
+P0359,Ovulation,6,Heating Pad,9,Happy
+P0360,Follicular,6,Rest,3,Sad
+P0361,Follicular,1,Rest,3,Tired
+P0362,Follicular,7,Medication,4,Tired
+P0363,Luteal,9,Heating Pad,9,Irritable
+P0364,Follicular,9,Medication,9,Sad
+P0365,Ovulation,9,Medication,1,Tired
+P0366,Menstrual,2,Medication,8,Sad
+P0367,Luteal,1,Heating Pad,10,Happy
+P0368,Follicular,6,Heating Pad,1,Happy
+P0369,Follicular,6,Heating Pad,2,Sad
+P0370,Luteal,4,Heating Pad,10,Neutral
+P0371,Luteal,8,Rest,5,Sad
+P0372,Ovulation,5,Medication,6,Neutral
+P0373,Menstrual,7,Yoga,2,Happy
+P0374,Luteal,9,Heating Pad,10,Irritable
+P0375,Menstrual,1,Medication,5,Happy
+P0376,Ovulation,9,Yoga,3,Happy
+P0377,Luteal,4,Medication,7,Sad
+P0378,Luteal,7,Heating Pad,1,Irritable
+P0379,Luteal,4,Medication,5,Happy
+P0380,Luteal,4,Medication,3,Irritable
+P0381,Follicular,4,Rest,2,Tired
+P0382,Follicular,6,Heating Pad,3,Happy
+P0383,Menstrual,5,Medication,10,Tired
+P0384,Luteal,2,Heating Pad,4,Happy
+P0385,Follicular,9,Heating Pad,2,Sad
+P0386,Menstrual,6,Heating Pad,2,Neutral
+P0387,Follicular,10,Heating Pad,3,Sad
+P0388,Follicular,6,Medication,2,Irritable
+P0389,Follicular,9,Medication,6,Sad
+P0390,Luteal,1,Heating Pad,2,Sad
+P0391,Menstrual,7,Medication,1,Tired
+P0392,Luteal,3,Heating Pad,8,Irritable
+P0393,Luteal,4,Rest,10,Tired
+P0394,Follicular,1,Rest,4,Happy
+P0395,Ovulation,3,Medication,2,Neutral
+P0396,Luteal,7,Medication,4,Irritable
+P0397,Menstrual,6,Medication,2,Happy
+P0398,Follicular,1,Heating Pad,5,Irritable
+P0399,Luteal,9,Rest,7,Irritable
+P0400,Menstrual,4,None,6,Happy
+P0401,Follicular,7,Heating Pad,2,Tired
+P0402,Menstrual,4,Heating Pad,4,Sad
+P0403,Luteal,7,Medication,8,Sad
+P0404,Luteal,5,Medication,7,Neutral
+P0405,Luteal,1,Heating Pad,7,Sad
+P0406,Menstrual,4,Heating Pad,4,Irritable
+P0407,Menstrual,3,Medication,1,Tired
+P0408,Menstrual,6,Heating Pad,7,Neutral
+P0409,Follicular,6,Heating Pad,6,Sad
+P0410,Follicular,1,Heating Pad,8,Tired
+P0411,Menstrual,2,Medication,5,Neutral
+P0412,Menstrual,2,Rest,8,Happy
+P0413,Follicular,10,Medication,10,Sad
+P0414,Luteal,4,Heating Pad,8,Happy
+P0415,Luteal,9,Medication,9,Tired
+P0416,Luteal,2,Rest,1,Irritable
+P0417,Luteal,8,Rest,3,Irritable
+P0418,Follicular,1,Heating Pad,6,Tired
+P0419,Follicular,8,Heating Pad,4,Irritable
+P0420,Follicular,3,Yoga,8,Irritable
+P0421,Menstrual,5,Rest,10,Tired
+P0422,Menstrual,1,Medication,1,Sad
+P0423,Luteal,1,Medication,5,Irritable
+P0424,Menstrual,6,Medication,4,Tired
+P0425,Luteal,3,Heating Pad,1,Neutral
+P0426,Follicular,8,None,10,Sad
+P0427,Luteal,4,Medication,6,Irritable
+P0428,Menstrual,6,Heating Pad,10,Tired
+P0429,Ovulation,10,None,3,Happy
+P0430,Luteal,9,Heating Pad,5,Happy
+P0431,Follicular,8,Heating Pad,6,Happy
+P0432,Menstrual,4,Medication,4,Neutral
+P0433,Luteal,10,Heating Pad,10,Neutral
+P0434,Menstrual,8,Medication,10,Neutral
+P0435,Ovulation,7,Heating Pad,6,Tired
+P0436,Menstrual,5,Medication,7,Neutral
+P0437,Luteal,7,Heating Pad,2,Irritable
+P0438,Luteal,7,Heating Pad,7,Sad
+P0439,Ovulation,10,Medication,7,Happy
+P0440,Luteal,2,Medication,2,Happy
+P0441,Luteal,7,Medication,3,Neutral
+P0442,Follicular,3,Rest,3,Neutral
+P0443,Ovulation,8,Yoga,1,Sad
+P0444,Ovulation,8,Heating Pad,1,Sad
+P0445,Follicular,9,Heating Pad,10,Neutral
+P0446,Follicular,4,Medication,6,Happy
+P0447,Ovulation,10,Yoga,9,Tired
+P0448,Luteal,3,Medication,9,Tired
+P0449,Luteal,9,Heating Pad,1,Sad
+P0450,Luteal,9,Medication,7,Irritable
+P0451,Ovulation,2,Heating Pad,6,Happy
+P0452,Luteal,6,Yoga,4,Neutral
+P0453,Follicular,3,Heating Pad,3,Happy
+P0454,Luteal,5,Rest,9,Tired
+P0455,Menstrual,2,Rest,10,Happy
+P0456,Follicular,4,Heating Pad,5,Sad
+P0457,Menstrual,3,Yoga,8,Neutral
+P0458,Follicular,2,Medication,4,Sad
+P0459,Follicular,6,Yoga,4,Tired
+P0460,Follicular,3,Medication,6,Irritable
+P0461,Ovulation,4,Heating Pad,6,Tired
+P0462,Ovulation,6,Medication,3,Sad
+P0463,Menstrual,5,Medication,2,Happy
+P0464,Menstrual,4,Heating Pad,9,Irritable
+P0465,Menstrual,4,Rest,2,Irritable
+P0466,Menstrual,2,Heating Pad,9,Neutral
+P0467,Luteal,10,Medication,8,Irritable
+P0468,Luteal,4,Rest,10,Neutral
+P0469,Luteal,8,None,7,Neutral
+P0470,Follicular,5,Rest,5,Tired
+P0471,Ovulation,10,Rest,3,Irritable
+P0472,Luteal,10,Medication,2,Tired
+P0473,Luteal,8,None,8,Neutral
+P0474,Menstrual,6,Heating Pad,2,Sad
+P0475,Follicular,10,Yoga,8,Happy
+P0476,Ovulation,5,Rest,5,Tired
+P0477,Luteal,4,Medication,9,Irritable
+P0478,Luteal,10,Rest,4,Irritable
+P0479,Follicular,9,Medication,8,Sad
+P0480,Menstrual,10,Medication,7,Irritable
+P0481,Ovulation,5,Rest,8,Sad
+P0482,Menstrual,10,Medication,5,Irritable
+P0483,Ovulation,6,Heating Pad,2,Neutral
+P0484,Luteal,7,Yoga,7,Sad
+P0485,Luteal,1,Rest,3,Neutral
+P0486,Follicular,9,None,10,Irritable
+P0487,Follicular,8,Heating Pad,10,Neutral
+P0488,Follicular,5,Heating Pad,10,Neutral
+P0489,Ovulation,3,Heating Pad,10,Neutral
+P0490,Menstrual,5,Heating Pad,2,Neutral
+P0491,Menstrual,5,Heating Pad,3,Neutral
+P0492,Menstrual,9,Medication,4,Happy
+P0493,Ovulation,7,Medication,10,Sad
+P0494,Ovulation,2,Rest,7,Irritable
+P0495,Luteal,5,Medication,10,Happy
+P0496,Menstrual,9,Yoga,1,Sad
+P0497,Follicular,2,Rest,6,Neutral
+P0498,Menstrual,8,Medication,6,Irritable
+P0499,Menstrual,3,Rest,8,Tired
+P0500,Follicular,4,Yoga,2,Sad
+P0501,Ovulation,2,Heating Pad,2,Tired
+P0502,Luteal,9,Medication,1,Sad
+P0503,Follicular,6,Medication,3,Sad
+P0504,Luteal,9,Rest,7,Tired
+P0505,Follicular,8,Medication,8,Sad
+P0506,Ovulation,9,Rest,7,Neutral
+P0507,Menstrual,5,Heating Pad,9,Happy
+P0508,Menstrual,6,Rest,8,Tired
+P0509,Ovulation,7,Heating Pad,8,Tired
+P0510,Menstrual,5,Medication,2,Happy
+P0511,Menstrual,1,None,1,Neutral
+P0512,Ovulation,9,Medication,6,Happy
+P0513,Luteal,2,Medication,7,Sad
+P0514,Ovulation,7,Heating Pad,6,Happy
+P0515,Luteal,8,Heating Pad,7,Neutral
+P0516,Ovulation,8,Medication,8,Happy
+P0517,Luteal,1,Medication,2,Happy
+P0518,Luteal,10,Yoga,1,Irritable
+P0519,Luteal,7,Heating Pad,10,Irritable
+P0520,Menstrual,9,Medication,8,Irritable
+P0521,Ovulation,3,None,8,Irritable
+P0522,Follicular,8,Yoga,8,Tired
+P0523,Ovulation,8,Medication,10,Sad
+P0524,Ovulation,9,Heating Pad,7,Sad
+P0525,Follicular,8,Rest,2,Happy
+P0526,Menstrual,5,Heating Pad,4,Tired
+P0527,Menstrual,5,Medication,9,Neutral
+P0528,Follicular,3,None,8,Neutral
+P0529,Follicular,6,None,4,Neutral
+P0530,Luteal,10,Medication,8,Neutral
+P0531,Menstrual,3,Rest,10,Sad
+P0532,Menstrual,2,Heating Pad,6,Sad
+P0533,Ovulation,7,Heating Pad,9,Neutral
+P0534,Ovulation,10,Medication,1,Happy
+P0535,Ovulation,3,Heating Pad,6,Sad
+P0536,Ovulation,4,Heating Pad,4,Sad
+P0537,Ovulation,10,Medication,3,Happy
+P0538,Follicular,8,None,5,Tired
+P0539,Menstrual,1,Medication,10,Happy
+P0540,Menstrual,9,Medication,8,Sad
+P0541,Menstrual,6,Yoga,10,Happy
+P0542,Follicular,2,Medication,6,Happy
+P0543,Luteal,3,Heating Pad,1,Tired
+P0544,Ovulation,5,None,6,Tired
+P0545,Ovulation,6,Yoga,7,Tired
+P0546,Menstrual,9,Heating Pad,6,Happy
+P0547,Ovulation,2,Medication,3,Happy
+P0548,Luteal,5,Rest,9,Irritable
+P0549,Menstrual,7,Yoga,10,Sad
+P0550,Luteal,7,Yoga,10,Tired
+P0551,Luteal,4,Heating Pad,4,Irritable
+P0552,Luteal,3,Medication,5,Happy
+P0553,Luteal,8,Medication,5,Happy
+P0554,Follicular,2,Medication,3,Sad
+P0555,Follicular,5,Rest,2,Irritable
+P0556,Ovulation,10,Yoga,8,Tired
+P0557,Ovulation,5,Heating Pad,7,Sad
+P0558,Ovulation,1,Yoga,5,Irritable
+P0559,Ovulation,7,Medication,1,Happy
+P0560,Menstrual,4,Heating Pad,10,Sad
+P0561,Ovulation,10,Heating Pad,1,Happy
+P0562,Follicular,2,Heating Pad,8,Neutral
+P0563,Ovulation,8,Heating Pad,4,Sad
+P0564,Luteal,4,Medication,4,Tired
+P0565,Follicular,1,Rest,9,Irritable
+P0566,Follicular,8,None,2,Tired
+P0567,Luteal,7,Rest,5,Neutral
+P0568,Luteal,3,Heating Pad,6,Irritable
+P0569,Menstrual,3,Medication,6,Irritable
+P0570,Menstrual,7,Rest,10,Sad
+P0571,Luteal,2,Medication,3,Irritable
+P0572,Follicular,5,Yoga,10,Happy
+P0573,Ovulation,7,Heating Pad,6,Sad
+P0574,Menstrual,6,Medication,10,Irritable
+P0575,Luteal,10,Medication,10,Sad
+P0576,Menstrual,7,None,5,Happy
+P0577,Ovulation,2,Medication,8,Happy
+P0578,Ovulation,7,Rest,4,Happy
+P0579,Ovulation,2,Rest,10,Neutral
+P0580,Menstrual,7,Heating Pad,10,Irritable
+P0581,Follicular,8,Medication,3,Sad
+P0582,Ovulation,10,Medication,6,Neutral
+P0583,Follicular,8,Medication,10,Irritable
+P0584,Luteal,5,Rest,9,Neutral
+P0585,Ovulation,7,Heating Pad,8,Happy
+P0586,Ovulation,8,Medication,10,Irritable
+P0587,Ovulation,4,Heating Pad,8,Neutral
+P0588,Follicular,2,Heating Pad,3,Tired
+P0589,Luteal,7,Medication,1,Tired
+P0590,Luteal,1,Heating Pad,3,Sad
+P0591,Follicular,2,Rest,3,Sad
+P0592,Follicular,10,Heating Pad,6,Happy
+P0593,Menstrual,7,Heating Pad,3,Tired
+P0594,Menstrual,10,Rest,2,Tired
+P0595,Menstrual,1,Yoga,9,Sad
+P0596,Menstrual,7,Heating Pad,6,Irritable
+P0597,Luteal,5,Medication,5,Happy
+P0598,Menstrual,3,Yoga,3,Tired
+P0599,Ovulation,2,None,7,Irritable
+P0600,Follicular,7,None,7,Sad
+P0601,Luteal,9,Medication,4,Sad
+P0602,Luteal,9,Heating Pad,10,Irritable
+P0603,Luteal,10,Medication,2,Happy
+P0604,Ovulation,10,Medication,2,Irritable
+P0605,Follicular,8,Heating Pad,8,Neutral
+P0606,Luteal,2,Heating Pad,4,Neutral
+P0607,Luteal,1,Medication,7,Happy
+P0608,Follicular,8,Heating Pad,3,Happy
+P0609,Ovulation,2,Medication,9,Sad
+P0610,Menstrual,4,Medication,10,Tired
+P0611,Ovulation,4,Medication,9,Irritable
+P0612,Follicular,2,Heating Pad,7,Tired
+P0613,Luteal,4,Rest,7,Tired
+P0614,Follicular,7,Medication,1,Sad
+P0615,Luteal,6,Heating Pad,10,Sad
+P0616,Menstrual,10,Heating Pad,8,Tired
+P0617,Menstrual,6,Medication,2,Happy
+P0618,Follicular,4,Heating Pad,8,Sad
+P0619,Follicular,2,Heating Pad,2,Happy
+P0620,Follicular,5,Yoga,1,Sad
+P0621,Menstrual,3,Medication,8,Happy
+P0622,Follicular,3,None,4,Irritable
+P0623,Luteal,4,Medication,10,Irritable
+P0624,Menstrual,5,Heating Pad,6,Sad
+P0625,Menstrual,2,Yoga,10,Tired
+P0626,Luteal,6,Heating Pad,10,Tired
+P0627,Ovulation,6,Medication,1,Irritable
+P0628,Ovulation,8,Heating Pad,9,Tired
+P0629,Luteal,2,Yoga,7,Sad
+P0630,Ovulation,8,Medication,5,Irritable
+P0631,Follicular,8,Heating Pad,6,Irritable
+P0632,Follicular,4,Yoga,3,Sad
+P0633,Menstrual,7,Heating Pad,9,Happy
+P0634,Follicular,7,Medication,2,Sad
+P0635,Luteal,1,Rest,10,Sad
+P0636,Follicular,1,Heating Pad,1,Neutral
+P0637,Luteal,8,Heating Pad,1,Tired
+P0638,Ovulation,1,Rest,10,Sad
+P0639,Luteal,3,Heating Pad,2,Tired
+P0640,Ovulation,6,Medication,6,Irritable
+P0641,Ovulation,8,Heating Pad,6,Happy
+P0642,Luteal,5,Medication,9,Neutral
+P0643,Follicular,5,Yoga,10,Sad
+P0644,Menstrual,4,Medication,4,Irritable
+P0645,Luteal,4,Heating Pad,8,Irritable
+P0646,Ovulation,7,Medication,4,Sad
+P0647,Ovulation,6,Medication,3,Tired
+P0648,Luteal,8,Heating Pad,4,Sad
+P0649,Luteal,6,Heating Pad,1,Irritable
+P0650,Follicular,10,Medication,9,Irritable
+P0651,Menstrual,7,Yoga,5,Sad
+P0652,Menstrual,10,Medication,7,Happy
+P0653,Luteal,10,Medication,3,Happy
+P0654,Follicular,5,Heating Pad,5,Sad
+P0655,Follicular,6,None,10,Tired
+P0656,Ovulation,1,Medication,4,Irritable
+P0657,Menstrual,3,Medication,7,Sad
+P0658,Luteal,8,Medication,5,Sad
+P0659,Follicular,3,Medication,2,Tired
+P0660,Follicular,1,Medication,3,Irritable
+P0661,Follicular,3,Medication,8,Neutral
+P0662,Ovulation,4,Heating Pad,3,Sad
+P0663,Follicular,8,Medication,7,Happy
+P0664,Luteal,9,Medication,5,Tired
+P0665,Menstrual,4,Medication,7,Tired
+P0666,Ovulation,7,Rest,10,Tired
+P0667,Luteal,1,Medication,9,Irritable
+P0668,Ovulation,9,Rest,7,Tired
+P0669,Menstrual,4,Heating Pad,6,Irritable
+P0670,Ovulation,9,Medication,1,Neutral
+P0671,Follicular,3,Rest,4,Happy
+P0672,Ovulation,5,Rest,8,Sad
+P0673,Follicular,1,Heating Pad,1,Sad
+P0674,Menstrual,3,Medication,6,Neutral
+P0675,Menstrual,5,Medication,2,Happy
+P0676,Ovulation,6,Rest,9,Tired
+P0677,Luteal,8,Medication,8,Neutral
+P0678,Follicular,1,Heating Pad,9,Sad
+P0679,Menstrual,3,Yoga,9,Neutral
+P0680,Ovulation,1,Medication,2,Happy
+P0681,Follicular,5,Heating Pad,2,Neutral
+P0682,Ovulation,8,Yoga,9,Neutral
+P0683,Ovulation,4,Heating Pad,2,Neutral
+P0684,Follicular,9,Heating Pad,4,Sad
+P0685,Menstrual,6,Rest,2,Happy
+P0686,Menstrual,6,Medication,1,Irritable
+P0687,Ovulation,5,Medication,10,Neutral
+P0688,Ovulation,10,Medication,7,Neutral
+P0689,Menstrual,5,Medication,5,Sad
+P0690,Luteal,7,Heating Pad,3,Happy
+P0691,Luteal,8,Heating Pad,8,Neutral
+P0692,Follicular,7,Medication,5,Happy
+P0693,Menstrual,1,Rest,1,Sad
+P0694,Luteal,1,Heating Pad,9,Happy
+P0695,Luteal,10,Medication,5,Happy
+P0696,Follicular,6,Heating Pad,3,Happy
+P0697,Follicular,3,Rest,6,Irritable
+P0698,Follicular,9,Heating Pad,8,Happy
+P0699,Ovulation,7,Rest,2,Tired
+P0700,Luteal,2,Medication,3,Happy
+P0701,Luteal,3,Medication,7,Sad
+P0702,Luteal,8,Medication,2,Sad
+P0703,Ovulation,1,Medication,5,Irritable
+P0704,Ovulation,5,Medication,9,Irritable
+P0705,Menstrual,10,Heating Pad,7,Tired
+P0706,Follicular,1,Medication,3,Tired
+P0707,Follicular,9,Medication,2,Neutral
+P0708,Follicular,7,Medication,10,Neutral
+P0709,Luteal,5,Medication,9,Happy
+P0710,Ovulation,6,None,9,Sad
+P0711,Luteal,3,None,9,Tired
+P0712,Menstrual,3,Medication,10,Tired
+P0713,Ovulation,7,Rest,3,Neutral
+P0714,Follicular,7,Medication,1,Neutral
+P0715,Menstrual,7,Medication,9,Neutral
+P0716,Ovulation,2,Heating Pad,7,Sad
+P0717,Menstrual,2,Yoga,2,Neutral
+P0718,Luteal,5,Heating Pad,6,Happy
+P0719,Ovulation,4,Yoga,9,Neutral
+P0720,Follicular,7,Medication,8,Happy
+P0721,Ovulation,3,Medication,6,Tired
+P0722,Follicular,5,Medication,6,Neutral
+P0723,Ovulation,2,Heating Pad,8,Tired
+P0724,Menstrual,1,Rest,9,Tired
+P0725,Menstrual,9,Medication,8,Irritable
+P0726,Follicular,4,Yoga,1,Sad
+P0727,Follicular,8,Medication,2,Sad
+P0728,Menstrual,7,Medication,6,Tired
+P0729,Ovulation,1,Yoga,8,Tired
+P0730,Ovulation,10,Heating Pad,4,Sad
+P0731,Ovulation,7,Heating Pad,4,Happy
+P0732,Ovulation,2,Heating Pad,2,Irritable
+P0733,Menstrual,3,Medication,10,Irritable
+P0734,Ovulation,1,Rest,1,Irritable
+P0735,Menstrual,7,Heating Pad,10,Sad
+P0736,Ovulation,3,Medication,9,Irritable
+P0737,Follicular,6,Yoga,7,Irritable
+P0738,Follicular,7,Medication,9,Sad
+P0739,Menstrual,3,Medication,2,Happy
+P0740,Luteal,2,Heating Pad,10,Happy
+P0741,Luteal,9,Rest,5,Irritable
+P0742,Luteal,9,Heating Pad,2,Neutral
+P0743,Luteal,7,Heating Pad,10,Sad
+P0744,Ovulation,5,Medication,7,Sad
+P0745,Ovulation,4,Rest,9,Happy
+P0746,Follicular,4,None,3,Happy
+P0747,Luteal,1,Medication,1,Tired
+P0748,Ovulation,4,Yoga,4,Neutral
+P0749,Ovulation,7,Heating Pad,4,Happy
+P0750,Luteal,5,Medication,6,Happy
+P0751,Ovulation,9,Rest,5,Sad
+P0752,Ovulation,4,Medication,5,Happy
+P0753,Follicular,3,Heating Pad,9,Tired
+P0754,Luteal,6,Medication,1,Sad
+P0755,Luteal,4,Medication,8,Neutral
+P0756,Ovulation,2,Medication,8,Neutral
+P0757,Luteal,5,Rest,8,Happy
+P0758,Menstrual,4,Rest,3,Irritable
+P0759,Ovulation,5,None,10,Irritable
+P0760,Luteal,9,Medication,8,Tired
+P0761,Menstrual,4,Heating Pad,2,Neutral
+P0762,Luteal,6,Medication,8,Happy
+P0763,Menstrual,4,Medication,8,Tired
+P0764,Luteal,1,Yoga,3,Tired
+P0765,Luteal,2,Heating Pad,4,Tired
+P0766,Luteal,6,Medication,9,Irritable
+P0767,Luteal,8,Yoga,9,Tired
+P0768,Luteal,9,Heating Pad,10,Neutral
+P0769,Menstrual,4,Rest,9,Tired
+P0770,Menstrual,6,Heating Pad,10,Tired
+P0771,Luteal,3,Medication,6,Tired
+P0772,Menstrual,9,Yoga,1,Neutral
+P0773,Ovulation,8,Yoga,8,Irritable
+P0774,Menstrual,1,Medication,9,Neutral
+P0775,Luteal,2,Yoga,8,Happy
+P0776,Menstrual,10,Medication,1,Neutral
+P0777,Menstrual,9,Rest,6,Sad
+P0778,Luteal,10,Heating Pad,9,Sad
+P0779,Luteal,3,Medication,9,Sad
+P0780,Menstrual,3,Medication,7,Happy
+P0781,Follicular,10,Heating Pad,7,Sad
+P0782,Menstrual,9,Heating Pad,4,Happy
+P0783,Ovulation,3,Heating Pad,7,Neutral
+P0784,Follicular,10,Medication,10,Tired
+P0785,Follicular,5,Yoga,5,Sad
+P0786,Luteal,6,Medication,10,Irritable
+P0787,Follicular,3,Heating Pad,5,Tired
+P0788,Ovulation,10,Rest,1,Tired
+P0789,Luteal,8,Heating Pad,2,Tired
+P0790,Luteal,2,Rest,9,Irritable
+P0791,Luteal,6,Rest,2,Tired
+P0792,Ovulation,2,Heating Pad,10,Neutral
+P0793,Ovulation,9,Heating Pad,2,Happy
+P0794,Ovulation,6,Medication,9,Neutral
+P0795,Ovulation,9,Medication,3,Happy
+P0796,Ovulation,4,Yoga,2,Sad
+P0797,Luteal,3,Medication,7,Tired
+P0798,Follicular,2,Yoga,9,Neutral
+P0799,Luteal,8,Yoga,6,Neutral
+P0800,Follicular,4,None,7,Sad
+P0801,Menstrual,2,Heating Pad,3,Neutral
+P0802,Menstrual,9,Medication,3,Sad
+P0803,Ovulation,8,Medication,8,Tired
+P0804,Ovulation,5,Medication,7,Sad
+P0805,Luteal,8,Medication,5,Happy
+P0806,Ovulation,5,Medication,6,Neutral
+P0807,Luteal,7,Medication,9,Sad
+P0808,Luteal,5,Medication,3,Happy
+P0809,Luteal,5,Rest,3,Happy
+P0810,Luteal,4,Medication,6,Tired
+P0811,Luteal,5,Heating Pad,8,Neutral
+P0812,Menstrual,7,Medication,5,Happy
+P0813,Follicular,3,Heating Pad,1,Neutral
+P0814,Menstrual,4,Heating Pad,3,Tired
+P0815,Ovulation,8,Heating Pad,8,Happy
+P0816,Ovulation,6,Medication,4,Happy
+P0817,Ovulation,8,Medication,9,Neutral
+P0818,Follicular,2,Yoga,6,Happy
+P0819,Follicular,9,Yoga,10,Tired
+P0820,Luteal,7,Heating Pad,4,Sad
+P0821,Luteal,5,Medication,4,Irritable
+P0822,Follicular,7,Rest,10,Happy
+P0823,Ovulation,2,Rest,5,Irritable
+P0824,Menstrual,4,Medication,7,Tired
+P0825,Luteal,7,Rest,7,Tired
+P0826,Menstrual,2,Heating Pad,10,Neutral
+P0827,Follicular,8,Heating Pad,7,Irritable
+P0828,Ovulation,10,Heating Pad,5,Neutral
+P0829,Follicular,10,Medication,9,Happy
+P0830,Luteal,5,None,2,Happy
+P0831,Follicular,5,Heating Pad,8,Happy
+P0832,Luteal,8,Medication,10,Neutral
+P0833,Luteal,1,Medication,8,Tired
+P0834,Menstrual,6,Medication,3,Neutral
+P0835,Follicular,2,Medication,5,Sad
+P0836,Luteal,1,Medication,8,Irritable
+P0837,Menstrual,7,Rest,10,Happy
+P0838,Follicular,4,Heating Pad,9,Sad
+P0839,Ovulation,1,Medication,7,Sad
+P0840,Follicular,10,Medication,4,Irritable
+P0841,Luteal,6,Rest,4,Tired
+P0842,Ovulation,10,Medication,3,Tired
+P0843,Follicular,6,Heating Pad,8,Sad
+P0844,Luteal,3,Medication,6,Irritable
+P0845,Luteal,6,Medication,10,Neutral
+P0846,Luteal,10,Medication,6,Irritable
+P0847,Ovulation,9,Heating Pad,10,Neutral
+P0848,Ovulation,6,Heating Pad,10,Neutral
+P0849,Luteal,1,Heating Pad,9,Tired
+P0850,Menstrual,10,Yoga,3,Happy
+P0851,Follicular,6,Heating Pad,4,Tired
+P0852,Ovulation,8,Medication,3,Neutral
+P0853,Menstrual,7,Yoga,3,Tired
+P0854,Follicular,8,Medication,1,Sad
+P0855,Menstrual,8,Heating Pad,10,Tired
+P0856,Follicular,9,Medication,6,Sad
+P0857,Follicular,3,Rest,9,Irritable
+P0858,Menstrual,7,None,5,Happy
+P0859,Ovulation,6,Heating Pad,10,Happy
+P0860,Luteal,2,None,2,Sad
+P0861,Luteal,5,Heating Pad,10,Tired
+P0862,Menstrual,3,Yoga,4,Neutral
+P0863,Ovulation,5,Yoga,6,Happy
+P0864,Follicular,9,Rest,7,Tired
+P0865,Menstrual,8,Medication,7,Happy
+P0866,Follicular,9,Medication,4,Happy
+P0867,Ovulation,9,Medication,10,Tired
+P0868,Follicular,8,Medication,10,Irritable
+P0869,Follicular,8,Heating Pad,5,Happy
+P0870,Menstrual,6,Medication,4,Sad
+P0871,Luteal,6,Heating Pad,10,Tired
+P0872,Follicular,6,Rest,6,Neutral
+P0873,Menstrual,10,Yoga,7,Happy
+P0874,Menstrual,6,Heating Pad,2,Irritable
+P0875,Ovulation,9,Heating Pad,10,Tired
+P0876,Menstrual,10,Heating Pad,3,Neutral
+P0877,Follicular,1,Medication,8,Neutral
+P0878,Ovulation,10,Medication,7,Tired
+P0879,Ovulation,6,Rest,1,Neutral
+P0880,Luteal,8,Medication,4,Happy
+P0881,Ovulation,1,Heating Pad,5,Tired
+P0882,Menstrual,6,Rest,3,Tired
+P0883,Follicular,9,Yoga,4,Tired
+P0884,Menstrual,6,Heating Pad,10,Sad
+P0885,Luteal,2,Heating Pad,10,Neutral
+P0886,Menstrual,1,Yoga,10,Tired
+P0887,Ovulation,4,Medication,7,Neutral
+P0888,Follicular,6,Heating Pad,8,Irritable
+P0889,Luteal,10,None,9,Irritable
+P0890,Follicular,10,Rest,2,Tired
+P0891,Menstrual,9,Heating Pad,4,Happy
+P0892,Menstrual,5,Yoga,1,Happy
+P0893,Follicular,7,Yoga,3,Happy
+P0894,Luteal,6,Medication,8,Sad
+P0895,Luteal,6,Heating Pad,7,Happy
+P0896,Follicular,9,Heating Pad,8,Happy
+P0897,Follicular,5,Medication,6,Sad
+P0898,Menstrual,2,None,5,Sad
+P0899,Ovulation,8,Yoga,10,Tired
+P0900,Menstrual,3,Yoga,9,Sad
+P0901,Luteal,9,Rest,5,Irritable
+P0902,Follicular,5,Rest,9,Sad
+P0903,Luteal,1,Medication,4,Irritable
+P0904,Menstrual,4,Heating Pad,5,Neutral
+P0905,Follicular,9,Heating Pad,1,Neutral
+P0906,Ovulation,1,Heating Pad,6,Happy
+P0907,Luteal,8,Rest,3,Sad
+P0908,Ovulation,8,Rest,10,Neutral
+P0909,Ovulation,9,Medication,2,Neutral
+P0910,Luteal,9,Heating Pad,6,Irritable
+P0911,Ovulation,6,Heating Pad,1,Sad
+P0912,Follicular,5,Rest,9,Tired
+P0913,Menstrual,7,Medication,5,Irritable
+P0914,Ovulation,9,Rest,7,Neutral
+P0915,Menstrual,5,Medication,10,Happy
+P0916,Ovulation,3,Medication,9,Happy
+P0917,Follicular,9,Medication,9,Happy
+P0918,Menstrual,10,Yoga,7,Neutral
+P0919,Luteal,1,Rest,4,Sad
+P0920,Follicular,1,Yoga,4,Irritable
+P0921,Ovulation,10,Heating Pad,7,Irritable
+P0922,Follicular,4,Heating Pad,8,Neutral
+P0923,Luteal,2,Heating Pad,7,Happy
+P0924,Follicular,7,Medication,10,Irritable
+P0925,Luteal,2,Rest,4,Irritable
+P0926,Ovulation,7,Yoga,4,Happy
+P0927,Follicular,8,Medication,8,Sad
+P0928,Follicular,8,Heating Pad,9,Irritable
+P0929,Follicular,3,Medication,7,Happy
+P0930,Menstrual,9,Heating Pad,3,Sad
+P0931,Follicular,10,Heating Pad,10,Irritable
+P0932,Menstrual,10,Heating Pad,1,Tired
+P0933,Menstrual,10,Medication,5,Neutral
+P0934,Follicular,6,Rest,6,Happy
+P0935,Luteal,4,Heating Pad,9,Tired
+P0936,Luteal,8,Rest,5,Tired
+P0937,Menstrual,4,None,1,Neutral
+P0938,Luteal,4,Yoga,4,Sad
+P0939,Menstrual,8,Rest,2,Irritable
+P0940,Menstrual,4,Medication,4,Neutral
+P0941,Menstrual,1,Heating Pad,7,Happy
+P0942,Ovulation,6,None,9,Neutral
+P0943,Follicular,8,Medication,3,Sad
+P0944,Follicular,3,Yoga,3,Neutral
+P0945,Follicular,2,Yoga,4,Sad
+P0946,Follicular,6,Rest,7,Irritable
+P0947,Luteal,1,Medication,6,Tired
+P0948,Menstrual,5,Medication,5,Neutral
+P0949,Menstrual,6,Medication,4,Irritable
+P0950,Follicular,8,None,8,Neutral
+P0951,Menstrual,7,Heating Pad,4,Tired
+P0952,Follicular,6,Rest,3,Tired
+P0953,Menstrual,2,Rest,7,Irritable
+P0954,Luteal,8,Heating Pad,2,Happy
+P0955,Menstrual,8,Medication,4,Happy
+P0956,Ovulation,5,Rest,8,Sad
+P0957,Luteal,3,Heating Pad,4,Neutral
+P0958,Menstrual,8,Medication,10,Happy
+P0959,Follicular,5,Heating Pad,7,Tired
+P0960,Luteal,3,None,2,Sad
+P0961,Luteal,9,None,5,Happy
+P0962,Ovulation,9,Heating Pad,4,Neutral
+P0963,Luteal,7,Medication,9,Happy
+P0964,Follicular,8,Heating Pad,7,Tired
+P0965,Menstrual,5,Heating Pad,9,Neutral
+P0966,Menstrual,5,Medication,10,Irritable
+P0967,Luteal,5,Medication,7,Irritable
+P0968,Menstrual,2,Rest,2,Neutral
+P0969,Menstrual,3,Medication,2,Sad
+P0970,Menstrual,8,Heating Pad,2,Happy
+P0971,Luteal,6,Heating Pad,5,Irritable
+P0972,Menstrual,9,Medication,1,Tired
+P0973,Luteal,7,Heating Pad,7,Neutral
+P0974,Luteal,6,Heating Pad,2,Tired
+P0975,Ovulation,4,Medication,4,Irritable
+P0976,Luteal,7,Heating Pad,9,Irritable
+P0977,Luteal,4,Rest,8,Tired
+P0978,Luteal,7,Heating Pad,10,Irritable
+P0979,Menstrual,5,Medication,2,Sad
+P0980,Menstrual,2,Rest,4,Sad
+P0981,Menstrual,7,Rest,4,Tired
+P0982,Ovulation,8,Medication,2,Tired
+P0983,Follicular,10,Medication,2,Neutral
+P0984,Luteal,2,Rest,5,Sad
+P0985,Luteal,6,Heating Pad,4,Tired
+P0986,Luteal,4,Medication,8,Happy
+P0987,Menstrual,5,Medication,4,Tired
+P0988,Menstrual,1,Yoga,8,Tired
+P0989,Follicular,6,Medication,5,Neutral
+P0990,Ovulation,8,Heating Pad,1,Happy
+P0991,Menstrual,2,Yoga,9,Neutral
+P0992,Luteal,1,Medication,8,Happy
+P0993,Menstrual,9,Rest,1,Irritable
+P0994,Luteal,2,Medication,3,Irritable
+P0995,Menstrual,8,Heating Pad,3,Happy
+P0996,Follicular,5,Rest,5,Sad
+P0997,Ovulation,2,Heating Pad,7,Tired
+P0998,Menstrual,5,Medication,1,Sad
+P0999,Follicular,9,Heating Pad,1,Tired
+P1000,Menstrual,6,Medication,10,Irritable
+P1001,Ovulation,3,Yoga,6,Sad
+P1002,Menstrual,8,Medication,5,Tired
+P1003,Menstrual,1,Heating Pad,3,Irritable
+P1004,Luteal,9,Rest,3,Sad
+P1005,Menstrual,9,Medication,4,Sad
+P1006,Ovulation,4,Medication,10,Tired
+P1007,Luteal,8,Medication,2,Sad
+P1008,Ovulation,3,Heating Pad,9,Happy
+P1009,Follicular,6,None,4,Sad
+P1010,Luteal,10,Medication,10,Tired
+P1011,Luteal,10,Medication,3,Happy
+P1012,Luteal,8,Heating Pad,10,Neutral
+P1013,Follicular,9,Medication,7,Happy
+P1014,Follicular,8,Heating Pad,9,Tired
+P1015,Ovulation,9,Medication,2,Neutral
+P1016,Ovulation,4,Medication,6,Sad
+P1017,Ovulation,10,Heating Pad,5,Happy
+P1018,Luteal,1,Medication,1,Neutral
+P1019,Luteal,7,Rest,7,Neutral
+P1020,Menstrual,10,Medication,1,Sad
+P1021,Luteal,4,Heating Pad,10,Sad
+P1022,Follicular,1,Rest,9,Neutral
+P1023,Menstrual,3,Rest,4,Neutral
+P1024,Luteal,7,Heating Pad,8,Neutral
+P1025,Follicular,3,Heating Pad,1,Neutral
+P1026,Luteal,1,Yoga,5,Happy
+P1027,Luteal,7,Rest,3,Tired
+P1028,Ovulation,8,Medication,4,Irritable
+P1029,Ovulation,5,Medication,4,Irritable
+P1030,Luteal,6,Medication,8,Happy
+P1031,Luteal,3,Medication,10,Neutral
+P1032,Follicular,5,Yoga,10,Irritable
+P1033,Menstrual,3,Heating Pad,3,Neutral
+P1034,Ovulation,2,Medication,1,Neutral
+P1035,Menstrual,7,Rest,5,Irritable
+P1036,Menstrual,10,Medication,2,Tired
+P1037,Follicular,7,Rest,6,Happy
+P1038,Menstrual,8,Yoga,4,Neutral
+P1039,Menstrual,1,Medication,9,Tired
+P1040,Luteal,2,Medication,7,Happy
+P1041,Menstrual,2,Medication,2,Happy
+P1042,Luteal,3,Rest,7,Tired
+P1043,Follicular,7,Heating Pad,10,Happy
+P1044,Follicular,7,Medication,8,Happy
+P1045,Menstrual,7,Rest,3,Sad
+P1046,Ovulation,1,Yoga,3,Happy
+P1047,Ovulation,2,Rest,2,Sad
+P1048,Follicular,8,Heating Pad,1,Happy
+P1049,Luteal,9,Rest,3,Sad
+P1050,Follicular,10,Heating Pad,10,Happy
+P1051,Menstrual,7,Heating Pad,7,Neutral
+P1052,Luteal,1,Medication,9,Tired
+P1053,Menstrual,4,Yoga,9,Irritable
+P1054,Ovulation,10,Medication,6,Sad
+P1055,Follicular,8,Heating Pad,6,Happy
+P1056,Ovulation,5,Medication,5,Tired
+P1057,Ovulation,1,Heating Pad,2,Tired
+P1058,Luteal,7,None,7,Neutral
+P1059,Ovulation,6,Medication,1,Neutral
+P1060,Luteal,9,Medication,6,Sad
+P1061,Ovulation,4,Medication,4,Neutral
+P1062,Follicular,4,Heating Pad,3,Tired
+P1063,Follicular,8,None,1,Neutral
+P1064,Menstrual,4,Yoga,6,Neutral
+P1065,Follicular,3,Heating Pad,7,Neutral
+P1066,Luteal,7,Yoga,1,Sad
+P1067,Menstrual,5,Yoga,1,Tired
+P1068,Menstrual,9,Medication,7,Tired
+P1069,Follicular,5,Rest,6,Tired
+P1070,Luteal,9,Yoga,7,Happy
+P1071,Ovulation,6,Heating Pad,8,Irritable
+P1072,Ovulation,6,Medication,8,Tired
+P1073,Follicular,6,Medication,9,Irritable
+P1074,Menstrual,7,Heating Pad,9,Irritable
+P1075,Ovulation,4,Heating Pad,7,Irritable
+P1076,Ovulation,4,Medication,9,Happy
+P1077,Menstrual,9,Heating Pad,6,Neutral
+P1078,Luteal,7,Medication,9,Neutral
+P1079,Ovulation,10,Heating Pad,2,Irritable
+P1080,Follicular,6,Medication,2,Happy
+P1081,Ovulation,1,Rest,6,Tired
+P1082,Ovulation,7,Medication,3,Sad
+P1083,Luteal,6,Heating Pad,2,Irritable
+P1084,Follicular,4,Rest,8,Sad
+P1085,Menstrual,8,Rest,7,Irritable
+P1086,Ovulation,7,Heating Pad,8,Sad
+P1087,Follicular,8,Medication,6,Tired
+P1088,Menstrual,9,Yoga,9,Tired
+P1089,Ovulation,1,Medication,9,Happy
+P1090,Ovulation,3,None,2,Neutral
+P1091,Menstrual,2,Heating Pad,10,Neutral
+P1092,Luteal,3,Medication,5,Neutral
+P1093,Luteal,2,Heating Pad,9,Irritable
+P1094,Luteal,6,Medication,3,Irritable
+P1095,Luteal,9,Medication,5,Irritable
+P1096,Ovulation,2,Heating Pad,8,Irritable
+P1097,Ovulation,4,Heating Pad,2,Sad
+P1098,Follicular,5,Medication,6,Sad
+P1099,Luteal,5,None,4,Tired
+P1100,Ovulation,1,Medication,6,Tired
+P1101,Luteal,6,Medication,3,Irritable
+P1102,Ovulation,5,Medication,6,Happy
+P1103,Follicular,6,Medication,7,Tired
+P1104,Ovulation,4,Medication,10,Happy
+P1105,Luteal,6,Medication,3,Irritable
+P1106,Follicular,9,Rest,5,Sad
+P1107,Luteal,1,Heating Pad,8,Sad
+P1108,Follicular,6,Medication,2,Irritable
+P1109,Menstrual,1,Medication,7,Neutral
+P1110,Follicular,7,Rest,1,Neutral
+P1111,Menstrual,4,Medication,7,Tired
+P1112,Ovulation,6,Medication,1,Happy
+P1113,Follicular,7,Heating Pad,4,Tired
+P1114,Ovulation,5,Rest,4,Neutral
+P1115,Follicular,9,Heating Pad,5,Happy
+P1116,Luteal,8,Heating Pad,2,Neutral
+P1117,Follicular,3,Heating Pad,6,Irritable
+P1118,Luteal,1,Rest,6,Sad
+P1119,Luteal,10,Medication,8,Neutral
+P1120,Luteal,8,Heating Pad,10,Irritable
+P1121,Follicular,4,Medication,1,Happy
+P1122,Follicular,7,Heating Pad,4,Neutral
+P1123,Luteal,4,Heating Pad,2,Sad
+P1124,Menstrual,7,Heating Pad,8,Happy
+P1125,Menstrual,1,Rest,4,Irritable
+P1126,Luteal,1,Heating Pad,8,Irritable
+P1127,Luteal,2,Rest,2,Sad
+P1128,Follicular,5,Yoga,4,Sad
+P1129,Ovulation,10,Yoga,9,Sad
+P1130,Ovulation,6,Medication,5,Tired
+P1131,Luteal,2,Rest,6,Sad
+P1132,Follicular,1,Medication,10,Sad
+P1133,Follicular,9,Heating Pad,9,Neutral
+P1134,Ovulation,7,Rest,9,Sad
+P1135,Ovulation,8,Rest,7,Irritable
+P1136,Menstrual,6,Heating Pad,2,Happy
+P1137,Ovulation,9,Heating Pad,7,Neutral
+P1138,Luteal,8,Medication,9,Sad
+P1139,Menstrual,4,Heating Pad,2,Tired
+P1140,Follicular,5,Heating Pad,7,Tired
+P1141,Menstrual,2,Medication,7,Happy
+P1142,Luteal,1,Medication,3,Irritable
+P1143,Luteal,6,Heating Pad,6,Sad
+P1144,Menstrual,3,Rest,8,Irritable
+P1145,Menstrual,4,Heating Pad,10,Happy
+P1146,Menstrual,1,Medication,8,Tired
+P1147,Ovulation,6,Heating Pad,3,Tired
+P1148,Menstrual,8,Yoga,6,Sad
+P1149,Menstrual,10,Heating Pad,2,Tired
+P1150,Menstrual,4,Medication,2,Happy
+P1151,Luteal,10,Medication,8,Neutral
+P1152,Ovulation,8,Heating Pad,10,Tired
+P1153,Menstrual,10,Rest,5,Neutral
+P1154,Menstrual,3,Medication,5,Happy
+P1155,Luteal,7,Medication,4,Happy
+P1156,Menstrual,3,Heating Pad,10,Happy
+P1157,Follicular,6,Medication,4,Neutral
+P1158,Luteal,4,None,8,Irritable
+P1159,Luteal,6,Medication,3,Neutral
+P1160,Ovulation,7,Medication,3,Neutral
+P1161,Ovulation,8,Medication,8,Irritable
+P1162,Menstrual,6,Medication,3,Sad
+P1163,Follicular,4,Rest,2,Neutral
+P1164,Menstrual,9,Heating Pad,5,Happy
+P1165,Follicular,7,Heating Pad,3,Tired
+P1166,Menstrual,9,Heating Pad,6,Neutral
+P1167,Menstrual,3,Yoga,7,Neutral
+P1168,Menstrual,5,Heating Pad,3,Tired
+P1169,Luteal,1,Heating Pad,9,Sad
+P1170,Ovulation,8,Medication,10,Happy
+P1171,Menstrual,1,Heating Pad,1,Sad
+P1172,Ovulation,1,Heating Pad,7,Happy
+P1173,Ovulation,7,Medication,4,Neutral
+P1174,Follicular,8,Heating Pad,7,Tired
+P1175,Menstrual,3,Heating Pad,9,Sad
+P1176,Follicular,2,None,9,Irritable
+P1177,Luteal,7,Heating Pad,1,Irritable
+P1178,Luteal,10,Yoga,10,Happy
+P1179,Luteal,5,Medication,4,Irritable
+P1180,Menstrual,1,Heating Pad,7,Sad
+P1181,Menstrual,2,Medication,10,Tired
+P1182,Ovulation,3,Heating Pad,6,Irritable
+P1183,Ovulation,6,Heating Pad,9,Happy
+P1184,Menstrual,1,Medication,7,Sad
+P1185,Menstrual,8,Heating Pad,3,Tired
+P1186,Luteal,2,Medication,7,Tired
+P1187,Menstrual,5,Medication,10,Sad
+P1188,Luteal,8,None,5,Irritable
+P1189,Follicular,5,None,2,Neutral
+P1190,Ovulation,8,Medication,10,Irritable
+P1191,Menstrual,6,Medication,3,Neutral
+P1192,Menstrual,7,Rest,6,Happy
+P1193,Ovulation,8,Medication,6,Neutral
+P1194,Luteal,3,Rest,7,Irritable
+P1195,Menstrual,5,Medication,6,Irritable
+P1196,Ovulation,10,Medication,9,Tired
+P1197,Ovulation,7,Heating Pad,5,Happy
+P1198,Luteal,9,Medication,5,Tired
+P1199,Ovulation,6,Medication,8,Neutral
+P1200,Ovulation,10,Rest,8,Sad
+P1201,Menstrual,1,Rest,1,Neutral
+P1202,Follicular,8,Rest,3,Irritable
+P1203,Luteal,6,Medication,6,Tired
+P1204,Follicular,1,Heating Pad,6,Irritable
+P1205,Luteal,4,Yoga,1,Sad
+P1206,Follicular,6,Heating Pad,2,Happy
+P1207,Menstrual,10,Heating Pad,10,Neutral
+P1208,Menstrual,1,Rest,7,Irritable
+P1209,Luteal,10,Rest,1,Tired
+P1210,Luteal,5,Medication,10,Tired
+P1211,Follicular,3,Heating Pad,5,Irritable
+P1212,Follicular,7,Medication,1,Sad
+P1213,Follicular,8,Medication,6,Neutral
+P1214,Menstrual,3,Heating Pad,7,Neutral
+P1215,Luteal,10,Rest,8,Sad
+P1216,Luteal,3,None,3,Neutral
+P1217,Ovulation,3,Medication,3,Tired
+P1218,Follicular,6,Heating Pad,1,Irritable
+P1219,Menstrual,6,Medication,3,Happy
+P1220,Menstrual,3,Heating Pad,5,Neutral
+P1221,Ovulation,6,Medication,6,Neutral
+P1222,Menstrual,9,Medication,3,Irritable
+P1223,Ovulation,8,Medication,4,Sad
+P1224,Menstrual,7,Medication,5,Happy
+P1225,Ovulation,7,Medication,5,Tired
+P1226,Follicular,8,Heating Pad,9,Irritable
+P1227,Luteal,7,Heating Pad,8,Tired
+P1228,Menstrual,3,Heating Pad,1,Neutral
+P1229,Follicular,8,Heating Pad,2,Sad
+P1230,Menstrual,8,Medication,5,Tired
+P1231,Ovulation,1,Yoga,3,Tired
+P1232,Luteal,10,Medication,7,Neutral
+P1233,Follicular,5,Medication,6,Happy
+P1234,Ovulation,5,Medication,2,Happy
+P1235,Menstrual,1,Medication,8,Happy
+P1236,Follicular,6,Medication,5,Neutral
+P1237,Ovulation,6,Rest,6,Neutral
+P1238,Menstrual,4,Yoga,8,Tired
+P1239,Follicular,6,Yoga,6,Neutral
+P1240,Luteal,6,Rest,10,Neutral
+P1241,Luteal,1,Medication,3,Neutral
+P1242,Menstrual,5,Yoga,7,Neutral
+P1243,Menstrual,2,Heating Pad,4,Neutral
+P1244,Luteal,7,Heating Pad,6,Neutral
+P1245,Luteal,9,Rest,6,Tired
+P1246,Menstrual,9,Heating Pad,5,Happy
+P1247,Ovulation,9,Medication,1,Happy
+P1248,Ovulation,7,Medication,8,Neutral
+P1249,Luteal,7,Yoga,10,Happy
+P1250,Ovulation,1,Heating Pad,2,Tired
+P1251,Follicular,6,Medication,4,Irritable
+P1252,Luteal,5,Heating Pad,3,Irritable
+P1253,Menstrual,8,Yoga,6,Neutral
+P1254,Luteal,8,Heating Pad,1,Happy
+P1255,Follicular,4,Medication,9,Neutral
+P1256,Luteal,1,Medication,5,Tired
+P1257,Luteal,6,Medication,5,Irritable
+P1258,Menstrual,10,None,4,Neutral
+P1259,Ovulation,1,Medication,4,Tired
+P1260,Ovulation,5,Medication,1,Sad
+P1261,Ovulation,5,Rest,9,Sad
+P1262,Luteal,3,Heating Pad,9,Neutral
+P1263,Luteal,5,Medication,4,Tired
+P1264,Follicular,6,Medication,10,Irritable
+P1265,Menstrual,5,Yoga,10,Happy
+P1266,Ovulation,1,Rest,4,Neutral
+P1267,Menstrual,7,Rest,7,Sad
+P1268,Ovulation,3,Rest,4,Tired
+P1269,Ovulation,7,Heating Pad,1,Tired
+P1270,Ovulation,5,Heating Pad,9,Happy
+P1271,Ovulation,3,Heating Pad,2,Happy
+P1272,Ovulation,6,Yoga,5,Neutral
+P1273,Ovulation,1,Medication,4,Happy
+P1274,Follicular,6,None,8,Tired
+P1275,Ovulation,4,Medication,6,Happy
+P1276,Luteal,4,Medication,7,Irritable
+P1277,Follicular,5,Heating Pad,2,Tired
+P1278,Follicular,9,Heating Pad,4,Tired
+P1279,Follicular,1,Heating Pad,4,Irritable
+P1280,Luteal,3,Medication,2,Tired
+P1281,Ovulation,4,Medication,10,Tired
+P1282,Luteal,2,Medication,4,Tired
+P1283,Luteal,9,Medication,9,Sad
+P1284,Luteal,7,Yoga,8,Happy
+P1285,Menstrual,1,Heating Pad,1,Neutral
+P1286,Ovulation,9,Medication,8,Happy
+P1287,Luteal,6,Heating Pad,9,Happy
+P1288,Ovulation,2,Medication,8,Neutral
+P1289,Follicular,1,Medication,10,Neutral
+P1290,Ovulation,6,Rest,1,Sad
+P1291,Follicular,7,Heating Pad,8,Happy
+P1292,Luteal,10,Yoga,5,Sad
+P1293,Follicular,6,Medication,9,Irritable
+P1294,Menstrual,7,Medication,9,Sad
+P1295,Follicular,6,Rest,6,Irritable
+P1296,Ovulation,8,Medication,3,Neutral
+P1297,Luteal,2,Heating Pad,7,Neutral
+P1298,Follicular,9,Yoga,3,Happy
+P1299,Ovulation,9,Yoga,7,Neutral
+P1300,Menstrual,9,Heating Pad,8,Irritable
+P1301,Ovulation,7,Medication,5,Happy
+P1302,Luteal,9,Medication,5,Sad
+P1303,Follicular,1,Medication,4,Neutral
+P1304,Luteal,3,Medication,3,Tired
+P1305,Follicular,2,Medication,8,Tired
+P1306,Follicular,1,Medication,6,Irritable
+P1307,Luteal,5,Medication,6,Sad
+P1308,Follicular,1,Rest,2,Irritable
+P1309,Follicular,3,Medication,4,Tired
+P1310,Ovulation,6,Medication,5,Irritable
+P1311,Luteal,6,Rest,10,Sad
+P1312,Ovulation,3,None,5,Happy
+P1313,Ovulation,4,Heating Pad,3,Neutral
+P1314,Luteal,7,Medication,10,Sad
+P1315,Ovulation,6,None,5,Neutral
+P1316,Ovulation,2,Medication,5,Irritable
+P1317,Menstrual,9,Heating Pad,2,Sad
+P1318,Follicular,6,Medication,5,Happy
+P1319,Ovulation,2,Medication,3,Irritable
+P1320,Luteal,7,Heating Pad,3,Happy
+P1321,Luteal,10,Medication,5,Tired
+P1322,Menstrual,10,Medication,9,Irritable
+P1323,Ovulation,4,Medication,2,Tired
+P1324,Luteal,1,Medication,9,Happy
+P1325,Luteal,10,Yoga,3,Sad
+P1326,Ovulation,9,Heating Pad,7,Sad
+P1327,Ovulation,10,Rest,1,Tired
+P1328,Luteal,8,Heating Pad,1,Irritable
+P1329,Luteal,5,Medication,8,Tired
+P1330,Menstrual,3,Rest,9,Irritable
+P1331,Follicular,4,Medication,3,Irritable
+P1332,Luteal,3,Medication,6,Neutral
+P1333,Follicular,10,Medication,3,Sad
+P1334,Menstrual,8,Heating Pad,6,Tired
+P1335,Ovulation,5,Medication,7,Neutral
+P1336,Luteal,8,Medication,5,Happy
+P1337,Menstrual,1,Medication,3,Happy
+P1338,Ovulation,9,Medication,8,Tired
+P1339,Menstrual,10,Rest,5,Irritable
+P1340,Luteal,3,Medication,1,Sad
+P1341,Ovulation,1,Heating Pad,9,Sad
+P1342,Ovulation,3,Heating Pad,3,Happy
+P1343,Ovulation,2,Medication,2,Sad
+P1344,Ovulation,7,Heating Pad,3,Tired
+P1345,Menstrual,10,Heating Pad,7,Irritable
+P1346,Follicular,4,Heating Pad,10,Irritable
+P1347,Ovulation,7,Heating Pad,8,Neutral
+P1348,Menstrual,3,Rest,2,Sad
+P1349,Luteal,6,Rest,7,Tired
+P1350,Menstrual,7,Rest,5,Neutral
+P1351,Follicular,7,Yoga,9,Sad
+P1352,Menstrual,5,Medication,7,Tired
+P1353,Ovulation,6,Heating Pad,1,Sad
+P1354,Follicular,3,Heating Pad,1,Neutral
+P1355,Follicular,4,Heating Pad,6,Neutral
+P1356,Luteal,6,Heating Pad,9,Tired
+P1357,Luteal,3,Heating Pad,1,Irritable
+P1358,Follicular,7,Medication,3,Tired
+P1359,Follicular,3,Medication,5,Happy
+P1360,Ovulation,9,Heating Pad,4,Sad
+P1361,Menstrual,4,Heating Pad,1,Irritable
+P1362,Menstrual,2,Heating Pad,10,Sad
+P1363,Ovulation,6,Medication,4,Irritable
+P1364,Follicular,9,Heating Pad,4,Sad
+P1365,Luteal,10,Medication,10,Tired
+P1366,Ovulation,10,Heating Pad,4,Happy
+P1367,Luteal,2,Medication,3,Neutral
+P1368,Menstrual,4,Heating Pad,7,Sad
+P1369,Menstrual,5,Medication,1,Sad
+P1370,Menstrual,9,Heating Pad,2,Tired
+P1371,Ovulation,7,Medication,1,Sad
+P1372,Ovulation,5,Medication,4,Neutral
+P1373,Follicular,6,Medication,5,Irritable
+P1374,Menstrual,9,Heating Pad,10,Happy
+P1375,Follicular,4,Heating Pad,5,Sad
+P1376,Ovulation,2,Heating Pad,2,Tired
+P1377,Ovulation,5,Yoga,3,Tired
+P1378,Follicular,7,Medication,4,Irritable
+P1379,Ovulation,4,Heating Pad,10,Irritable
+P1380,Luteal,1,Heating Pad,6,Tired
+P1381,Ovulation,8,Medication,6,Irritable
+P1382,Luteal,5,Medication,2,Irritable
+P1383,Luteal,10,None,2,Tired
+P1384,Menstrual,2,Yoga,9,Neutral
+P1385,Luteal,3,Heating Pad,2,Tired
+P1386,Ovulation,10,Medication,2,Irritable
+P1387,Follicular,10,Medication,3,Sad
+P1388,Follicular,5,Medication,9,Irritable
+P1389,Ovulation,4,Medication,6,Irritable
+P1390,Menstrual,9,Rest,6,Sad
+P1391,Luteal,9,Heating Pad,10,Neutral
+P1392,Menstrual,8,Medication,5,Tired
+P1393,Menstrual,2,Heating Pad,7,Happy
+P1394,Ovulation,5,Yoga,4,Neutral
+P1395,Menstrual,8,Heating Pad,10,Happy
+P1396,Luteal,8,Heating Pad,10,Sad
+P1397,Menstrual,7,Medication,3,Irritable
+P1398,Ovulation,4,Heating Pad,7,Neutral
+P1399,Ovulation,3,Medication,10,Neutral
+P1400,Ovulation,8,None,1,Sad
+P1401,Ovulation,8,Rest,6,Neutral
+P1402,Menstrual,10,Heating Pad,2,Sad
+P1403,Ovulation,5,Heating Pad,2,Tired
+P1404,Ovulation,3,Medication,8,Neutral
+P1405,Luteal,5,Medication,3,Irritable
+P1406,Follicular,4,Rest,9,Happy
+P1407,Follicular,8,Medication,4,Happy
+P1408,Menstrual,2,Rest,6,Neutral
+P1409,Luteal,8,Heating Pad,1,Happy
+P1410,Follicular,10,Medication,10,Irritable
+P1411,Luteal,6,Rest,10,Happy
+P1412,Menstrual,4,Heating Pad,3,Tired
+P1413,Menstrual,3,Medication,4,Tired
+P1414,Ovulation,10,Heating Pad,5,Irritable
+P1415,Menstrual,5,Heating Pad,1,Happy
+P1416,Menstrual,6,Heating Pad,4,Irritable
+P1417,Follicular,1,Heating Pad,5,Tired
+P1418,Luteal,1,Yoga,4,Tired
+P1419,Menstrual,10,Medication,10,Sad
+P1420,Ovulation,3,Medication,10,Sad
+P1421,Follicular,2,Rest,7,Irritable
+P1422,Luteal,1,Heating Pad,8,Irritable
+P1423,Luteal,8,Medication,8,Tired
+P1424,Ovulation,1,Heating Pad,3,Happy
+P1425,Menstrual,10,Medication,5,Irritable
+P1426,Menstrual,8,Medication,10,Happy
+P1427,Follicular,5,Medication,8,Irritable
+P1428,Follicular,4,Medication,7,Happy
+P1429,Follicular,8,Yoga,9,Happy
+P1430,Menstrual,8,Medication,10,Sad
+P1431,Luteal,8,Medication,7,Happy
+P1432,Luteal,3,Heating Pad,2,Tired
+P1433,Ovulation,8,Yoga,4,Happy
+P1434,Luteal,1,Heating Pad,8,Happy
+P1435,Follicular,4,Heating Pad,9,Tired
+P1436,Luteal,5,Heating Pad,7,Sad
+P1437,Follicular,6,Medication,5,Neutral
+P1438,Luteal,5,Medication,1,Neutral
+P1439,Luteal,5,Medication,9,Happy
+P1440,Ovulation,5,Yoga,6,Sad
+P1441,Luteal,9,Heating Pad,2,Neutral
+P1442,Menstrual,10,Rest,10,Irritable
+P1443,Ovulation,10,Yoga,10,Tired
+P1444,Luteal,3,Yoga,2,Irritable
+P1445,Follicular,2,Heating Pad,10,Neutral
+P1446,Follicular,10,Medication,1,Tired
+P1447,Follicular,2,Medication,4,Tired
+P1448,Menstrual,8,Heating Pad,10,Neutral
+P1449,Menstrual,5,Medication,2,Irritable
+P1450,Luteal,5,Yoga,10,Happy
+P1451,Menstrual,6,Heating Pad,9,Tired
+P1452,Luteal,9,Medication,2,Irritable
+P1453,Follicular,7,Heating Pad,9,Irritable
+P1454,Luteal,5,Medication,1,Happy
+P1455,Menstrual,5,Rest,7,Irritable
+P1456,Menstrual,10,Medication,6,Happy
+P1457,Follicular,9,Yoga,6,Tired
+P1458,Ovulation,9,Rest,2,Sad
+P1459,Ovulation,2,None,1,Neutral
+P1460,Menstrual,7,Heating Pad,10,Sad
+P1461,Follicular,10,Rest,8,Sad
+P1462,Ovulation,1,Rest,8,Happy
+P1463,Luteal,4,Medication,2,Neutral
+P1464,Luteal,2,Heating Pad,4,Irritable
+P1465,Follicular,10,Heating Pad,4,Irritable
+P1466,Follicular,9,Heating Pad,2,Sad
+P1467,Follicular,6,Medication,9,Irritable
+P1468,Ovulation,4,Rest,4,Neutral
+P1469,Ovulation,3,None,4,Irritable
+P1470,Luteal,4,Rest,4,Tired
+P1471,Ovulation,2,Medication,5,Happy
+P1472,Luteal,5,Medication,10,Neutral
+P1473,Menstrual,9,Heating Pad,8,Neutral
+P1474,Menstrual,6,Heating Pad,4,Irritable
+P1475,Follicular,2,Heating Pad,3,Neutral
+P1476,Menstrual,6,Heating Pad,1,Happy
+P1477,Menstrual,9,Medication,2,Sad
+P1478,Luteal,4,Rest,4,Tired
+P1479,Menstrual,1,Heating Pad,9,Irritable
+P1480,Ovulation,2,Heating Pad,1,Sad
+P1481,Luteal,5,None,6,Tired
+P1482,Menstrual,10,Heating Pad,6,Neutral
+P1483,Menstrual,7,Heating Pad,10,Happy
+P1484,Luteal,8,Medication,3,Sad
+P1485,Luteal,3,Medication,10,Happy
+P1486,Luteal,9,Heating Pad,9,Neutral
+P1487,Ovulation,2,Heating Pad,10,Tired
+P1488,Luteal,4,Medication,3,Sad
+P1489,Ovulation,4,Medication,1,Tired
+P1490,Luteal,6,Medication,2,Irritable
+P1491,Follicular,10,Rest,4,Irritable
+P1492,Ovulation,6,Medication,4,Sad
+P1493,Luteal,3,Yoga,2,Tired
+P1494,Luteal,9,Heating Pad,10,Tired
+P1495,Follicular,5,Medication,6,Happy
+P1496,Follicular,2,Medication,6,Sad
+P1497,Luteal,6,Rest,3,Tired
+P1498,Menstrual,3,Yoga,1,Sad
+P1499,Ovulation,8,Rest,10,Irritable
+P1500,Luteal,3,Heating Pad,9,Happy
+P1501,Ovulation,5,Heating Pad,4,Neutral
+P1502,Ovulation,4,Heating Pad,9,Sad
+P1503,Menstrual,4,Medication,5,Sad
+P1504,Ovulation,2,Rest,7,Happy
+P1505,Ovulation,8,Medication,3,Tired
+P1506,Menstrual,3,Medication,3,Tired
+P1507,Luteal,4,Heating Pad,8,Irritable
+P1508,Luteal,6,Heating Pad,1,Irritable
+P1509,Menstrual,9,Medication,8,Neutral
+P1510,Follicular,4,Heating Pad,8,Sad
+P1511,Menstrual,3,Medication,3,Happy
+P1512,Ovulation,5,Medication,1,Happy
+P1513,Menstrual,9,Heating Pad,9,Happy
+P1514,Luteal,1,Yoga,4,Tired
+P1515,Menstrual,5,Rest,7,Sad
+P1516,Luteal,4,Heating Pad,9,Irritable
+P1517,Luteal,5,Medication,3,Sad
+P1518,Follicular,7,Medication,5,Neutral
+P1519,Follicular,7,Yoga,10,Happy
+P1520,Ovulation,7,Rest,3,Neutral
+P1521,Ovulation,1,Rest,5,Neutral
+P1522,Luteal,9,Medication,2,Happy
+P1523,Luteal,7,Heating Pad,4,Sad
+P1524,Follicular,4,Medication,2,Happy
+P1525,Ovulation,4,Medication,3,Tired
+P1526,Luteal,2,None,5,Tired
+P1527,Ovulation,6,Medication,9,Sad
+P1528,Follicular,10,Rest,3,Irritable
+P1529,Follicular,3,Yoga,10,Sad
+P1530,Ovulation,1,Heating Pad,6,Happy
+P1531,Follicular,5,Medication,4,Sad
+P1532,Menstrual,6,None,4,Tired
+P1533,Ovulation,5,Heating Pad,10,Happy
+P1534,Menstrual,5,Heating Pad,10,Neutral
+P1535,Luteal,10,Medication,5,Tired
+P1536,Ovulation,8,None,7,Tired
+P1537,Menstrual,10,Heating Pad,4,Irritable
+P1538,Menstrual,1,Heating Pad,8,Happy
+P1539,Follicular,8,Heating Pad,9,Tired
+P1540,Menstrual,7,Rest,9,Irritable
+P1541,Follicular,1,Medication,9,Irritable
+P1542,Menstrual,9,Medication,2,Neutral
+P1543,Menstrual,4,Medication,3,Happy
+P1544,Ovulation,7,Heating Pad,5,Sad
+P1545,Luteal,3,Medication,1,Happy
+P1546,Ovulation,8,Medication,4,Sad
+P1547,Menstrual,4,Rest,5,Neutral
+P1548,Ovulation,2,Rest,9,Sad
+P1549,Follicular,2,Medication,8,Irritable
+P1550,Luteal,8,Medication,1,Irritable
+P1551,Menstrual,8,Medication,3,Tired
+P1552,Menstrual,1,Yoga,3,Tired
+P1553,Ovulation,6,Medication,6,Happy
+P1554,Follicular,9,Medication,4,Irritable
+P1555,Luteal,9,Medication,4,Tired
+P1556,Ovulation,2,Medication,1,Irritable
+P1557,Follicular,8,Rest,10,Irritable
+P1558,Menstrual,8,Medication,4,Sad
+P1559,Follicular,4,Rest,1,Irritable
+P1560,Follicular,4,Medication,5,Sad
+P1561,Luteal,5,Heating Pad,3,Irritable
+P1562,Ovulation,10,Medication,10,Happy
+P1563,Follicular,7,Rest,5,Sad
+P1564,Follicular,1,Heating Pad,3,Sad
+P1565,Menstrual,9,Heating Pad,5,Sad
+P1566,Follicular,3,Medication,4,Happy
+P1567,Menstrual,4,Medication,9,Sad
+P1568,Follicular,7,Heating Pad,6,Tired
+P1569,Menstrual,5,Rest,10,Irritable
+P1570,Follicular,5,Heating Pad,2,Neutral
+P1571,Menstrual,1,Medication,1,Tired
+P1572,Ovulation,2,Medication,1,Irritable
+P1573,Luteal,5,Medication,1,Tired
+P1574,Menstrual,2,Yoga,9,Tired
+P1575,Follicular,1,Heating Pad,5,Irritable
+P1576,Luteal,10,Heating Pad,4,Neutral
+P1577,Follicular,3,Heating Pad,10,Happy
+P1578,Luteal,1,Heating Pad,5,Sad
+P1579,Luteal,10,Heating Pad,9,Tired
+P1580,Ovulation,8,Medication,3,Happy
+P1581,Follicular,8,Heating Pad,3,Irritable
+P1582,Luteal,8,Medication,2,Sad
+P1583,Luteal,7,Rest,8,Irritable
+P1584,Follicular,7,Heating Pad,7,Irritable
+P1585,Menstrual,2,None,2,Happy
+P1586,Ovulation,9,Medication,4,Sad
+P1587,Ovulation,7,Medication,7,Irritable
+P1588,Luteal,5,Heating Pad,1,Happy
+P1589,Menstrual,4,Medication,1,Neutral
+P1590,Follicular,8,Heating Pad,8,Happy
+P1591,Follicular,5,Rest,6,Happy
+P1592,Menstrual,6,Rest,2,Happy
+P1593,Ovulation,4,Rest,10,Sad
+P1594,Luteal,2,Medication,10,Neutral
+P1595,Luteal,7,Rest,1,Irritable
+P1596,Ovulation,2,Medication,3,Sad
+P1597,Follicular,7,Rest,4,Tired
+P1598,Menstrual,7,Heating Pad,5,Neutral
+P1599,Luteal,1,Heating Pad,10,Irritable
+P1600,Follicular,10,Rest,3,Irritable
+P1601,Luteal,10,Yoga,5,Irritable
+P1602,Ovulation,3,Yoga,7,Irritable
+P1603,Ovulation,3,Heating Pad,9,Happy
+P1604,Luteal,6,Medication,5,Irritable
+P1605,Ovulation,3,Heating Pad,4,Happy
+P1606,Menstrual,9,Medication,10,Tired
+P1607,Menstrual,5,Rest,9,Sad
+P1608,Ovulation,6,Medication,8,Irritable
+P1609,Menstrual,6,Medication,5,Sad
+P1610,Menstrual,8,Medication,9,Neutral
+P1611,Menstrual,10,Medication,9,Tired
+P1612,Ovulation,3,Heating Pad,1,Irritable
+P1613,Luteal,9,Medication,6,Irritable
+P1614,Menstrual,7,Rest,5,Happy
+P1615,Ovulation,6,Heating Pad,6,Sad
+P1616,Luteal,1,Yoga,10,Sad
+P1617,Menstrual,4,Heating Pad,3,Sad
+P1618,Follicular,5,Medication,3,Neutral
+P1619,Ovulation,2,Heating Pad,10,Sad
+P1620,Ovulation,1,Rest,5,Tired
+P1621,Menstrual,2,Medication,7,Tired
+P1622,Follicular,8,Rest,4,Irritable
+P1623,Luteal,10,Yoga,6,Sad
+P1624,Follicular,6,Yoga,5,Happy
+P1625,Follicular,10,Yoga,2,Irritable
+P1626,Follicular,2,Medication,1,Tired
+P1627,Follicular,9,Yoga,6,Sad
+P1628,Follicular,8,Medication,5,Sad
+P1629,Follicular,4,Heating Pad,9,Neutral
+P1630,Ovulation,10,Medication,7,Tired
+P1631,Follicular,7,Medication,1,Happy
+P1632,Luteal,3,Medication,10,Happy
+P1633,Ovulation,6,Medication,6,Tired
+P1634,Menstrual,3,Heating Pad,7,Neutral
+P1635,Follicular,10,Rest,3,Tired
+P1636,Follicular,3,Heating Pad,9,Happy
+P1637,Luteal,9,Medication,2,Sad
+P1638,Follicular,6,Medication,1,Tired
+P1639,Ovulation,8,Medication,10,Sad
+P1640,Follicular,4,Medication,10,Sad
+P1641,Luteal,4,Medication,9,Sad
+P1642,Menstrual,8,Rest,7,Sad
+P1643,Follicular,7,Rest,10,Neutral
+P1644,Follicular,5,Yoga,1,Neutral
+P1645,Luteal,2,Medication,4,Sad
+P1646,Ovulation,6,Yoga,10,Tired
+P1647,Luteal,1,Heating Pad,3,Sad
+P1648,Follicular,7,Medication,7,Tired
+P1649,Follicular,9,Medication,5,Tired
+P1650,Menstrual,5,Rest,9,Tired
+P1651,Luteal,5,Medication,3,Happy
+P1652,Menstrual,7,Heating Pad,6,Tired
+P1653,Menstrual,5,Medication,10,Tired
+P1654,Luteal,10,Medication,2,Irritable
+P1655,Luteal,4,Medication,3,Neutral
+P1656,Luteal,1,Medication,4,Irritable
+P1657,Luteal,6,Medication,6,Happy
+P1658,Follicular,9,Heating Pad,1,Tired
+P1659,Follicular,4,None,6,Happy
+P1660,Menstrual,10,Heating Pad,4,Neutral
+P1661,Menstrual,4,Medication,8,Irritable
+P1662,Menstrual,5,Medication,9,Irritable
+P1663,Luteal,6,Medication,8,Sad
+P1664,Ovulation,3,Heating Pad,8,Neutral
+P1665,Ovulation,9,Yoga,2,Happy
+P1666,Ovulation,1,Medication,10,Happy
+P1667,Follicular,6,Medication,2,Tired
+P1668,Menstrual,6,Heating Pad,6,Irritable
+P1669,Luteal,8,Heating Pad,5,Neutral
+P1670,Ovulation,5,Heating Pad,6,Irritable
+P1671,Ovulation,9,Yoga,9,Tired
+P1672,Menstrual,9,None,10,Irritable
+P1673,Ovulation,2,Yoga,7,Happy
+P1674,Menstrual,5,Medication,5,Neutral
+P1675,Ovulation,7,Medication,10,Sad
+P1676,Follicular,2,Heating Pad,7,Neutral
+P1677,Follicular,7,Rest,8,Neutral
+P1678,Menstrual,9,Rest,1,Irritable
+P1679,Luteal,8,Medication,10,Irritable
+P1680,Follicular,10,Medication,7,Happy
+P1681,Follicular,9,Heating Pad,4,Happy
+P1682,Menstrual,4,Heating Pad,5,Neutral
+P1683,Menstrual,8,Medication,2,Happy
+P1684,Menstrual,9,Rest,10,Sad
+P1685,Ovulation,10,Medication,5,Irritable
+P1686,Ovulation,2,Medication,9,Tired
+P1687,Menstrual,10,Medication,1,Neutral
+P1688,Follicular,3,Medication,3,Irritable
+P1689,Luteal,1,Medication,4,Sad
+P1690,Follicular,1,Heating Pad,9,Neutral
+P1691,Luteal,10,Medication,2,Happy
+P1692,Follicular,6,Medication,7,Neutral
+P1693,Luteal,1,Medication,9,Neutral
+P1694,Follicular,5,Rest,10,Sad
+P1695,Ovulation,6,Medication,4,Neutral
+P1696,Luteal,9,None,5,Happy
+P1697,Ovulation,6,Heating Pad,10,Sad
+P1698,Ovulation,4,None,4,Tired
+P1699,Follicular,1,Yoga,7,Irritable
+P1700,Follicular,6,Medication,8,Neutral
+P1701,Luteal,7,Medication,8,Tired
+P1702,Luteal,5,Medication,3,Happy
+P1703,Ovulation,6,Medication,2,Neutral
+P1704,Ovulation,10,Medication,6,Happy
+P1705,Follicular,8,Medication,1,Irritable
+P1706,Luteal,1,Rest,9,Tired
+P1707,Follicular,8,Heating Pad,7,Tired
+P1708,Luteal,2,Yoga,8,Neutral
+P1709,Ovulation,2,Yoga,7,Neutral
+P1710,Ovulation,8,Medication,5,Sad
+P1711,Menstrual,2,Yoga,5,Neutral
+P1712,Menstrual,8,Heating Pad,7,Sad
+P1713,Luteal,5,Heating Pad,7,Happy
+P1714,Luteal,9,Medication,2,Tired
+P1715,Luteal,9,Heating Pad,2,Sad
+P1716,Luteal,8,None,7,Happy
+P1717,Follicular,9,Medication,5,Sad
+P1718,Menstrual,7,None,2,Neutral
+P1719,Luteal,8,Medication,1,Happy
+P1720,Menstrual,6,Medication,9,Tired
+P1721,Menstrual,9,Medication,8,Tired
+P1722,Menstrual,2,Heating Pad,2,Sad
+P1723,Follicular,3,Heating Pad,2,Happy
+P1724,Luteal,2,Heating Pad,3,Sad
+P1725,Ovulation,6,Rest,4,Neutral
+P1726,Luteal,3,Heating Pad,9,Irritable
+P1727,Follicular,1,Yoga,6,Happy
+P1728,Luteal,4,Medication,3,Sad
+P1729,Luteal,5,Heating Pad,8,Neutral
+P1730,Luteal,4,Rest,6,Irritable
+P1731,Luteal,6,Medication,8,Neutral
+P1732,Ovulation,3,Yoga,10,Neutral
+P1733,Ovulation,10,Rest,2,Sad
+P1734,Menstrual,6,Heating Pad,8,Neutral
+P1735,Menstrual,10,Medication,5,Tired
+P1736,Menstrual,1,Medication,10,Irritable
+P1737,Menstrual,6,Rest,4,Happy
+P1738,Menstrual,8,Rest,3,Happy
+P1739,Luteal,10,Rest,9,Neutral
+P1740,Follicular,8,Medication,10,Happy
+P1741,Follicular,1,Heating Pad,7,Happy
+P1742,Luteal,7,Heating Pad,7,Irritable
+P1743,Luteal,10,None,6,Sad
+P1744,Ovulation,10,Rest,9,Neutral
+P1745,Menstrual,4,Medication,3,Happy
+P1746,Ovulation,6,Rest,1,Neutral
+P1747,Menstrual,6,Heating Pad,7,Happy
+P1748,Luteal,5,Heating Pad,9,Irritable
+P1749,Luteal,10,Heating Pad,6,Sad
+P1750,Menstrual,9,Heating Pad,10,Happy
+P1751,Ovulation,10,Medication,2,Sad
+P1752,Follicular,8,Heating Pad,8,Neutral
+P1753,Menstrual,6,Yoga,9,Neutral
+P1754,Menstrual,4,Medication,10,Sad
+P1755,Luteal,4,Heating Pad,8,Neutral
+P1756,Menstrual,9,Rest,9,Neutral
+P1757,Menstrual,4,Medication,1,Tired
+P1758,Ovulation,7,Medication,3,Sad
+P1759,Menstrual,6,Medication,3,Happy
+P1760,Ovulation,2,Medication,9,Irritable
+P1761,Ovulation,5,Yoga,3,Happy
+P1762,Menstrual,3,Medication,10,Sad
+P1763,Luteal,9,Rest,1,Neutral
+P1764,Menstrual,10,Heating Pad,3,Tired
+P1765,Luteal,1,None,2,Tired
+P1766,Ovulation,10,None,9,Sad
+P1767,Follicular,4,Heating Pad,1,Neutral
+P1768,Menstrual,4,Medication,2,Neutral
+P1769,Menstrual,9,Rest,1,Tired
+P1770,Menstrual,1,Rest,9,Happy
+P1771,Luteal,2,Medication,7,Irritable
+P1772,Menstrual,1,Medication,1,Happy
+P1773,Luteal,1,Medication,10,Tired
+P1774,Ovulation,1,None,6,Irritable
+P1775,Luteal,3,Medication,5,Tired
+P1776,Luteal,4,Rest,10,Neutral
+P1777,Ovulation,10,Heating Pad,5,Neutral
+P1778,Menstrual,2,None,4,Sad
+P1779,Luteal,1,Medication,3,Tired
+P1780,Ovulation,5,Medication,8,Happy
+P1781,Follicular,6,Medication,7,Sad
+P1782,Ovulation,2,Medication,5,Irritable
+P1783,Follicular,3,Rest,9,Neutral
+P1784,Luteal,10,Medication,7,Happy
+P1785,Luteal,3,Heating Pad,10,Tired
+P1786,Ovulation,2,Medication,2,Neutral
+P1787,Luteal,4,Rest,7,Tired
+P1788,Follicular,5,Medication,7,Irritable
+P1789,Luteal,8,Heating Pad,4,Irritable
+P1790,Follicular,6,Medication,8,Neutral
+P1791,Menstrual,9,Heating Pad,4,Irritable
+P1792,Follicular,3,Heating Pad,7,Happy
+P1793,Luteal,10,Yoga,4,Neutral
+P1794,Ovulation,9,None,8,Happy
+P1795,Menstrual,4,Rest,3,Tired
+P1796,Ovulation,8,Heating Pad,2,Happy
+P1797,Luteal,10,Medication,10,Happy
+P1798,Ovulation,7,Medication,6,Irritable
+P1799,Ovulation,7,Heating Pad,7,Tired
+P1800,Luteal,9,Medication,7,Happy
+P1801,Ovulation,10,None,6,Neutral
+P1802,Follicular,2,Yoga,8,Tired
+P1803,Ovulation,5,Yoga,6,Irritable
+P1804,Ovulation,3,Heating Pad,6,Sad
+P1805,Ovulation,7,Medication,3,Sad
+P1806,Luteal,3,Medication,2,Neutral
+P1807,Menstrual,5,Medication,7,Sad
+P1808,Luteal,5,Rest,6,Neutral
+P1809,Menstrual,2,Medication,1,Tired
+P1810,Menstrual,1,Medication,2,Neutral
+P1811,Menstrual,6,Medication,2,Neutral
+P1812,Luteal,1,Medication,1,Tired
+P1813,Follicular,9,Rest,3,Neutral
+P1814,Ovulation,10,Heating Pad,5,Neutral
+P1815,Follicular,5,Heating Pad,4,Irritable
+P1816,Follicular,1,Heating Pad,2,Neutral
+P1817,Menstrual,8,Yoga,8,Irritable
+P1818,Menstrual,1,Medication,9,Tired
+P1819,Ovulation,4,Heating Pad,8,Tired
+P1820,Menstrual,7,Yoga,7,Sad
+P1821,Follicular,4,Medication,10,Sad
+P1822,Menstrual,5,Medication,2,Happy
+P1823,Ovulation,7,Medication,6,Irritable
+P1824,Menstrual,4,Medication,4,Neutral
+P1825,Luteal,5,Medication,5,Irritable
+P1826,Menstrual,7,Medication,9,Irritable
+P1827,Luteal,1,Rest,9,Irritable
+P1828,Ovulation,3,Rest,4,Irritable
+P1829,Menstrual,1,Rest,8,Sad
+P1830,Ovulation,3,Heating Pad,5,Irritable
+P1831,Luteal,2,Medication,9,Sad
+P1832,Ovulation,5,Medication,2,Tired
+P1833,Ovulation,10,Medication,4,Tired
+P1834,Follicular,5,Heating Pad,3,Neutral
+P1835,Menstrual,10,Medication,7,Neutral
+P1836,Follicular,9,Medication,2,Happy
+P1837,Menstrual,8,Medication,3,Happy
+P1838,Menstrual,3,Heating Pad,9,Sad
+P1839,Follicular,1,Medication,8,Irritable
+P1840,Luteal,5,Rest,2,Tired
+P1841,Follicular,3,Medication,6,Irritable
+P1842,Ovulation,5,Heating Pad,3,Neutral
+P1843,Ovulation,9,Yoga,6,Neutral
+P1844,Ovulation,1,Heating Pad,5,Neutral
+P1845,Ovulation,1,Rest,10,Sad
+P1846,Luteal,9,Heating Pad,4,Happy
+P1847,Menstrual,3,Medication,7,Irritable
+P1848,Menstrual,10,Heating Pad,10,Irritable
+P1849,Ovulation,5,Medication,7,Happy
+P1850,Ovulation,9,Heating Pad,4,Tired
+P1851,Luteal,5,Rest,3,Sad
+P1852,Luteal,3,Medication,4,Irritable
+P1853,Ovulation,9,Medication,2,Irritable
+P1854,Luteal,7,Medication,4,Happy
+P1855,Ovulation,7,Medication,4,Tired
+P1856,Follicular,8,None,5,Irritable
+P1857,Follicular,5,Heating Pad,1,Happy
+P1858,Luteal,2,None,2,Neutral
+P1859,Menstrual,9,Medication,8,Happy
+P1860,Menstrual,3,Medication,8,Irritable
+P1861,Menstrual,2,Yoga,8,Neutral
+P1862,Menstrual,10,Heating Pad,5,Tired
+P1863,Luteal,10,Yoga,8,Sad
+P1864,Follicular,5,Medication,9,Irritable
+P1865,Follicular,8,Heating Pad,4,Happy
+P1866,Follicular,3,Heating Pad,4,Happy
+P1867,Follicular,6,Heating Pad,7,Irritable
+P1868,Ovulation,9,Rest,5,Happy
+P1869,Ovulation,2,Medication,10,Neutral
+P1870,Menstrual,8,Medication,1,Neutral
+P1871,Follicular,10,Yoga,8,Sad
+P1872,Luteal,7,Medication,4,Happy
+P1873,Luteal,3,Heating Pad,8,Tired
+P1874,Ovulation,1,Medication,2,Irritable
+P1875,Luteal,6,Medication,4,Sad
+P1876,Follicular,2,Rest,2,Sad
+P1877,Menstrual,3,Rest,5,Happy
+P1878,Menstrual,5,Medication,10,Neutral
+P1879,Follicular,8,Heating Pad,10,Neutral
+P1880,Ovulation,2,Medication,8,Sad
+P1881,Luteal,6,Medication,7,Irritable
+P1882,Menstrual,1,Heating Pad,5,Irritable
+P1883,Menstrual,7,Medication,7,Sad
+P1884,Menstrual,4,Medication,5,Sad
+P1885,Luteal,1,Medication,7,Sad
+P1886,Luteal,9,Rest,4,Sad
+P1887,Follicular,9,Heating Pad,4,Neutral
+P1888,Follicular,3,Rest,10,Happy
+P1889,Luteal,6,Heating Pad,4,Happy
+P1890,Menstrual,7,Heating Pad,8,Neutral
+P1891,Luteal,4,Medication,1,Happy
+P1892,Luteal,6,Yoga,10,Happy
+P1893,Menstrual,9,Heating Pad,5,Tired
+P1894,Menstrual,10,Medication,10,Happy
+P1895,Luteal,6,Heating Pad,2,Tired
+P1896,Follicular,7,Medication,10,Tired
+P1897,Ovulation,6,Heating Pad,4,Neutral
+P1898,Menstrual,7,Heating Pad,5,Sad
+P1899,Ovulation,1,Medication,8,Neutral
+P1900,Ovulation,6,Heating Pad,2,Tired
+P1901,Follicular,9,Medication,2,Sad
+P1902,Follicular,3,Rest,2,Happy
+P1903,Luteal,6,Medication,8,Sad
+P1904,Luteal,4,Medication,3,Sad
+P1905,Follicular,7,Heating Pad,5,Sad
+P1906,Follicular,7,Medication,2,Happy
+P1907,Menstrual,9,Medication,6,Sad
+P1908,Follicular,4,Heating Pad,10,Neutral
+P1909,Luteal,8,Yoga,6,Irritable
+P1910,Ovulation,8,Heating Pad,2,Tired
+P1911,Menstrual,8,Medication,4,Irritable
+P1912,Menstrual,8,Medication,2,Neutral
+P1913,Follicular,6,Yoga,10,Irritable
+P1914,Luteal,8,Yoga,4,Sad
+P1915,Luteal,6,Medication,7,Tired
+P1916,Luteal,10,Medication,5,Irritable
+P1917,Luteal,2,Heating Pad,10,Happy
+P1918,Luteal,3,Heating Pad,4,Sad
+P1919,Ovulation,6,Rest,10,Sad
+P1920,Menstrual,7,Medication,10,Tired
+P1921,Luteal,4,Heating Pad,3,Sad
+P1922,Ovulation,1,Medication,6,Sad
+P1923,Menstrual,4,Medication,2,Sad
+P1924,Ovulation,6,Heating Pad,4,Happy
+P1925,Luteal,8,Medication,8,Happy
+P1926,Follicular,4,Medication,2,Irritable
+P1927,Luteal,10,Heating Pad,9,Happy
+P1928,Menstrual,1,Yoga,2,Happy
+P1929,Ovulation,5,Heating Pad,8,Sad
+P1930,Luteal,7,Medication,8,Tired
+P1931,Luteal,6,Heating Pad,7,Sad
+P1932,Luteal,3,Rest,10,Happy
+P1933,Ovulation,7,Heating Pad,6,Neutral
+P1934,Luteal,4,Medication,1,Happy
+P1935,Follicular,5,Yoga,2,Happy
+P1936,Luteal,7,Heating Pad,7,Irritable
+P1937,Follicular,2,Heating Pad,4,Neutral
+P1938,Menstrual,4,Heating Pad,9,Irritable
+P1939,Menstrual,4,Rest,3,Sad
+P1940,Menstrual,6,Medication,4,Sad
+P1941,Menstrual,7,Heating Pad,3,Tired
+P1942,Luteal,4,Yoga,7,Tired
+P1943,Follicular,10,Heating Pad,2,Sad
+P1944,Follicular,1,Heating Pad,10,Happy
+P1945,Luteal,1,Rest,2,Happy
+P1946,Ovulation,5,Medication,2,Neutral
+P1947,Ovulation,1,Heating Pad,4,Tired
+P1948,Luteal,3,Rest,8,Happy
+P1949,Luteal,9,Yoga,8,Sad
+P1950,Ovulation,3,Heating Pad,8,Neutral
+P1951,Ovulation,3,Yoga,8,Happy
+P1952,Ovulation,9,Heating Pad,7,Happy
+P1953,Ovulation,5,None,6,Tired
+P1954,Follicular,8,Heating Pad,7,Irritable
+P1955,Luteal,10,Medication,5,Irritable
+P1956,Ovulation,9,Rest,8,Irritable
+P1957,Luteal,6,Rest,2,Neutral
+P1958,Ovulation,7,Medication,5,Neutral
+P1959,Ovulation,7,Heating Pad,7,Tired
+P1960,Luteal,7,Heating Pad,9,Tired
+P1961,Menstrual,4,Heating Pad,10,Tired
+P1962,Menstrual,2,Heating Pad,1,Sad
+P1963,Luteal,2,Rest,9,Neutral
+P1964,Menstrual,7,Yoga,3,Neutral
+P1965,Menstrual,10,None,1,Sad
+P1966,Menstrual,7,Rest,7,Happy
+P1967,Follicular,10,Heating Pad,3,Irritable
+P1968,Menstrual,7,Medication,8,Irritable
+P1969,Ovulation,8,Medication,2,Happy
+P1970,Follicular,3,Medication,4,Irritable
+P1971,Follicular,5,Medication,2,Neutral
+P1972,Ovulation,6,Medication,4,Happy
+P1973,Ovulation,8,Rest,1,Irritable
+P1974,Follicular,8,Heating Pad,10,Irritable
+P1975,Follicular,10,Rest,5,Irritable
+P1976,Luteal,3,Rest,3,Sad
+P1977,Ovulation,4,Medication,9,Irritable
+P1978,Luteal,6,Medication,4,Tired
+P1979,Menstrual,4,Medication,6,Happy
+P1980,Menstrual,10,Rest,9,Sad
+P1981,Follicular,4,Medication,2,Neutral
+P1982,Luteal,5,Medication,7,Tired
+P1983,Follicular,10,Heating Pad,3,Irritable
+P1984,Ovulation,7,None,1,Tired
+P1985,Ovulation,2,Heating Pad,9,Sad
+P1986,Luteal,2,Yoga,9,Sad
+P1987,Luteal,10,Heating Pad,4,Irritable
+P1988,Follicular,9,Heating Pad,9,Tired
+P1989,Ovulation,4,Medication,7,Tired
+P1990,Menstrual,5,Medication,4,Happy
+P1991,Luteal,3,Rest,2,Sad
+P1992,Menstrual,2,Yoga,5,Irritable
+P1993,Ovulation,10,Heating Pad,8,Sad
+P1994,Ovulation,8,None,10,Happy
+P1995,Luteal,4,Heating Pad,10,Tired
+P1996,Menstrual,1,Heating Pad,6,Sad
+P1997,Luteal,6,Heating Pad,5,Neutral
+P1998,Ovulation,6,None,4,Neutral
+P1999,Menstrual,2,Medication,6,Happy
+P2000,Follicular,2,Yoga,3,Tired
+P2001,Menstrual,8,Heating Pad,2,Sad
+P2002,Follicular,7,Medication,1,Neutral
+P2003,Menstrual,2,Medication,9,Sad
+P2004,Ovulation,10,Medication,1,Sad
+P2005,Follicular,1,Heating Pad,4,Sad
+P2006,Luteal,8,Rest,6,Tired
+P2007,Ovulation,10,Heating Pad,9,Irritable
+P2008,Menstrual,2,Heating Pad,4,Sad
+P2009,Ovulation,5,Medication,7,Neutral
+P2010,Menstrual,6,Heating Pad,7,Sad
+P2011,Follicular,10,Medication,6,Irritable
+P2012,Menstrual,1,Heating Pad,9,Tired
+P2013,Luteal,2,Yoga,10,Neutral
+P2014,Menstrual,10,Yoga,7,Happy
+P2015,Menstrual,4,Medication,3,Irritable
+P2016,Ovulation,2,Yoga,6,Neutral
+P2017,Follicular,6,Rest,7,Tired
+P2018,Ovulation,4,Yoga,7,Sad
+P2019,Ovulation,3,Yoga,6,Happy
+P2020,Menstrual,6,Heating Pad,3,Happy
+P2021,Menstrual,9,Heating Pad,6,Happy
+P2022,Menstrual,8,Yoga,2,Neutral
+P2023,Luteal,2,Medication,10,Neutral
+P2024,Menstrual,3,Yoga,1,Happy
+P2025,Ovulation,2,Heating Pad,8,Neutral
+P2026,Menstrual,10,Heating Pad,3,Irritable
+P2027,Ovulation,7,Medication,8,Sad
+P2028,Menstrual,9,Heating Pad,3,Sad
+P2029,Menstrual,1,Heating Pad,2,Irritable
+P2030,Menstrual,3,Yoga,8,Neutral
+P2031,Ovulation,6,None,3,Irritable
+P2032,Ovulation,4,Medication,8,Tired
+P2033,Menstrual,10,Heating Pad,2,Tired
+P2034,Ovulation,10,Yoga,4,Neutral
+P2035,Follicular,1,Medication,9,Neutral
+P2036,Follicular,9,Medication,1,Tired
+P2037,Menstrual,7,Yoga,2,Sad
+P2038,Luteal,7,Medication,2,Irritable
+P2039,Menstrual,1,Yoga,9,Neutral
+P2040,Menstrual,9,Rest,10,Irritable
+P2041,Ovulation,8,Medication,5,Neutral
+P2042,Luteal,10,Medication,4,Tired
+P2043,Ovulation,5,Medication,10,Tired
+P2044,Menstrual,4,Medication,10,Sad
+P2045,Ovulation,1,Medication,4,Happy
+P2046,Menstrual,9,Heating Pad,7,Neutral
+P2047,Menstrual,8,Medication,3,Neutral
+P2048,Menstrual,2,Heating Pad,9,Sad
+P2049,Follicular,4,Medication,5,Sad
+P2050,Ovulation,4,Heating Pad,9,Happy
+P2051,Luteal,7,Medication,1,Sad
+P2052,Luteal,3,Heating Pad,10,Irritable
+P2053,Luteal,8,Medication,8,Happy
+P2054,Ovulation,7,Medication,2,Neutral
+P2055,Menstrual,10,Rest,8,Neutral
+P2056,Ovulation,4,Heating Pad,4,Happy
+P2057,Menstrual,9,Medication,2,Irritable
+P2058,Menstrual,6,Medication,2,Irritable
+P2059,Luteal,3,Medication,6,Happy
+P2060,Menstrual,7,Heating Pad,3,Sad
+P2061,Ovulation,6,Medication,10,Happy
+P2062,Menstrual,8,Yoga,3,Happy
+P2063,Luteal,5,Medication,9,Happy
+P2064,Luteal,6,Yoga,5,Happy
+P2065,Luteal,1,Heating Pad,7,Sad
+P2066,Luteal,8,Medication,5,Neutral
+P2067,Ovulation,1,Heating Pad,2,Happy
+P2068,Menstrual,3,Heating Pad,8,Happy
+P2069,Follicular,2,Rest,9,Neutral
+P2070,Luteal,6,Heating Pad,2,Neutral
+P2071,Menstrual,8,Rest,2,Neutral
+P2072,Menstrual,8,Medication,4,Happy
+P2073,Luteal,7,Medication,8,Sad
+P2074,Follicular,7,Medication,5,Irritable
+P2075,Luteal,8,Rest,5,Neutral
+P2076,Menstrual,5,Medication,7,Tired
+P2077,Luteal,3,Heating Pad,4,Tired
+P2078,Menstrual,2,Heating Pad,9,Tired
+P2079,Follicular,3,Medication,4,Happy
+P2080,Luteal,3,Rest,8,Tired
+P2081,Ovulation,7,Heating Pad,3,Sad
+P2082,Ovulation,1,Medication,6,Neutral
+P2083,Luteal,7,Heating Pad,1,Tired
+P2084,Ovulation,6,None,7,Sad
+P2085,Luteal,10,Medication,7,Irritable
+P2086,Ovulation,2,Rest,2,Irritable
+P2087,Ovulation,10,Heating Pad,5,Irritable
+P2088,Ovulation,1,Medication,4,Irritable
+P2089,Menstrual,9,Yoga,10,Neutral
+P2090,Follicular,2,Yoga,9,Sad
+P2091,Follicular,4,Yoga,2,Sad
+P2092,Menstrual,9,Heating Pad,3,Irritable
+P2093,Menstrual,9,Heating Pad,1,Sad
+P2094,Ovulation,1,None,10,Tired
+P2095,Ovulation,2,Rest,5,Happy
+P2096,Menstrual,2,Heating Pad,3,Sad
+P2097,Menstrual,2,Medication,4,Happy
+P2098,Menstrual,8,Medication,4,Neutral
+P2099,Follicular,8,Heating Pad,6,Irritable
+P2100,Luteal,10,Heating Pad,10,Neutral
+P2101,Menstrual,8,Medication,7,Sad
+P2102,Luteal,4,Medication,7,Happy
+P2103,Menstrual,8,Medication,8,Irritable
+P2104,Follicular,7,Medication,3,Irritable
+P2105,Follicular,8,Heating Pad,5,Irritable
+P2106,Menstrual,1,Heating Pad,10,Tired
+P2107,Menstrual,3,Medication,6,Sad
+P2108,Menstrual,10,None,6,Happy
+P2109,Menstrual,6,Medication,8,Sad
+P2110,Menstrual,1,Heating Pad,5,Happy
+P2111,Menstrual,4,Heating Pad,5,Tired
+P2112,Menstrual,9,Heating Pad,1,Happy
+P2113,Ovulation,7,Rest,1,Tired
+P2114,Menstrual,1,Heating Pad,6,Irritable
+P2115,Luteal,6,Heating Pad,10,Tired
+P2116,Follicular,6,Medication,10,Irritable
+P2117,Menstrual,2,Medication,5,Irritable
+P2118,Ovulation,6,Heating Pad,10,Irritable
+P2119,Ovulation,10,Medication,6,Tired
+P2120,Follicular,2,Heating Pad,9,Sad
+P2121,Menstrual,8,Medication,8,Tired
+P2122,Luteal,7,Medication,7,Irritable
+P2123,Ovulation,6,Yoga,7,Irritable
+P2124,Luteal,10,Rest,6,Sad
+P2125,Follicular,6,Heating Pad,6,Happy
+P2126,Follicular,9,Medication,1,Sad
+P2127,Luteal,9,Medication,7,Happy
+P2128,Menstrual,10,Rest,5,Tired
+P2129,Ovulation,10,Yoga,7,Neutral
+P2130,Menstrual,2,Heating Pad,6,Tired
+P2131,Menstrual,3,Rest,8,Sad
+P2132,Ovulation,10,Yoga,3,Neutral
+P2133,Follicular,7,Medication,8,Happy
+P2134,Ovulation,10,Medication,7,Irritable
+P2135,Ovulation,9,Medication,1,Tired
+P2136,Luteal,6,Medication,3,Happy
+P2137,Menstrual,1,Rest,10,Neutral
+P2138,Follicular,7,Medication,4,Irritable
+P2139,Luteal,1,Rest,9,Neutral
+P2140,Ovulation,5,Heating Pad,6,Tired
+P2141,Luteal,9,Yoga,7,Irritable
+P2142,Menstrual,10,Medication,5,Happy
+P2143,Ovulation,10,Rest,3,Tired
+P2144,Follicular,9,Medication,5,Neutral
+P2145,Follicular,1,Rest,7,Happy
+P2146,Menstrual,6,Heating Pad,9,Tired
+P2147,Ovulation,3,Rest,9,Neutral
+P2148,Menstrual,9,Rest,8,Neutral
+P2149,Ovulation,3,Heating Pad,5,Happy
+P2150,Luteal,2,Rest,7,Tired
+P2151,Ovulation,8,Heating Pad,4,Sad
+P2152,Follicular,3,Medication,10,Sad
+P2153,Follicular,5,Heating Pad,5,Sad
+P2154,Luteal,6,Medication,4,Tired
+P2155,Ovulation,10,None,3,Happy
+P2156,Follicular,10,Medication,1,Happy
+P2157,Luteal,1,Medication,5,Neutral
+P2158,Follicular,7,Yoga,2,Happy
+P2159,Follicular,7,Heating Pad,6,Sad
+P2160,Follicular,5,Heating Pad,5,Irritable
+P2161,Ovulation,9,Medication,2,Sad
+P2162,Luteal,2,Heating Pad,8,Irritable
+P2163,Ovulation,5,Rest,5,Tired
+P2164,Ovulation,2,Medication,2,Neutral
+P2165,Follicular,2,Rest,1,Sad
+P2166,Luteal,9,Medication,2,Happy
+P2167,Menstrual,7,Medication,1,Irritable
+P2168,Follicular,4,Heating Pad,10,Irritable
+P2169,Ovulation,8,Rest,10,Tired
+P2170,Ovulation,4,Yoga,3,Tired
+P2171,Menstrual,1,Heating Pad,3,Tired
+P2172,Ovulation,10,Heating Pad,10,Happy
+P2173,Luteal,3,Rest,1,Neutral
+P2174,Luteal,10,Medication,7,Neutral
+P2175,Luteal,1,Heating Pad,10,Irritable
+P2176,Menstrual,2,Medication,7,Happy
+P2177,Ovulation,2,Heating Pad,9,Neutral
+P2178,Luteal,7,Medication,5,Neutral
+P2179,Menstrual,4,Medication,4,Irritable
+P2180,Luteal,10,Medication,5,Neutral
+P2181,Ovulation,9,Medication,8,Irritable
+P2182,Follicular,2,Rest,8,Irritable
+P2183,Follicular,9,Rest,4,Tired
+P2184,Luteal,6,Heating Pad,8,Sad
+P2185,Menstrual,10,None,4,Tired
+P2186,Follicular,8,Heating Pad,4,Neutral
+P2187,Menstrual,7,Medication,8,Tired
+P2188,Luteal,8,Rest,2,Neutral
+P2189,Follicular,9,None,4,Tired
+P2190,Menstrual,8,Heating Pad,1,Happy
+P2191,Luteal,6,Rest,1,Tired
+P2192,Luteal,8,Heating Pad,8,Neutral
+P2193,Menstrual,8,Medication,4,Irritable
+P2194,Ovulation,2,Yoga,6,Irritable
+P2195,Follicular,2,Medication,5,Irritable
+P2196,Follicular,1,None,10,Sad
+P2197,Luteal,10,Medication,6,Neutral
+P2198,Follicular,2,Heating Pad,4,Sad
+P2199,Menstrual,7,Heating Pad,4,Neutral
+P2200,Ovulation,3,Heating Pad,7,Neutral
+P2201,Ovulation,4,Yoga,1,Tired
+P2202,Menstrual,4,None,9,Neutral
+P2203,Ovulation,4,Medication,10,Happy
+P2204,Ovulation,2,Yoga,3,Neutral
+P2205,Ovulation,6,Heating Pad,4,Neutral
+P2206,Follicular,1,Medication,9,Happy
+P2207,Ovulation,5,Heating Pad,5,Sad
+P2208,Follicular,2,None,4,Happy
+P2209,Follicular,9,Yoga,6,Neutral
+P2210,Menstrual,2,Heating Pad,1,Neutral
+P2211,Luteal,6,Heating Pad,10,Irritable
+P2212,Menstrual,4,Medication,1,Neutral
+P2213,Follicular,6,Medication,5,Irritable
+P2214,Menstrual,2,Rest,5,Irritable
+P2215,Luteal,2,Heating Pad,9,Irritable
+P2216,Ovulation,7,Rest,1,Sad
+P2217,Luteal,3,Rest,3,Neutral
+P2218,Follicular,3,Medication,3,Sad
+P2219,Luteal,7,Heating Pad,4,Sad
+P2220,Follicular,8,Rest,7,Happy
+P2221,Ovulation,7,Heating Pad,7,Tired
+P2222,Follicular,3,Medication,10,Sad
+P2223,Menstrual,3,None,5,Neutral
+P2224,Ovulation,7,Medication,9,Happy
+P2225,Luteal,3,Heating Pad,7,Neutral
+P2226,Ovulation,2,Rest,2,Irritable
+P2227,Ovulation,7,Medication,3,Happy
+P2228,Follicular,3,Heating Pad,7,Happy
+P2229,Ovulation,5,Medication,5,Irritable
+P2230,Follicular,7,Heating Pad,7,Neutral
+P2231,Ovulation,2,Rest,9,Tired
+P2232,Menstrual,8,Rest,9,Tired
+P2233,Ovulation,2,Medication,3,Happy
+P2234,Menstrual,4,Heating Pad,8,Irritable
+P2235,Ovulation,4,None,6,Sad
+P2236,Luteal,8,Medication,4,Sad
+P2237,Follicular,1,Medication,4,Irritable
+P2238,Menstrual,9,Rest,4,Tired
+P2239,Follicular,6,Rest,7,Neutral
+P2240,Follicular,4,Heating Pad,6,Irritable
+P2241,Follicular,6,Heating Pad,2,Neutral
+P2242,Menstrual,6,Medication,5,Neutral
+P2243,Menstrual,9,Medication,5,Irritable
+P2244,Luteal,4,None,6,Sad
+P2245,Menstrual,8,Medication,7,Sad
+P2246,Follicular,1,Medication,8,Happy
+P2247,Follicular,6,Medication,10,Sad
+P2248,Ovulation,5,Rest,8,Irritable
+P2249,Luteal,3,Rest,5,Tired
+P2250,Ovulation,4,Heating Pad,2,Tired
+P2251,Menstrual,8,Rest,10,Tired
+P2252,Follicular,10,Rest,8,Tired
+P2253,Follicular,2,Rest,6,Sad
+P2254,Menstrual,8,Medication,3,Irritable
+P2255,Ovulation,7,Medication,4,Happy
+P2256,Follicular,1,Medication,1,Neutral
+P2257,Luteal,2,Rest,3,Happy
+P2258,Luteal,7,Yoga,4,Sad
+P2259,Follicular,3,Medication,2,Neutral
+P2260,Luteal,2,Medication,6,Irritable
+P2261,Menstrual,1,Rest,8,Neutral
+P2262,Follicular,7,Heating Pad,6,Neutral
+P2263,Luteal,3,Heating Pad,10,Sad
+P2264,Menstrual,6,Medication,3,Tired
+P2265,Menstrual,10,Rest,9,Neutral
+P2266,Luteal,8,Medication,4,Irritable
+P2267,Luteal,6,Medication,6,Neutral
+P2268,Follicular,7,Rest,4,Sad
+P2269,Ovulation,6,Medication,4,Neutral
+P2270,Menstrual,7,Medication,2,Neutral
+P2271,Follicular,5,Medication,10,Sad
+P2272,Ovulation,9,Heating Pad,2,Irritable
+P2273,Follicular,3,Rest,2,Tired
+P2274,Menstrual,6,None,2,Irritable
+P2275,Ovulation,9,Rest,8,Sad
+P2276,Luteal,1,Medication,10,Tired
+P2277,Menstrual,5,Medication,4,Tired
+P2278,Luteal,4,Medication,4,Irritable
+P2279,Follicular,9,Heating Pad,10,Tired
+P2280,Ovulation,1,Medication,10,Happy
+P2281,Ovulation,4,Heating Pad,3,Sad
+P2282,Follicular,1,Medication,5,Tired
+P2283,Menstrual,3,Medication,4,Neutral
+P2284,Ovulation,4,Heating Pad,7,Sad
+P2285,Luteal,1,Medication,10,Tired
+P2286,Ovulation,5,Heating Pad,7,Tired
+P2287,Ovulation,6,Heating Pad,6,Irritable
+P2288,Menstrual,1,Medication,7,Neutral
+P2289,Ovulation,10,Rest,7,Sad
+P2290,Follicular,10,Yoga,8,Neutral
+P2291,Ovulation,4,Heating Pad,1,Irritable
+P2292,Luteal,4,Rest,3,Tired
+P2293,Ovulation,1,Yoga,3,Irritable
+P2294,Follicular,2,Heating Pad,5,Sad
+P2295,Ovulation,10,Medication,10,Sad
+P2296,Menstrual,5,Heating Pad,7,Happy
+P2297,Luteal,2,Medication,10,Tired
+P2298,Luteal,3,Heating Pad,6,Happy
+P2299,Follicular,9,Medication,4,Tired
+P2300,Menstrual,5,Medication,6,Neutral
+P2301,Ovulation,1,Yoga,7,Happy
+P2302,Ovulation,5,Yoga,4,Tired
+P2303,Ovulation,3,Medication,8,Sad
+P2304,Ovulation,1,Medication,5,Irritable
+P2305,Follicular,3,Heating Pad,3,Happy
+P2306,Follicular,6,Heating Pad,2,Neutral
+P2307,Luteal,10,Heating Pad,1,Irritable
+P2308,Luteal,5,Rest,4,Happy
+P2309,Menstrual,1,Heating Pad,2,Irritable
+P2310,Ovulation,2,None,3,Irritable
+P2311,Ovulation,5,Heating Pad,1,Sad
+P2312,Follicular,9,Rest,6,Happy
+P2313,Menstrual,5,Heating Pad,4,Tired
+P2314,Follicular,5,Medication,5,Irritable
+P2315,Ovulation,1,Rest,8,Happy
+P2316,Luteal,5,Heating Pad,4,Tired
+P2317,Menstrual,8,Heating Pad,6,Tired
+P2318,Ovulation,9,Medication,3,Irritable
+P2319,Follicular,10,Yoga,8,Sad
+P2320,Ovulation,3,Medication,3,Irritable
+P2321,Follicular,4,Heating Pad,7,Neutral
+P2322,Ovulation,7,Rest,7,Neutral
+P2323,Follicular,7,Heating Pad,3,Sad
+P2324,Menstrual,1,Heating Pad,3,Happy
+P2325,Follicular,6,Heating Pad,10,Irritable
+P2326,Menstrual,9,Rest,10,Tired
+P2327,Menstrual,5,Medication,8,Sad
+P2328,Luteal,8,Medication,3,Neutral
+P2329,Ovulation,10,Heating Pad,2,Irritable
+P2330,Ovulation,9,Yoga,5,Sad
+P2331,Luteal,10,Heating Pad,7,Irritable
+P2332,Follicular,10,Medication,8,Happy
+P2333,Ovulation,3,Medication,1,Irritable
+P2334,Luteal,1,Medication,2,Irritable
+P2335,Follicular,2,Medication,7,Tired
+P2336,Luteal,5,None,9,Tired
+P2337,Luteal,10,Yoga,3,Sad
+P2338,Ovulation,7,Rest,8,Happy
+P2339,Ovulation,6,Heating Pad,10,Neutral
+P2340,Luteal,4,Medication,3,Irritable
+P2341,Follicular,9,Heating Pad,4,Happy
+P2342,Luteal,4,Heating Pad,2,Neutral
+P2343,Follicular,3,Heating Pad,9,Irritable
+P2344,Luteal,5,Heating Pad,5,Irritable
+P2345,Ovulation,4,Heating Pad,5,Tired
+P2346,Menstrual,2,Rest,4,Tired
+P2347,Luteal,3,Medication,5,Tired
+P2348,Ovulation,7,Medication,1,Sad
+P2349,Follicular,2,Heating Pad,10,Sad
+P2350,Follicular,1,Heating Pad,10,Happy
+P2351,Luteal,2,None,6,Tired
+P2352,Luteal,8,Rest,4,Neutral
+P2353,Luteal,8,Heating Pad,4,Irritable
+P2354,Follicular,10,Medication,5,Irritable
+P2355,Menstrual,2,Medication,1,Tired
+P2356,Menstrual,6,Heating Pad,4,Tired
+P2357,Menstrual,7,Medication,10,Sad
+P2358,Follicular,1,Medication,3,Irritable
+P2359,Ovulation,7,Heating Pad,5,Neutral
+P2360,Menstrual,8,Rest,10,Irritable
+P2361,Menstrual,9,Heating Pad,5,Happy
+P2362,Luteal,8,Heating Pad,8,Happy
+P2363,Ovulation,3,Heating Pad,1,Tired
+P2364,Menstrual,8,Rest,3,Sad
+P2365,Menstrual,3,Yoga,5,Tired
+P2366,Luteal,6,Heating Pad,3,Sad
+P2367,Luteal,4,Heating Pad,6,Tired
+P2368,Menstrual,7,Heating Pad,10,Irritable
+P2369,Luteal,8,Medication,3,Irritable
+P2370,Ovulation,10,Heating Pad,6,Happy
+P2371,Follicular,6,Heating Pad,8,Sad
+P2372,Luteal,10,Heating Pad,4,Sad
+P2373,Luteal,4,Medication,8,Neutral
+P2374,Ovulation,8,Rest,7,Sad
+P2375,Follicular,7,Medication,4,Neutral
+P2376,Menstrual,10,Medication,3,Sad
+P2377,Follicular,8,Rest,5,Irritable
+P2378,Luteal,10,Medication,5,Neutral
+P2379,Ovulation,7,None,7,Irritable
+P2380,Menstrual,3,Rest,1,Sad
+P2381,Menstrual,3,None,9,Neutral
+P2382,Menstrual,9,Medication,2,Tired
+P2383,Ovulation,7,Medication,9,Neutral
+P2384,Luteal,1,Medication,9,Tired
+P2385,Ovulation,3,Heating Pad,3,Happy
+P2386,Menstrual,1,Yoga,7,Sad
+P2387,Ovulation,6,None,3,Happy
+P2388,Luteal,2,Medication,8,Tired
+P2389,Follicular,7,Yoga,8,Neutral
+P2390,Follicular,8,Rest,3,Neutral
+P2391,Luteal,6,Heating Pad,5,Happy
+P2392,Luteal,5,Medication,7,Irritable
+P2393,Menstrual,10,None,1,Tired
+P2394,Follicular,4,Medication,3,Irritable
+P2395,Ovulation,9,Yoga,1,Sad
+P2396,Ovulation,8,Medication,2,Irritable
+P2397,Follicular,5,Rest,7,Sad
+P2398,Luteal,1,Heating Pad,7,Neutral
+P2399,Ovulation,8,Medication,3,Happy
+P2400,Luteal,8,Heating Pad,6,Irritable
+P2401,Luteal,7,Medication,6,Irritable
+P2402,Ovulation,7,Medication,2,Neutral
+P2403,Follicular,8,None,9,Tired
+P2404,Luteal,1,Medication,8,Tired
+P2405,Luteal,3,Rest,2,Happy
+P2406,Luteal,4,Heating Pad,4,Happy
+P2407,Follicular,6,Heating Pad,9,Happy
+P2408,Menstrual,10,Rest,4,Irritable
+P2409,Luteal,10,Heating Pad,7,Tired
+P2410,Luteal,9,Yoga,5,Tired
+P2411,Follicular,4,Medication,10,Tired
+P2412,Ovulation,6,Rest,6,Irritable
+P2413,Luteal,9,Medication,1,Irritable
+P2414,Luteal,9,Rest,4,Tired
+P2415,Follicular,6,Heating Pad,5,Tired
+P2416,Ovulation,5,Heating Pad,6,Happy
+P2417,Menstrual,3,Rest,6,Sad
+P2418,Menstrual,5,Rest,5,Sad
+P2419,Luteal,3,Medication,3,Irritable
+P2420,Menstrual,5,Heating Pad,2,Tired
+P2421,Menstrual,10,Rest,7,Tired
+P2422,Follicular,10,Medication,1,Neutral
+P2423,Follicular,1,Medication,5,Tired
+P2424,Follicular,6,None,4,Happy
+P2425,Menstrual,7,Rest,7,Tired
+P2426,Follicular,2,Medication,2,Tired
+P2427,Ovulation,3,Medication,8,Happy
+P2428,Luteal,10,Rest,9,Irritable
+P2429,Luteal,9,Heating Pad,10,Sad
+P2430,Luteal,8,Rest,1,Happy
+P2431,Ovulation,4,Medication,5,Happy
+P2432,Follicular,8,Rest,4,Irritable
+P2433,Menstrual,8,Medication,5,Tired
+P2434,Luteal,6,Yoga,9,Sad
+P2435,Ovulation,1,Rest,3,Tired
+P2436,Luteal,2,Heating Pad,1,Happy
+P2437,Ovulation,4,Heating Pad,3,Irritable
+P2438,Menstrual,4,Medication,4,Sad
+P2439,Luteal,2,Rest,2,Irritable
+P2440,Follicular,9,Medication,1,Irritable
+P2441,Follicular,2,Yoga,1,Happy
+P2442,Luteal,6,Yoga,8,Neutral
+P2443,Follicular,5,Yoga,4,Irritable
+P2444,Ovulation,4,None,2,Happy
+P2445,Ovulation,6,Medication,10,Neutral
+P2446,Follicular,4,Yoga,3,Sad
+P2447,Luteal,9,Medication,8,Tired
+P2448,Luteal,10,Rest,6,Happy
+P2449,Follicular,7,None,8,Happy
+P2450,Follicular,3,Yoga,10,Tired
+P2451,Menstrual,10,Medication,5,Irritable
+P2452,Menstrual,4,Medication,3,Tired
+P2453,Ovulation,1,Medication,6,Sad
+P2454,Luteal,6,Heating Pad,10,Sad
+P2455,Menstrual,2,Heating Pad,8,Neutral
+P2456,Menstrual,4,Medication,5,Neutral
+P2457,Luteal,5,Heating Pad,5,Happy
+P2458,Menstrual,8,Rest,3,Sad
+P2459,Follicular,3,Rest,3,Neutral
+P2460,Follicular,6,Medication,8,Happy
+P2461,Follicular,1,Rest,1,Sad
+P2462,Ovulation,9,Heating Pad,4,Neutral
+P2463,Follicular,1,Heating Pad,9,Happy
+P2464,Menstrual,2,Heating Pad,6,Sad
+P2465,Luteal,1,Medication,6,Sad
+P2466,Menstrual,8,Medication,10,Neutral
+P2467,Ovulation,4,Yoga,7,Happy
+P2468,Follicular,2,Medication,7,Neutral
+P2469,Menstrual,7,Medication,6,Neutral
+P2470,Follicular,8,Heating Pad,9,Happy
+P2471,Follicular,9,Heating Pad,8,Neutral
+P2472,Menstrual,5,Yoga,8,Irritable
+P2473,Ovulation,3,None,2,Sad
+P2474,Follicular,1,Medication,7,Tired
+P2475,Menstrual,8,Heating Pad,1,Irritable
+P2476,Luteal,6,Heating Pad,10,Tired
+P2477,Luteal,5,Yoga,8,Sad
+P2478,Follicular,7,Medication,3,Happy
+P2479,Menstrual,5,Medication,9,Tired
+P2480,Follicular,4,Heating Pad,5,Tired
+P2481,Luteal,5,Yoga,7,Tired
+P2482,Luteal,7,Medication,7,Happy
+P2483,Follicular,6,Heating Pad,9,Neutral
+P2484,Luteal,10,Heating Pad,2,Sad
+P2485,Luteal,10,Medication,4,Sad
+P2486,Ovulation,9,Heating Pad,8,Sad
+P2487,Follicular,10,Medication,5,Irritable
+P2488,Menstrual,2,Heating Pad,5,Irritable
+P2489,Follicular,7,Medication,3,Sad
+P2490,Menstrual,1,Heating Pad,5,Neutral
+P2491,Menstrual,8,Yoga,7,Happy
+P2492,Ovulation,4,Heating Pad,4,Happy
+P2493,Luteal,8,Medication,8,Irritable
+P2494,Ovulation,8,Heating Pad,6,Tired
+P2495,Follicular,4,Rest,6,Neutral
+P2496,Follicular,4,Medication,6,Neutral
+P2497,Menstrual,5,Yoga,4,Happy
+P2498,Follicular,7,Heating Pad,3,Sad
+P2499,Follicular,6,Medication,10,Tired
+P2500,Menstrual,1,Medication,6,Tired
+P2501,Menstrual,6,Heating Pad,6,Irritable
+P2502,Ovulation,3,Heating Pad,2,Tired
+P2503,Menstrual,9,Medication,10,Happy
+P2504,Ovulation,3,Heating Pad,9,Irritable
+P2505,Menstrual,9,Medication,4,Neutral
+P2506,Follicular,5,Medication,4,Sad
+P2507,Ovulation,10,Medication,10,Irritable
+P2508,Follicular,8,Medication,8,Tired
+P2509,Luteal,9,Heating Pad,3,Sad
+P2510,Luteal,9,Heating Pad,10,Happy
+P2511,Follicular,7,Medication,7,Sad
+P2512,Follicular,10,Medication,7,Sad
+P2513,Luteal,1,Heating Pad,2,Sad
+P2514,Follicular,8,Medication,3,Happy
+P2515,Luteal,7,Medication,4,Irritable
+P2516,Follicular,4,Medication,2,Neutral
+P2517,Menstrual,6,Yoga,9,Happy
+P2518,Menstrual,10,Medication,10,Tired
+P2519,Luteal,2,Medication,6,Irritable
+P2520,Follicular,4,Heating Pad,1,Happy
+P2521,Ovulation,8,Medication,1,Happy
+P2522,Ovulation,4,Heating Pad,8,Neutral
+P2523,Ovulation,10,Medication,6,Neutral
+P2524,Luteal,4,Medication,10,Neutral
+P2525,Luteal,4,Heating Pad,7,Tired
+P2526,Menstrual,10,Heating Pad,6,Tired
+P2527,Menstrual,9,Heating Pad,2,Sad
+P2528,Ovulation,2,Yoga,3,Irritable
+P2529,Ovulation,7,Heating Pad,8,Sad
+P2530,Follicular,3,Medication,4,Sad
+P2531,Ovulation,4,Heating Pad,8,Sad
+P2532,Follicular,1,Heating Pad,3,Irritable
+P2533,Menstrual,3,Rest,2,Irritable
+P2534,Luteal,2,Heating Pad,7,Irritable
+P2535,Follicular,10,Yoga,1,Sad
+P2536,Menstrual,7,Medication,3,Tired
+P2537,Follicular,6,Rest,2,Irritable
+P2538,Follicular,1,Medication,5,Irritable
+P2539,Ovulation,8,Heating Pad,2,Happy
+P2540,Follicular,9,Rest,10,Sad
+P2541,Ovulation,1,None,5,Happy
+P2542,Follicular,5,None,3,Tired
+P2543,Menstrual,7,Medication,9,Tired
+P2544,Ovulation,2,Medication,10,Irritable
+P2545,Menstrual,6,Medication,9,Tired
+P2546,Luteal,8,None,8,Sad
+P2547,Ovulation,8,Yoga,5,Happy
+P2548,Menstrual,10,Heating Pad,10,Neutral
+P2549,Luteal,10,Heating Pad,7,Happy
+P2550,Menstrual,8,Heating Pad,2,Sad
+P2551,Luteal,6,Medication,3,Happy
+P2552,Ovulation,6,Medication,2,Irritable
+P2553,Ovulation,3,Heating Pad,10,Neutral
+P2554,Menstrual,2,Medication,1,Neutral
+P2555,Menstrual,5,Medication,3,Irritable
+P2556,Luteal,9,Heating Pad,4,Irritable
+P2557,Follicular,4,Medication,9,Happy
+P2558,Ovulation,5,Medication,2,Neutral
+P2559,Follicular,6,Rest,9,Irritable
+P2560,Luteal,6,Rest,1,Sad
+P2561,Follicular,4,Heating Pad,9,Neutral
+P2562,Luteal,4,Rest,6,Sad
+P2563,Menstrual,8,Medication,8,Tired
+P2564,Ovulation,5,Heating Pad,3,Irritable
+P2565,Follicular,5,Medication,8,Neutral
+P2566,Luteal,9,Rest,9,Irritable
+P2567,Luteal,4,Rest,7,Happy
+P2568,Ovulation,7,Medication,4,Sad
+P2569,Menstrual,5,Medication,6,Irritable
+P2570,Luteal,9,Rest,6,Tired
+P2571,Follicular,8,Medication,2,Tired
+P2572,Luteal,8,Medication,2,Neutral
+P2573,Ovulation,10,None,5,Neutral
+P2574,Ovulation,10,Medication,1,Happy
+P2575,Ovulation,3,Medication,5,Tired
+P2576,Follicular,9,None,10,Tired
+P2577,Menstrual,8,Heating Pad,3,Neutral
+P2578,Ovulation,3,Yoga,3,Tired
+P2579,Ovulation,10,Medication,8,Happy
+P2580,Menstrual,1,Heating Pad,3,Tired
+P2581,Menstrual,5,Medication,3,Neutral
+P2582,Menstrual,4,Heating Pad,1,Happy
+P2583,Ovulation,8,Medication,8,Happy
+P2584,Follicular,6,Heating Pad,10,Tired
+P2585,Menstrual,10,Medication,10,Irritable
+P2586,Ovulation,5,None,6,Happy
+P2587,Menstrual,9,Heating Pad,8,Neutral
+P2588,Ovulation,6,Medication,3,Happy
+P2589,Menstrual,3,Heating Pad,6,Sad
+P2590,Follicular,6,Rest,2,Tired
+P2591,Follicular,4,Heating Pad,3,Irritable
+P2592,Follicular,5,Heating Pad,4,Neutral
+P2593,Luteal,6,Rest,9,Happy
+P2594,Ovulation,9,Heating Pad,4,Happy
+P2595,Luteal,3,Medication,7,Tired
+P2596,Luteal,1,Yoga,8,Neutral
+P2597,Menstrual,2,Medication,5,Tired
+P2598,Follicular,8,Heating Pad,2,Irritable
+P2599,Luteal,4,Medication,8,Happy
+P2600,Menstrual,7,Yoga,5,Irritable
+P2601,Luteal,2,Heating Pad,5,Happy
+P2602,Follicular,10,Medication,7,Sad
+P2603,Ovulation,8,Rest,6,Sad
+P2604,Menstrual,10,Medication,3,Tired
+P2605,Menstrual,9,Yoga,7,Neutral
+P2606,Ovulation,7,Rest,1,Happy
+P2607,Follicular,10,Medication,4,Happy
+P2608,Menstrual,1,Yoga,4,Neutral
+P2609,Luteal,2,Heating Pad,6,Irritable
+P2610,Follicular,9,None,6,Neutral
+P2611,Luteal,10,Yoga,10,Sad
+P2612,Follicular,7,Heating Pad,8,Sad
+P2613,Luteal,3,None,1,Neutral
+P2614,Ovulation,5,Rest,7,Sad
+P2615,Follicular,1,Medication,4,Happy
+P2616,Ovulation,10,Medication,6,Sad
+P2617,Menstrual,3,Heating Pad,10,Irritable
+P2618,Follicular,4,Heating Pad,9,Happy
+P2619,Ovulation,4,Medication,3,Tired
+P2620,Ovulation,7,Medication,8,Sad
+P2621,Menstrual,5,Heating Pad,3,Neutral
+P2622,Ovulation,9,Medication,6,Neutral
+P2623,Ovulation,7,Rest,2,Sad
+P2624,Luteal,2,Rest,9,Happy
+P2625,Ovulation,8,Medication,2,Tired
+P2626,Follicular,2,Heating Pad,5,Neutral
+P2627,Menstrual,7,Heating Pad,6,Happy
+P2628,Luteal,5,Yoga,4,Neutral
+P2629,Ovulation,10,Rest,7,Irritable
+P2630,Luteal,6,Heating Pad,7,Happy
+P2631,Luteal,4,Rest,7,Sad
+P2632,Follicular,5,Medication,7,Irritable
+P2633,Menstrual,5,Yoga,10,Neutral
+P2634,Luteal,7,Heating Pad,10,Tired
+P2635,Menstrual,4,Rest,9,Irritable
+P2636,Follicular,5,Rest,2,Happy
+P2637,Menstrual,4,Heating Pad,5,Neutral
+P2638,Menstrual,4,Medication,10,Happy
+P2639,Luteal,8,Yoga,9,Neutral
+P2640,Menstrual,5,Heating Pad,2,Neutral
+P2641,Ovulation,9,Heating Pad,3,Happy
+P2642,Ovulation,5,Rest,7,Neutral
+P2643,Follicular,8,Medication,9,Tired
+P2644,Luteal,3,None,3,Neutral
+P2645,Menstrual,7,Medication,10,Happy
+P2646,Follicular,1,Heating Pad,8,Tired
+P2647,Ovulation,5,Yoga,8,Irritable
+P2648,Menstrual,2,Heating Pad,4,Tired
+P2649,Ovulation,8,Rest,6,Irritable
+P2650,Follicular,6,Heating Pad,8,Sad
+P2651,Luteal,5,Yoga,9,Sad
+P2652,Luteal,3,Medication,2,Happy
+P2653,Menstrual,1,Rest,1,Neutral
+P2654,Ovulation,10,Rest,5,Happy
+P2655,Menstrual,10,Rest,10,Tired
+P2656,Ovulation,10,Medication,3,Neutral
+P2657,Follicular,10,Medication,6,Tired
+P2658,Follicular,8,Medication,1,Happy
+P2659,Follicular,5,Rest,4,Sad
+P2660,Menstrual,9,Medication,6,Irritable
+P2661,Menstrual,7,None,2,Tired
+P2662,Menstrual,1,Heating Pad,8,Happy
+P2663,Luteal,1,Medication,4,Neutral
+P2664,Luteal,7,Heating Pad,2,Sad
+P2665,Follicular,7,Heating Pad,1,Sad
+P2666,Menstrual,9,Heating Pad,8,Happy
+P2667,Ovulation,2,Rest,10,Tired
+P2668,Luteal,7,Rest,1,Irritable
+P2669,Ovulation,2,Heating Pad,7,Neutral
+P2670,Luteal,10,Heating Pad,7,Sad
+P2671,Luteal,10,None,6,Tired
+P2672,Luteal,2,Yoga,8,Neutral
+P2673,Luteal,5,Medication,10,Irritable
+P2674,Follicular,9,Heating Pad,1,Sad
+P2675,Luteal,9,Heating Pad,1,Irritable
+P2676,Menstrual,10,Medication,1,Neutral
+P2677,Ovulation,1,Medication,6,Tired
+P2678,Ovulation,7,Medication,7,Sad
+P2679,Menstrual,10,Yoga,10,Happy
+P2680,Luteal,10,Medication,9,Neutral
+P2681,Follicular,3,Heating Pad,10,Tired
+P2682,Menstrual,10,Medication,5,Sad
+P2683,Luteal,10,Medication,1,Sad
+P2684,Follicular,1,Medication,9,Happy
+P2685,Ovulation,2,Medication,5,Neutral
+P2686,Follicular,6,Yoga,6,Sad
+P2687,Ovulation,10,Heating Pad,9,Sad
+P2688,Luteal,2,Medication,2,Happy
+P2689,Menstrual,2,Medication,3,Happy
+P2690,Ovulation,4,Rest,7,Irritable
+P2691,Ovulation,3,Heating Pad,3,Happy
+P2692,Ovulation,8,Medication,2,Irritable
+P2693,Ovulation,8,Rest,7,Tired
+P2694,Menstrual,6,Medication,8,Irritable
+P2695,Follicular,4,Yoga,9,Irritable
+P2696,Luteal,7,Rest,2,Irritable
+P2697,Follicular,9,Heating Pad,2,Tired
+P2698,Menstrual,2,Medication,7,Happy
+P2699,Follicular,6,Medication,4,Neutral
+P2700,Ovulation,7,Heating Pad,5,Irritable
+P2701,Ovulation,1,Heating Pad,1,Neutral
+P2702,Follicular,6,Rest,6,Tired
+P2703,Luteal,8,Medication,10,Happy
+P2704,Menstrual,7,Heating Pad,8,Neutral
+P2705,Luteal,2,Medication,1,Tired
+P2706,Follicular,2,Rest,2,Tired
+P2707,Luteal,4,Heating Pad,7,Sad
+P2708,Ovulation,5,Heating Pad,2,Neutral
+P2709,Ovulation,5,Medication,9,Happy
+P2710,Follicular,2,Rest,6,Neutral
+P2711,Menstrual,7,Heating Pad,5,Neutral
+P2712,Luteal,8,Heating Pad,7,Sad
+P2713,Follicular,2,Heating Pad,10,Irritable
+P2714,Ovulation,4,Rest,8,Neutral
+P2715,Follicular,3,None,9,Happy
+P2716,Menstrual,4,Heating Pad,6,Sad
+P2717,Menstrual,5,Medication,5,Sad
+P2718,Follicular,6,Rest,7,Irritable
+P2719,Ovulation,2,Heating Pad,2,Sad
+P2720,Follicular,10,Heating Pad,8,Irritable
+P2721,Menstrual,6,Medication,4,Sad
+P2722,Luteal,9,Medication,1,Sad
+P2723,Ovulation,8,Heating Pad,3,Sad
+P2724,Follicular,1,Heating Pad,9,Sad
+P2725,Luteal,9,Medication,4,Tired
+P2726,Follicular,10,Heating Pad,10,Sad
+P2727,Menstrual,2,Heating Pad,10,Sad
+P2728,Menstrual,1,Rest,3,Tired
+P2729,Follicular,6,Medication,4,Happy
+P2730,Follicular,1,Heating Pad,3,Tired
+P2731,Luteal,6,Heating Pad,3,Tired
+P2732,Follicular,2,Medication,2,Sad
+P2733,Follicular,7,Heating Pad,6,Happy
+P2734,Menstrual,7,Medication,10,Happy
+P2735,Menstrual,4,Medication,6,Tired
+P2736,Ovulation,2,Medication,10,Irritable
+P2737,Follicular,7,Heating Pad,4,Happy
+P2738,Luteal,1,Heating Pad,8,Irritable
+P2739,Luteal,2,Rest,6,Happy
+P2740,Ovulation,2,Medication,8,Irritable
+P2741,Follicular,1,Heating Pad,6,Neutral
+P2742,Follicular,9,Rest,9,Sad
+P2743,Menstrual,6,Medication,3,Happy
+P2744,Menstrual,3,Medication,3,Irritable
+P2745,Menstrual,6,Heating Pad,2,Happy
+P2746,Luteal,7,Rest,10,Sad
+P2747,Luteal,3,Yoga,6,Happy
+P2748,Menstrual,4,Heating Pad,7,Sad
+P2749,Follicular,10,Rest,7,Irritable
+P2750,Ovulation,1,Heating Pad,5,Happy
+P2751,Ovulation,6,Yoga,6,Irritable
+P2752,Follicular,6,Heating Pad,7,Happy
+P2753,Menstrual,9,Heating Pad,2,Neutral
+P2754,Follicular,2,Heating Pad,10,Happy
+P2755,Menstrual,5,Yoga,7,Sad
+P2756,Luteal,5,None,1,Tired
+P2757,Follicular,7,Rest,6,Irritable
+P2758,Ovulation,5,Medication,8,Neutral
+P2759,Luteal,10,Medication,1,Neutral
+P2760,Follicular,4,Heating Pad,1,Happy
+P2761,Luteal,10,Heating Pad,6,Irritable
+P2762,Ovulation,2,Rest,5,Irritable
+P2763,Follicular,8,Medication,3,Tired
+P2764,Follicular,5,Heating Pad,10,Neutral
+P2765,Follicular,4,Medication,10,Happy
+P2766,Follicular,9,Medication,7,Neutral
+P2767,Menstrual,2,Medication,7,Tired
+P2768,Menstrual,3,Heating Pad,7,Tired
+P2769,Menstrual,8,Heating Pad,6,Sad
+P2770,Menstrual,4,Rest,4,Sad
+P2771,Ovulation,9,Heating Pad,9,Irritable
+P2772,Menstrual,10,Heating Pad,9,Happy
+P2773,Follicular,10,Medication,7,Happy
+P2774,Luteal,10,Rest,7,Tired
+P2775,Luteal,10,None,8,Happy
+P2776,Ovulation,9,Heating Pad,5,Irritable
+P2777,Ovulation,10,Heating Pad,9,Happy
+P2778,Ovulation,9,Rest,6,Irritable
+P2779,Menstrual,1,Heating Pad,7,Irritable
+P2780,Ovulation,6,Heating Pad,7,Happy
+P2781,Ovulation,10,Heating Pad,9,Irritable
+P2782,Luteal,6,Medication,7,Irritable
+P2783,Luteal,8,Heating Pad,3,Neutral
+P2784,Menstrual,7,Heating Pad,6,Tired
+P2785,Menstrual,7,Yoga,6,Sad
+P2786,Ovulation,2,Medication,7,Neutral
+P2787,Ovulation,4,Heating Pad,6,Tired
+P2788,Menstrual,1,Medication,4,Irritable
+P2789,Ovulation,7,Heating Pad,6,Sad
+P2790,Luteal,4,Medication,3,Irritable
+P2791,Follicular,9,Medication,1,Happy
+P2792,Ovulation,6,Rest,1,Irritable
+P2793,Menstrual,6,Medication,5,Happy
+P2794,Ovulation,9,Medication,8,Tired
+P2795,Luteal,8,Medication,3,Tired
+P2796,Luteal,6,Medication,2,Sad
+P2797,Ovulation,6,Yoga,8,Sad
+P2798,Luteal,6,Rest,9,Neutral
+P2799,Menstrual,4,Rest,9,Sad
+P2800,Luteal,5,Yoga,2,Tired
+P2801,Follicular,3,Heating Pad,8,Sad
+P2802,Ovulation,9,Heating Pad,2,Sad
+P2803,Follicular,2,Heating Pad,7,Irritable
+P2804,Menstrual,7,Heating Pad,8,Sad
+P2805,Menstrual,1,Heating Pad,1,Happy
+P2806,Luteal,10,Medication,8,Neutral
+P2807,Menstrual,7,Heating Pad,3,Tired
+P2808,Luteal,2,Yoga,1,Irritable
+P2809,Follicular,5,Rest,7,Tired
+P2810,Follicular,1,Heating Pad,10,Happy
+P2811,Menstrual,5,Rest,3,Irritable
+P2812,Follicular,4,Rest,8,Tired
+P2813,Luteal,1,None,9,Tired
+P2814,Luteal,1,Heating Pad,2,Neutral
+P2815,Follicular,7,Rest,1,Tired
+P2816,Menstrual,3,Heating Pad,8,Irritable
+P2817,Ovulation,10,Heating Pad,10,Sad
+P2818,Follicular,9,Medication,6,Neutral
+P2819,Menstrual,9,Medication,10,Sad
+P2820,Ovulation,10,Rest,1,Neutral
+P2821,Menstrual,9,Heating Pad,3,Sad
+P2822,Follicular,1,Rest,9,Sad
+P2823,Menstrual,4,Medication,9,Neutral
+P2824,Menstrual,1,Heating Pad,6,Neutral
+P2825,Menstrual,1,Medication,3,Happy
+P2826,Menstrual,9,Heating Pad,8,Neutral
+P2827,Menstrual,5,Heating Pad,6,Neutral
+P2828,Menstrual,1,Medication,1,Happy
+P2829,Ovulation,3,Yoga,6,Neutral
+P2830,Luteal,7,Heating Pad,5,Irritable
+P2831,Ovulation,2,Medication,8,Irritable
+P2832,Follicular,4,Rest,2,Neutral
+P2833,Ovulation,2,Medication,7,Neutral
+P2834,Luteal,9,Medication,6,Happy
+P2835,Menstrual,9,Heating Pad,1,Irritable
+P2836,Ovulation,7,Medication,8,Sad
+P2837,Ovulation,7,Medication,6,Sad
+P2838,Follicular,2,Yoga,3,Happy
+P2839,Follicular,10,Rest,5,Happy
+P2840,Luteal,8,Yoga,7,Happy
+P2841,Menstrual,1,Medication,9,Irritable
+P2842,Follicular,8,Yoga,4,Irritable
+P2843,Menstrual,5,Heating Pad,2,Irritable
+P2844,Ovulation,4,Medication,3,Neutral
+P2845,Menstrual,10,Yoga,7,Neutral
+P2846,Menstrual,2,Heating Pad,8,Tired
+P2847,Menstrual,3,Heating Pad,5,Sad
+P2848,Ovulation,10,Heating Pad,3,Tired
+P2849,Luteal,2,Heating Pad,1,Irritable
+P2850,Ovulation,4,Medication,10,Neutral
+P2851,Ovulation,3,Medication,1,Tired
+P2852,Follicular,5,Heating Pad,2,Sad
+P2853,Luteal,7,Medication,5,Irritable
+P2854,Ovulation,9,Medication,3,Irritable
+P2855,Menstrual,5,Medication,7,Happy
+P2856,Ovulation,8,Medication,2,Tired
+P2857,Luteal,2,Heating Pad,2,Neutral
+P2858,Follicular,6,Rest,3,Tired
+P2859,Luteal,8,Medication,1,Tired
+P2860,Ovulation,9,Medication,2,Neutral
+P2861,Ovulation,4,Medication,5,Tired
+P2862,Menstrual,4,Heating Pad,3,Sad
+P2863,Ovulation,7,Medication,10,Irritable
+P2864,Luteal,4,Heating Pad,6,Sad
+P2865,Ovulation,5,Medication,2,Sad
+P2866,Luteal,2,Medication,8,Irritable
+P2867,Menstrual,2,Heating Pad,4,Neutral
+P2868,Menstrual,10,Rest,3,Happy
+P2869,Luteal,5,Heating Pad,5,Irritable
+P2870,Luteal,10,Yoga,8,Happy
+P2871,Menstrual,10,Heating Pad,9,Tired
+P2872,Follicular,2,Medication,1,Happy
+P2873,Follicular,6,Yoga,4,Tired
+P2874,Ovulation,6,Medication,6,Sad
+P2875,Luteal,8,Rest,6,Happy
+P2876,Luteal,1,Heating Pad,9,Irritable
+P2877,Luteal,7,Rest,1,Happy
+P2878,Ovulation,7,Heating Pad,5,Sad
+P2879,Ovulation,9,Medication,10,Irritable
+P2880,Ovulation,4,Heating Pad,1,Sad
+P2881,Follicular,7,Yoga,6,Neutral
+P2882,Follicular,6,Heating Pad,9,Tired
+P2883,Ovulation,4,Medication,4,Irritable
+P2884,Luteal,10,Medication,10,Sad
+P2885,Follicular,8,Heating Pad,10,Neutral
+P2886,Luteal,3,Heating Pad,9,Irritable
+P2887,Luteal,8,Medication,3,Sad
+P2888,Follicular,5,Heating Pad,7,Tired
+P2889,Luteal,4,Medication,5,Tired
+P2890,Ovulation,3,Heating Pad,10,Tired
+P2891,Follicular,10,Medication,1,Neutral
+P2892,Luteal,7,Heating Pad,7,Sad
+P2893,Luteal,7,Heating Pad,8,Neutral
+P2894,Ovulation,6,Medication,6,Sad
+P2895,Luteal,3,Rest,1,Sad
+P2896,Ovulation,9,Medication,9,Happy
+P2897,Luteal,2,Medication,7,Happy
+P2898,Follicular,3,Medication,6,Neutral
+P2899,Follicular,1,Heating Pad,4,Neutral
+P2900,Follicular,7,Yoga,3,Happy
+P2901,Luteal,2,Yoga,4,Sad
+P2902,Menstrual,10,Heating Pad,1,Neutral
+P2903,Follicular,8,Heating Pad,9,Irritable
+P2904,Ovulation,9,Heating Pad,2,Happy
+P2905,Follicular,2,Rest,2,Sad
+P2906,Follicular,6,Heating Pad,3,Neutral
+P2907,Ovulation,1,Rest,1,Tired
+P2908,Ovulation,8,Medication,10,Happy
+P2909,Luteal,5,Medication,3,Tired
+P2910,Follicular,9,Medication,4,Sad
+P2911,Ovulation,3,Heating Pad,9,Happy
+P2912,Follicular,2,Medication,5,Sad
+P2913,Menstrual,7,Medication,6,Sad
+P2914,Follicular,7,Rest,1,Tired
+P2915,Follicular,10,Rest,3,Tired
+P2916,Luteal,5,Heating Pad,7,Neutral
+P2917,Ovulation,7,Medication,7,Tired
+P2918,Menstrual,6,Heating Pad,10,Happy
+P2919,Menstrual,9,Medication,1,Tired
+P2920,Ovulation,3,Medication,9,Tired
+P2921,Ovulation,4,Medication,1,Tired
+P2922,Luteal,9,Heating Pad,7,Happy
+P2923,Follicular,10,Medication,2,Neutral
+P2924,Follicular,8,Medication,9,Neutral
+P2925,Luteal,10,Medication,9,Tired
+P2926,Menstrual,6,Heating Pad,9,Sad
+P2927,Follicular,3,Heating Pad,4,Neutral
+P2928,Follicular,9,Medication,6,Tired
+P2929,Menstrual,9,Heating Pad,2,Tired
+P2930,Ovulation,6,Yoga,3,Sad
+P2931,Menstrual,2,Heating Pad,6,Happy
+P2932,Follicular,7,Medication,1,Irritable
+P2933,Ovulation,9,Heating Pad,7,Neutral
+P2934,Ovulation,9,Medication,2,Neutral
+P2935,Menstrual,3,Rest,8,Sad
+P2936,Follicular,2,Heating Pad,5,Irritable
+P2937,Follicular,5,Medication,7,Happy
+P2938,Follicular,10,Medication,8,Neutral
+P2939,Luteal,7,Rest,3,Neutral
+P2940,Luteal,3,Heating Pad,6,Sad
+P2941,Ovulation,4,Medication,9,Tired
+P2942,Luteal,10,Medication,4,Sad
+P2943,Ovulation,2,Heating Pad,10,Tired
+P2944,Ovulation,10,Medication,7,Tired
+P2945,Ovulation,2,Rest,1,Tired
+P2946,Menstrual,7,Yoga,7,Happy
+P2947,Luteal,2,Medication,9,Happy
+P2948,Luteal,1,Heating Pad,10,Happy
+P2949,Follicular,4,Yoga,8,Sad
+P2950,Follicular,6,Heating Pad,4,Irritable
+P2951,Menstrual,10,Yoga,3,Irritable
+P2952,Follicular,10,None,7,Tired
+P2953,Menstrual,4,Medication,1,Happy
+P2954,Follicular,1,Medication,8,Neutral
+P2955,Luteal,1,Heating Pad,1,Neutral
+P2956,Ovulation,9,Heating Pad,7,Irritable
+P2957,Menstrual,1,Heating Pad,6,Neutral
+P2958,Menstrual,7,Rest,10,Happy
+P2959,Menstrual,7,Rest,8,Sad
+P2960,Menstrual,1,Medication,6,Irritable
+P2961,Follicular,1,Heating Pad,5,Sad
+P2962,Menstrual,6,Medication,9,Sad
+P2963,Follicular,8,Yoga,4,Irritable
+P2964,Ovulation,7,Medication,7,Tired
+P2965,Ovulation,6,Medication,6,Irritable
+P2966,Follicular,10,Heating Pad,10,Happy
+P2967,Menstrual,3,Yoga,6,Happy
+P2968,Ovulation,7,Rest,5,Neutral
+P2969,Menstrual,6,Heating Pad,2,Irritable
+P2970,Menstrual,8,None,4,Irritable
+P2971,Luteal,4,Medication,1,Happy
+P2972,Follicular,9,Rest,9,Irritable
+P2973,Ovulation,1,Heating Pad,9,Sad
+P2974,Menstrual,7,Rest,8,Happy
+P2975,Luteal,9,Medication,4,Tired
+P2976,Follicular,10,Medication,5,Sad
+P2977,Ovulation,1,Medication,1,Sad
+P2978,Menstrual,10,Rest,4,Irritable
+P2979,Luteal,3,Medication,4,Irritable
+P2980,Menstrual,7,Medication,5,Tired
+P2981,Ovulation,9,Medication,2,Neutral
+P2982,Follicular,1,Heating Pad,2,Neutral
+P2983,Luteal,6,Yoga,2,Irritable
+P2984,Ovulation,2,Heating Pad,8,Tired
+P2985,Ovulation,5,Heating Pad,2,Irritable
+P2986,Ovulation,7,Heating Pad,6,Happy
+P2987,Follicular,7,Heating Pad,2,Neutral
+P2988,Menstrual,10,Rest,8,Neutral
+P2989,Ovulation,7,Medication,1,Irritable
+P2990,Follicular,4,Yoga,2,Irritable
+P2991,Menstrual,6,Yoga,5,Neutral
+P2992,Menstrual,10,Medication,6,Neutral
+P2993,Menstrual,6,Medication,9,Neutral
+P2994,Ovulation,7,Medication,6,Tired
+P2995,Luteal,9,Heating Pad,8,Happy
+P2996,Menstrual,6,Medication,7,Neutral
+P2997,Luteal,10,Yoga,1,Tired
+P2998,Ovulation,1,Medication,2,Irritable
+P2999,Menstrual,8,Medication,4,Neutral
+P3000,Luteal,2,Medication,1,Neutral
+P3001,Follicular,3,Yoga,8,Happy
+P3002,Follicular,5,Medication,4,Happy
+P3003,Luteal,6,Rest,7,Irritable
+P3004,Menstrual,7,Medication,7,Happy
+P3005,Follicular,4,Medication,8,Sad
+P3006,Ovulation,3,Heating Pad,9,Irritable
+P3007,Ovulation,9,Heating Pad,9,Happy
+P3008,Ovulation,4,Medication,7,Sad
+P3009,Luteal,9,Yoga,9,Tired
+P3010,Menstrual,9,Rest,5,Irritable
+P3011,Menstrual,3,Medication,10,Happy
+P3012,Ovulation,3,Heating Pad,4,Happy
+P3013,Follicular,8,Medication,3,Irritable
+P3014,Menstrual,1,Heating Pad,6,Happy
+P3015,Follicular,6,Medication,10,Happy
+P3016,Ovulation,6,Heating Pad,9,Happy
+P3017,Menstrual,9,Heating Pad,4,Sad
+P3018,Follicular,2,Medication,2,Tired
+P3019,Ovulation,8,Heating Pad,3,Tired
+P3020,Menstrual,7,Rest,3,Sad
+P3021,Ovulation,2,Heating Pad,2,Neutral
+P3022,Luteal,1,Medication,9,Tired
+P3023,Luteal,4,Medication,4,Happy
+P3024,Ovulation,2,Heating Pad,3,Neutral
+P3025,Ovulation,3,Rest,10,Irritable
+P3026,Menstrual,2,Heating Pad,6,Happy
+P3027,Luteal,9,Heating Pad,8,Sad
+P3028,Menstrual,4,Heating Pad,8,Happy
+P3029,Ovulation,1,Heating Pad,10,Tired
+P3030,Follicular,8,Yoga,6,Happy
+P3031,Follicular,4,Rest,5,Happy
+P3032,Ovulation,10,Medication,7,Tired
+P3033,Menstrual,8,Medication,3,Tired
+P3034,Follicular,8,Medication,10,Sad
+P3035,Luteal,9,Rest,2,Tired
+P3036,Luteal,10,Rest,8,Sad
+P3037,Ovulation,7,Heating Pad,9,Tired
+P3038,Luteal,4,Rest,6,Irritable
+P3039,Ovulation,2,Heating Pad,4,Neutral
+P3040,Follicular,6,Rest,6,Happy
+P3041,Luteal,4,Medication,7,Irritable
+P3042,Ovulation,6,Medication,8,Neutral
+P3043,Ovulation,8,Heating Pad,3,Irritable
+P3044,Luteal,3,Medication,6,Sad
+P3045,Menstrual,1,Heating Pad,10,Neutral
+P3046,Follicular,5,Medication,6,Tired
+P3047,Menstrual,3,Heating Pad,10,Irritable
+P3048,Luteal,6,Medication,7,Neutral
+P3049,Luteal,3,Rest,4,Neutral
+P3050,Luteal,1,Rest,6,Irritable
+P3051,Luteal,9,Rest,2,Irritable
+P3052,Luteal,5,Heating Pad,8,Neutral
+P3053,Ovulation,2,Heating Pad,3,Neutral
+P3054,Luteal,2,Heating Pad,9,Happy
+P3055,Ovulation,9,Medication,8,Sad
+P3056,Luteal,1,Rest,6,Neutral
+P3057,Menstrual,10,Medication,10,Irritable
+P3058,Luteal,3,None,2,Neutral
+P3059,Luteal,10,Heating Pad,8,Neutral
+P3060,Luteal,7,Rest,6,Happy
+P3061,Luteal,1,Medication,1,Tired
+P3062,Ovulation,2,Medication,6,Neutral
+P3063,Menstrual,6,Heating Pad,5,Irritable
+P3064,Luteal,9,Heating Pad,6,Tired
+P3065,Menstrual,9,Medication,1,Neutral
+P3066,Follicular,8,Medication,4,Tired
+P3067,Menstrual,3,None,7,Irritable
+P3068,Luteal,2,None,5,Tired
+P3069,Menstrual,1,Rest,6,Tired
+P3070,Luteal,9,Medication,2,Happy
+P3071,Ovulation,5,None,8,Tired
+P3072,Follicular,3,Rest,10,Happy
+P3073,Follicular,10,Rest,4,Neutral
+P3074,Follicular,10,Medication,6,Tired
+P3075,Ovulation,5,Medication,3,Sad
+P3076,Follicular,3,Heating Pad,9,Happy
+P3077,Menstrual,9,Heating Pad,8,Sad
+P3078,Ovulation,1,Heating Pad,6,Sad
+P3079,Luteal,1,Rest,9,Tired
+P3080,Follicular,3,Medication,10,Happy
+P3081,Luteal,6,Heating Pad,9,Tired
+P3082,Follicular,2,Medication,2,Happy
+P3083,Menstrual,1,Yoga,9,Irritable
+P3084,Menstrual,8,Medication,8,Happy
+P3085,Ovulation,10,Yoga,2,Happy
+P3086,Follicular,9,Heating Pad,9,Sad
+P3087,Ovulation,10,Medication,5,Happy
+P3088,Luteal,1,Medication,9,Happy
+P3089,Follicular,3,Rest,3,Happy
+P3090,Follicular,5,Heating Pad,4,Happy
+P3091,Follicular,7,Medication,1,Tired
+P3092,Follicular,10,Heating Pad,5,Irritable
+P3093,Ovulation,4,Medication,7,Neutral
+P3094,Ovulation,6,Yoga,7,Tired
+P3095,Luteal,1,Rest,6,Sad
+P3096,Ovulation,4,Medication,6,Irritable
+P3097,Menstrual,8,Rest,8,Happy
+P3098,Follicular,5,Medication,10,Neutral
+P3099,Follicular,8,Medication,9,Happy
+P3100,Ovulation,1,None,4,Tired
+P3101,Follicular,10,Heating Pad,4,Neutral
+P3102,Ovulation,9,None,8,Irritable
+P3103,Luteal,4,Yoga,5,Irritable
+P3104,Follicular,9,Medication,10,Sad
+P3105,Ovulation,8,Heating Pad,9,Sad
+P3106,Ovulation,8,Medication,6,Irritable
+P3107,Ovulation,2,Heating Pad,9,Tired
+P3108,Luteal,3,Heating Pad,4,Irritable
+P3109,Ovulation,10,Rest,1,Sad
+P3110,Luteal,9,Heating Pad,4,Happy
+P3111,Ovulation,3,Medication,9,Sad
+P3112,Follicular,8,Medication,7,Neutral
+P3113,Ovulation,5,Heating Pad,6,Tired
+P3114,Ovulation,7,Rest,2,Neutral
+P3115,Follicular,4,Medication,4,Irritable
+P3116,Menstrual,8,Heating Pad,1,Sad
+P3117,Ovulation,4,Medication,3,Neutral
+P3118,Follicular,5,Medication,2,Tired
+P3119,Menstrual,1,Medication,4,Tired
+P3120,Ovulation,10,Medication,4,Tired
+P3121,Menstrual,8,Rest,9,Neutral
+P3122,Luteal,7,Heating Pad,7,Neutral
+P3123,Follicular,5,Medication,3,Happy
+P3124,Luteal,6,Heating Pad,7,Neutral
+P3125,Luteal,1,None,8,Happy
+P3126,Menstrual,8,Rest,7,Irritable
+P3127,Menstrual,9,Medication,8,Neutral
+P3128,Luteal,5,Medication,9,Irritable
+P3129,Follicular,10,Medication,1,Tired
+P3130,Menstrual,7,Heating Pad,10,Neutral
+P3131,Luteal,10,None,6,Tired
+P3132,Menstrual,4,Heating Pad,4,Happy
+P3133,Ovulation,6,Medication,1,Neutral
+P3134,Luteal,2,Medication,2,Sad
+P3135,Follicular,4,Heating Pad,10,Happy
+P3136,Menstrual,5,None,4,Happy
+P3137,Ovulation,9,Heating Pad,1,Happy
+P3138,Menstrual,9,Medication,6,Irritable
+P3139,Ovulation,8,Heating Pad,1,Sad
+P3140,Luteal,4,Heating Pad,9,Happy
+P3141,Luteal,6,Medication,10,Neutral
+P3142,Ovulation,7,Medication,3,Sad
+P3143,Follicular,1,Medication,1,Happy
+P3144,Follicular,1,Heating Pad,6,Happy
+P3145,Ovulation,4,Medication,6,Neutral
+P3146,Follicular,3,Heating Pad,7,Happy
+P3147,Luteal,10,Medication,7,Sad
+P3148,Menstrual,4,Medication,10,Irritable
+P3149,Ovulation,9,Yoga,4,Irritable
+P3150,Ovulation,2,Heating Pad,5,Sad
+P3151,Follicular,4,Medication,3,Neutral
+P3152,Ovulation,7,Medication,6,Neutral
+P3153,Menstrual,2,Heating Pad,7,Neutral
+P3154,Ovulation,8,Rest,9,Tired
+P3155,Ovulation,10,Heating Pad,9,Sad
+P3156,Menstrual,4,Medication,5,Irritable
+P3157,Follicular,9,Heating Pad,4,Irritable
+P3158,Ovulation,1,Heating Pad,7,Sad
+P3159,Menstrual,7,Yoga,3,Sad
+P3160,Follicular,1,Yoga,4,Neutral
+P3161,Menstrual,10,Rest,9,Sad
+P3162,Luteal,9,Heating Pad,5,Happy
+P3163,Follicular,10,Heating Pad,10,Tired
+P3164,Luteal,10,Heating Pad,7,Sad
+P3165,Follicular,1,Yoga,2,Happy
+P3166,Ovulation,3,Heating Pad,9,Neutral
+P3167,Menstrual,7,Medication,5,Tired
+P3168,Menstrual,1,Rest,5,Tired
+P3169,Luteal,5,Heating Pad,4,Neutral
+P3170,Follicular,6,None,8,Neutral
+P3171,Follicular,3,Heating Pad,4,Sad
+P3172,Ovulation,6,Medication,2,Happy
+P3173,Ovulation,4,Heating Pad,5,Sad
+P3174,Ovulation,6,None,3,Tired
+P3175,Menstrual,6,Yoga,4,Neutral
+P3176,Menstrual,4,Medication,3,Sad
+P3177,Ovulation,1,Heating Pad,7,Irritable
+P3178,Follicular,3,Rest,6,Happy
+P3179,Luteal,10,Heating Pad,2,Sad
+P3180,Luteal,7,Heating Pad,8,Neutral
+P3181,Follicular,2,None,5,Tired
+P3182,Ovulation,4,Medication,6,Sad
+P3183,Follicular,6,Medication,8,Happy
+P3184,Menstrual,5,Medication,7,Tired
+P3185,Luteal,6,Rest,3,Tired
+P3186,Menstrual,5,Medication,2,Sad
+P3187,Follicular,9,Medication,3,Neutral
+P3188,Menstrual,2,Heating Pad,8,Sad
+P3189,Menstrual,4,Rest,4,Neutral
+P3190,Luteal,1,Medication,8,Happy
+P3191,Luteal,7,Medication,4,Happy
+P3192,Menstrual,1,None,7,Happy
+P3193,Follicular,6,Medication,6,Sad
+P3194,Luteal,10,Medication,10,Neutral
+P3195,Menstrual,10,Medication,1,Tired
+P3196,Follicular,9,Medication,8,Neutral
+P3197,Follicular,2,Rest,6,Happy
+P3198,Menstrual,1,Heating Pad,2,Tired
+P3199,Luteal,10,Heating Pad,5,Tired
+P3200,Menstrual,3,Heating Pad,2,Tired
+P3201,Ovulation,6,Yoga,10,Neutral
+P3202,Luteal,7,Heating Pad,7,Happy
+P3203,Ovulation,8,Heating Pad,10,Neutral
+P3204,Follicular,4,Medication,6,Irritable
+P3205,Luteal,8,Rest,7,Neutral
+P3206,Follicular,7,None,6,Neutral
+P3207,Follicular,8,Heating Pad,10,Tired
+P3208,Luteal,5,Heating Pad,1,Tired
+P3209,Luteal,10,Medication,3,Sad
+P3210,Menstrual,7,Medication,10,Tired
+P3211,Luteal,4,None,2,Tired
+P3212,Follicular,1,Medication,1,Tired
+P3213,Follicular,3,Heating Pad,1,Neutral
+P3214,Menstrual,10,Medication,4,Irritable
+P3215,Follicular,9,Yoga,1,Tired
+P3216,Follicular,4,Medication,2,Happy
+P3217,Ovulation,5,Medication,1,Neutral
+P3218,Luteal,3,Medication,6,Happy
+P3219,Menstrual,6,Yoga,4,Tired
+P3220,Ovulation,4,None,8,Sad
+P3221,Ovulation,5,Yoga,5,Neutral
+P3222,Ovulation,7,Heating Pad,10,Happy
+P3223,Luteal,7,Medication,5,Happy
+P3224,Ovulation,9,Heating Pad,8,Neutral
+P3225,Ovulation,2,Yoga,10,Sad
+P3226,Ovulation,4,Rest,6,Neutral
+P3227,Menstrual,8,Heating Pad,6,Irritable
+P3228,Luteal,4,Yoga,3,Happy
+P3229,Luteal,3,Medication,6,Sad
+P3230,Menstrual,10,Heating Pad,10,Neutral
+P3231,Ovulation,6,Heating Pad,7,Happy
+P3232,Ovulation,3,Rest,2,Happy
+P3233,Follicular,2,Heating Pad,3,Happy
+P3234,Menstrual,9,Heating Pad,6,Happy
+P3235,Follicular,3,Rest,10,Happy
+P3236,Menstrual,1,Medication,9,Irritable
+P3237,Luteal,9,Medication,9,Neutral
+P3238,Follicular,5,Medication,8,Happy
+P3239,Luteal,7,Heating Pad,8,Happy
+P3240,Ovulation,2,Heating Pad,9,Tired
+P3241,Luteal,1,Yoga,9,Neutral
+P3242,Luteal,6,Rest,10,Tired
+P3243,Menstrual,5,Heating Pad,9,Happy
+P3244,Menstrual,10,Medication,5,Irritable
+P3245,Ovulation,6,Heating Pad,6,Sad
+P3246,Ovulation,2,Medication,5,Irritable
+P3247,Follicular,7,Rest,1,Sad
+P3248,Luteal,1,Medication,4,Irritable
+P3249,Menstrual,8,Medication,1,Neutral
+P3250,Follicular,7,Medication,1,Sad
+P3251,Menstrual,7,Rest,3,Neutral
+P3252,Menstrual,6,Medication,7,Irritable
+P3253,Ovulation,10,Heating Pad,1,Neutral
+P3254,Follicular,5,Medication,7,Sad
+P3255,Menstrual,9,Heating Pad,10,Irritable
+P3256,Ovulation,3,Medication,10,Neutral
+P3257,Ovulation,9,Rest,1,Happy
+P3258,Ovulation,5,Rest,9,Neutral
+P3259,Luteal,8,Medication,5,Sad
+P3260,Ovulation,3,Heating Pad,6,Irritable
+P3261,Menstrual,7,Medication,9,Irritable
+P3262,Menstrual,10,Medication,3,Irritable
+P3263,Follicular,4,Heating Pad,3,Irritable
+P3264,Ovulation,5,Medication,5,Tired
+P3265,Menstrual,4,Rest,7,Neutral
+P3266,Ovulation,9,Yoga,3,Sad
+P3267,Ovulation,7,Heating Pad,4,Tired
+P3268,Luteal,6,Heating Pad,2,Neutral
+P3269,Luteal,6,Medication,9,Tired
+P3270,Follicular,10,None,10,Neutral
+P3271,Follicular,7,Heating Pad,9,Neutral
+P3272,Menstrual,5,Rest,2,Neutral
+P3273,Follicular,10,Heating Pad,5,Neutral
+P3274,Ovulation,3,Yoga,1,Sad
+P3275,Menstrual,3,Medication,8,Sad
+P3276,Luteal,7,Medication,6,Neutral
+P3277,Ovulation,10,Medication,10,Neutral
+P3278,Follicular,1,Medication,10,Happy
+P3279,Follicular,4,Rest,2,Neutral
+P3280,Menstrual,10,Heating Pad,2,Irritable
+P3281,Ovulation,8,Medication,10,Happy
+P3282,Menstrual,4,Medication,5,Neutral
+P3283,Follicular,1,Yoga,7,Irritable
+P3284,Luteal,5,Medication,9,Tired
+P3285,Luteal,1,Yoga,9,Neutral
+P3286,Follicular,9,Rest,6,Tired
+P3287,Menstrual,8,Heating Pad,2,Irritable
+P3288,Ovulation,7,Medication,6,Irritable
+P3289,Menstrual,5,Medication,1,Irritable
+P3290,Follicular,4,Medication,2,Happy
+P3291,Menstrual,7,Heating Pad,3,Tired
+P3292,Luteal,3,Rest,5,Sad
+P3293,Follicular,8,Medication,10,Tired
+P3294,Follicular,5,Medication,1,Neutral
+P3295,Menstrual,5,Medication,10,Sad
+P3296,Ovulation,1,Medication,5,Neutral
+P3297,Menstrual,10,Medication,5,Tired
+P3298,Luteal,8,None,4,Sad
+P3299,Follicular,7,Rest,3,Irritable
+P3300,Follicular,1,Yoga,7,Sad
+P3301,Ovulation,4,Medication,7,Irritable
+P3302,Menstrual,4,Medication,1,Neutral
+P3303,Menstrual,9,Heating Pad,7,Irritable
+P3304,Ovulation,10,Heating Pad,3,Sad
+P3305,Ovulation,2,Rest,3,Irritable
+P3306,Menstrual,4,Medication,6,Happy
+P3307,Menstrual,10,Heating Pad,6,Neutral
+P3308,Luteal,3,Heating Pad,4,Neutral
+P3309,Luteal,10,Medication,5,Happy
+P3310,Ovulation,5,Heating Pad,3,Irritable
+P3311,Follicular,7,Yoga,3,Tired
+P3312,Ovulation,5,Medication,9,Neutral
+P3313,Luteal,5,Rest,5,Neutral
+P3314,Menstrual,4,Rest,1,Neutral
+P3315,Menstrual,9,Heating Pad,9,Neutral
+P3316,Luteal,6,Heating Pad,10,Happy
+P3317,Luteal,10,Heating Pad,6,Neutral
+P3318,Menstrual,6,Rest,9,Sad
+P3319,Menstrual,6,Rest,7,Sad
+P3320,Luteal,6,Heating Pad,10,Tired
+P3321,Luteal,1,Rest,10,Sad
+P3322,Ovulation,6,Heating Pad,7,Neutral
+P3323,Menstrual,4,Medication,5,Irritable
+P3324,Luteal,2,Medication,7,Tired
+P3325,Follicular,6,Rest,10,Tired
+P3326,Follicular,1,Medication,4,Irritable
+P3327,Luteal,1,Heating Pad,6,Sad
+P3328,Ovulation,5,Yoga,2,Tired
+P3329,Menstrual,6,Medication,10,Sad
+P3330,Follicular,2,Yoga,3,Neutral
+P3331,Menstrual,10,Heating Pad,2,Tired
+P3332,Follicular,8,Medication,10,Irritable
+P3333,Menstrual,4,Medication,2,Tired
+P3334,Ovulation,4,Medication,7,Happy
+P3335,Luteal,10,Medication,5,Happy
+P3336,Luteal,5,Yoga,6,Irritable
+P3337,Follicular,10,Heating Pad,3,Neutral
+P3338,Follicular,4,Medication,10,Tired
+P3339,Luteal,5,Yoga,5,Happy
+P3340,Follicular,10,Medication,5,Neutral
+P3341,Ovulation,3,Medication,4,Neutral
+P3342,Follicular,8,Medication,10,Irritable
+P3343,Luteal,6,Heating Pad,4,Happy
+P3344,Ovulation,8,None,8,Tired
+P3345,Ovulation,5,Medication,6,Happy
+P3346,Luteal,7,Medication,2,Tired
+P3347,Ovulation,10,Medication,2,Neutral
+P3348,Menstrual,7,Medication,2,Neutral
+P3349,Luteal,6,Yoga,6,Neutral
+P3350,Follicular,10,Medication,1,Irritable
+P3351,Menstrual,4,Rest,3,Neutral
+P3352,Menstrual,6,Yoga,1,Neutral
+P3353,Luteal,9,Medication,4,Happy
+P3354,Menstrual,4,Medication,1,Tired
+P3355,Menstrual,6,None,9,Happy
+P3356,Menstrual,6,Heating Pad,6,Neutral
+P3357,Menstrual,3,Heating Pad,8,Neutral
+P3358,Follicular,4,Yoga,2,Irritable
+P3359,Follicular,3,Rest,6,Happy
+P3360,Luteal,3,None,4,Sad
+P3361,Ovulation,10,Medication,7,Tired
+P3362,Menstrual,4,Rest,8,Sad
+P3363,Luteal,4,Heating Pad,6,Neutral
+P3364,Menstrual,6,Medication,1,Neutral
+P3365,Luteal,4,Rest,8,Happy
+P3366,Ovulation,6,Medication,1,Neutral
+P3367,Ovulation,2,Rest,9,Irritable
+P3368,Luteal,4,Medication,2,Happy
+P3369,Follicular,2,Medication,10,Irritable
+P3370,Follicular,8,Heating Pad,6,Tired
+P3371,Follicular,9,Medication,8,Tired
+P3372,Luteal,7,Heating Pad,5,Happy
+P3373,Ovulation,6,Rest,2,Sad
+P3374,Luteal,8,Medication,5,Irritable
+P3375,Luteal,4,Rest,1,Tired
+P3376,Ovulation,10,Medication,8,Neutral
+P3377,Ovulation,2,Medication,8,Neutral
+P3378,Ovulation,4,Rest,2,Irritable
+P3379,Menstrual,5,Heating Pad,6,Happy
+P3380,Follicular,9,Rest,8,Sad
+P3381,Ovulation,5,Heating Pad,10,Happy
+P3382,Ovulation,9,Heating Pad,8,Neutral
+P3383,Menstrual,9,Heating Pad,7,Sad
+P3384,Ovulation,8,Medication,3,Happy
+P3385,Follicular,5,Heating Pad,4,Tired
+P3386,Luteal,2,Yoga,1,Tired
+P3387,Follicular,5,Medication,9,Happy
+P3388,Follicular,1,Yoga,10,Sad
+P3389,Ovulation,8,Medication,10,Sad
+P3390,Follicular,2,Rest,2,Sad
+P3391,Follicular,7,Medication,10,Happy
+P3392,Ovulation,2,Yoga,7,Happy
+P3393,Luteal,5,Heating Pad,8,Happy
+P3394,Menstrual,10,Heating Pad,4,Happy
+P3395,Luteal,7,Rest,10,Happy
+P3396,Menstrual,6,Medication,1,Sad
+P3397,Ovulation,5,Medication,5,Tired
+P3398,Menstrual,6,Yoga,10,Neutral
+P3399,Follicular,2,Heating Pad,10,Irritable
+P3400,Luteal,10,Medication,6,Happy
+P3401,Follicular,1,Heating Pad,7,Sad
+P3402,Menstrual,1,Rest,1,Tired
+P3403,Luteal,8,Heating Pad,4,Irritable
+P3404,Follicular,3,Medication,5,Tired
+P3405,Menstrual,3,Medication,5,Tired
+P3406,Menstrual,9,Rest,7,Sad
+P3407,Menstrual,6,Medication,4,Sad
+P3408,Follicular,4,None,10,Irritable
+P3409,Luteal,4,Rest,7,Sad
+P3410,Luteal,7,Heating Pad,8,Irritable
+P3411,Luteal,6,Yoga,2,Tired
+P3412,Follicular,2,Heating Pad,1,Sad
+P3413,Follicular,9,Medication,10,Irritable
+P3414,Luteal,2,Rest,10,Tired
+P3415,Ovulation,8,Medication,1,Tired
+P3416,Menstrual,4,Rest,1,Sad
+P3417,Ovulation,10,Medication,9,Irritable
+P3418,Luteal,1,Heating Pad,4,Neutral
+P3419,Menstrual,1,Medication,9,Irritable
+P3420,Follicular,9,Yoga,7,Sad
+P3421,Luteal,4,Medication,7,Neutral
+P3422,Follicular,1,Heating Pad,2,Happy
+P3423,Follicular,3,Yoga,2,Happy
+P3424,Follicular,3,Medication,5,Happy
+P3425,Luteal,7,Medication,10,Neutral
+P3426,Luteal,6,Medication,1,Irritable
+P3427,Ovulation,8,Rest,7,Neutral
+P3428,Luteal,7,Yoga,7,Tired
+P3429,Menstrual,1,Rest,8,Happy
+P3430,Luteal,3,Heating Pad,7,Happy
+P3431,Menstrual,9,Medication,8,Happy
+P3432,Luteal,4,Rest,3,Neutral
+P3433,Follicular,3,Heating Pad,3,Sad
+P3434,Follicular,5,Medication,8,Happy
+P3435,Luteal,8,Medication,9,Tired
+P3436,Luteal,1,Yoga,10,Happy
+P3437,Follicular,2,Heating Pad,4,Neutral
+P3438,Menstrual,7,Heating Pad,8,Tired
+P3439,Menstrual,1,Heating Pad,1,Neutral
+P3440,Follicular,5,Rest,2,Neutral
+P3441,Ovulation,10,Heating Pad,10,Sad
+P3442,Follicular,8,Medication,10,Sad
+P3443,Luteal,6,Medication,10,Neutral
+P3444,Ovulation,3,Yoga,9,Sad
+P3445,Luteal,7,Medication,2,Irritable
+P3446,Luteal,3,Medication,2,Neutral
+P3447,Luteal,5,Rest,8,Irritable
+P3448,Ovulation,7,Medication,5,Tired
+P3449,Luteal,2,Medication,5,Tired
+P3450,Follicular,10,Heating Pad,6,Happy
+P3451,Follicular,4,Medication,8,Neutral
+P3452,Ovulation,2,None,8,Irritable
+P3453,Menstrual,7,Medication,9,Happy
+P3454,Ovulation,3,Yoga,10,Tired
+P3455,Luteal,9,Medication,3,Sad
+P3456,Menstrual,6,Heating Pad,9,Sad
+P3457,Ovulation,1,Medication,3,Neutral
+P3458,Menstrual,10,Medication,1,Neutral
+P3459,Follicular,8,Heating Pad,5,Irritable
+P3460,Follicular,7,Medication,7,Tired
+P3461,Luteal,1,Heating Pad,3,Happy
+P3462,Ovulation,3,Medication,9,Happy
+P3463,Follicular,3,Medication,1,Neutral
+P3464,Luteal,3,None,6,Happy
+P3465,Menstrual,7,Heating Pad,6,Happy
+P3466,Menstrual,6,Medication,8,Sad
+P3467,Luteal,2,Heating Pad,3,Happy
+P3468,Follicular,5,Medication,5,Sad
+P3469,Menstrual,6,Medication,10,Tired
+P3470,Ovulation,2,Heating Pad,5,Tired
+P3471,Luteal,1,None,8,Happy
+P3472,Follicular,4,Medication,7,Happy
+P3473,Ovulation,4,Medication,3,Neutral
+P3474,Ovulation,4,Yoga,7,Neutral
+P3475,Menstrual,1,Medication,10,Sad
+P3476,Menstrual,3,Medication,8,Neutral
+P3477,Follicular,7,Heating Pad,5,Happy
+P3478,Luteal,4,Heating Pad,5,Happy
+P3479,Follicular,2,Rest,1,Irritable
+P3480,Menstrual,8,Heating Pad,8,Tired
+P3481,Menstrual,1,Yoga,6,Tired
+P3482,Follicular,9,Heating Pad,6,Irritable
+P3483,Menstrual,5,Medication,5,Sad
+P3484,Menstrual,2,Rest,5,Neutral
+P3485,Ovulation,4,Medication,3,Tired
+P3486,Menstrual,3,Medication,3,Neutral
+P3487,Follicular,7,Medication,2,Neutral
+P3488,Luteal,6,None,9,Irritable
+P3489,Menstrual,9,Medication,8,Neutral
+P3490,Menstrual,4,Medication,3,Neutral
+P3491,Menstrual,3,Rest,5,Irritable
+P3492,Luteal,7,Medication,10,Sad
+P3493,Follicular,6,Medication,5,Happy
+P3494,Menstrual,5,Medication,8,Neutral
+P3495,Menstrual,10,Medication,6,Sad
+P3496,Menstrual,7,Medication,7,Happy
+P3497,Menstrual,5,Heating Pad,5,Happy
+P3498,Luteal,9,Heating Pad,1,Happy
+P3499,Menstrual,4,Heating Pad,8,Sad
+P3500,Follicular,1,Medication,4,Happy
+P3501,Ovulation,10,None,5,Tired
+P3502,Menstrual,5,Medication,1,Tired
+P3503,Follicular,1,Yoga,3,Sad
+P3504,Follicular,1,Medication,2,Neutral
+P3505,Luteal,1,Rest,2,Neutral
+P3506,Ovulation,1,Medication,1,Irritable
+P3507,Luteal,8,Rest,6,Neutral
+P3508,Menstrual,2,Medication,8,Tired
+P3509,Ovulation,9,None,3,Irritable
+P3510,Luteal,7,Medication,1,Neutral
+P3511,Menstrual,3,Rest,10,Irritable
+P3512,Follicular,9,Medication,2,Happy
+P3513,Follicular,4,Heating Pad,3,Happy
+P3514,Menstrual,7,Heating Pad,6,Neutral
+P3515,Luteal,3,Yoga,3,Neutral
+P3516,Ovulation,5,Rest,9,Irritable
+P3517,Luteal,4,Heating Pad,1,Sad
+P3518,Luteal,6,Heating Pad,7,Tired
+P3519,Ovulation,9,Medication,10,Happy
+P3520,Luteal,5,Medication,8,Sad
+P3521,Ovulation,1,Heating Pad,9,Irritable
+P3522,Follicular,5,Yoga,8,Tired
+P3523,Menstrual,5,Medication,5,Irritable
+P3524,Menstrual,9,Medication,1,Neutral
+P3525,Luteal,8,Medication,1,Tired
+P3526,Luteal,5,Rest,8,Irritable
+P3527,Follicular,5,Heating Pad,7,Tired
+P3528,Luteal,2,Heating Pad,5,Happy
+P3529,Menstrual,9,Rest,10,Neutral
+P3530,Luteal,4,Rest,3,Irritable
+P3531,Follicular,7,Heating Pad,9,Happy
+P3532,Menstrual,10,Yoga,4,Happy
+P3533,Follicular,6,Rest,6,Sad
+P3534,Menstrual,5,Medication,4,Tired
+P3535,Luteal,5,Heating Pad,9,Happy
+P3536,Menstrual,7,Heating Pad,4,Happy
+P3537,Menstrual,2,Heating Pad,8,Neutral
+P3538,Menstrual,9,Heating Pad,3,Happy
+P3539,Luteal,2,Medication,8,Sad
+P3540,Follicular,9,Rest,3,Tired
+P3541,Ovulation,4,Medication,5,Irritable
+P3542,Menstrual,10,Medication,1,Neutral
+P3543,Luteal,10,Heating Pad,6,Happy
+P3544,Follicular,6,Medication,2,Tired
+P3545,Ovulation,1,Medication,3,Tired
+P3546,Menstrual,5,Medication,1,Happy
+P3547,Follicular,6,Heating Pad,6,Sad
+P3548,Ovulation,9,Yoga,5,Neutral
+P3549,Follicular,9,Heating Pad,10,Sad
+P3550,Ovulation,9,Heating Pad,2,Irritable
+P3551,Ovulation,3,Medication,8,Neutral
+P3552,Menstrual,4,Medication,9,Happy
+P3553,Follicular,8,Rest,3,Happy
+P3554,Follicular,8,Heating Pad,6,Irritable
+P3555,Ovulation,2,Medication,6,Irritable
+P3556,Ovulation,8,Yoga,10,Happy
+P3557,Ovulation,7,Medication,6,Irritable
+P3558,Ovulation,9,Heating Pad,8,Sad
+P3559,Ovulation,5,Heating Pad,5,Tired
+P3560,Luteal,2,Rest,10,Irritable
+P3561,Ovulation,5,Heating Pad,10,Sad
+P3562,Luteal,2,Medication,8,Tired
+P3563,Follicular,5,Heating Pad,3,Happy
+P3564,Menstrual,9,Medication,7,Tired
+P3565,Ovulation,7,Yoga,1,Sad
+P3566,Follicular,7,Medication,4,Happy
+P3567,Follicular,1,Medication,5,Sad
+P3568,Follicular,9,Medication,7,Neutral
+P3569,Ovulation,6,Medication,6,Tired
+P3570,Menstrual,7,Yoga,6,Irritable
+P3571,Luteal,2,None,2,Irritable
+P3572,Luteal,1,Medication,2,Tired
+P3573,Luteal,4,Heating Pad,2,Happy
+P3574,Follicular,9,Medication,10,Irritable
+P3575,Menstrual,9,Heating Pad,8,Happy
+P3576,Follicular,3,Heating Pad,7,Happy
+P3577,Luteal,1,Rest,1,Irritable
+P3578,Ovulation,2,Rest,9,Tired
+P3579,Ovulation,9,Medication,8,Sad
+P3580,Ovulation,9,Medication,9,Sad
+P3581,Menstrual,1,Medication,4,Irritable
+P3582,Follicular,9,Heating Pad,5,Sad
+P3583,Menstrual,1,Heating Pad,5,Irritable
+P3584,Menstrual,10,None,9,Sad
+P3585,Ovulation,4,Heating Pad,8,Sad
+P3586,Menstrual,5,Heating Pad,10,Neutral
+P3587,Luteal,8,Heating Pad,6,Neutral
+P3588,Ovulation,5,Medication,10,Irritable
+P3589,Luteal,5,Medication,10,Tired
+P3590,Follicular,4,Medication,1,Irritable
+P3591,Luteal,9,Heating Pad,7,Irritable
+P3592,Ovulation,8,Rest,9,Happy
+P3593,Menstrual,9,Rest,4,Neutral
+P3594,Luteal,7,Medication,4,Tired
+P3595,Menstrual,7,Heating Pad,5,Neutral
+P3596,Luteal,5,Medication,8,Irritable
+P3597,Follicular,10,Heating Pad,5,Neutral
+P3598,Ovulation,1,Heating Pad,4,Sad
+P3599,Menstrual,6,Heating Pad,8,Happy
+P3600,Menstrual,10,Rest,5,Happy
+P3601,Ovulation,6,Heating Pad,8,Tired
+P3602,Luteal,10,Heating Pad,1,Irritable
+P3603,Luteal,4,Heating Pad,3,Neutral
+P3604,Menstrual,2,Heating Pad,7,Tired
+P3605,Luteal,1,Medication,1,Happy
+P3606,Ovulation,3,Heating Pad,5,Neutral
+P3607,Ovulation,9,Medication,6,Happy
+P3608,Ovulation,1,Medication,1,Irritable
+P3609,Follicular,5,Medication,7,Neutral
+P3610,Ovulation,10,Heating Pad,9,Happy
+P3611,Luteal,6,Heating Pad,9,Happy
+P3612,Menstrual,9,Heating Pad,3,Sad
+P3613,Menstrual,1,Medication,4,Sad
+P3614,Follicular,5,None,1,Neutral
+P3615,Menstrual,1,Heating Pad,4,Neutral
+P3616,Ovulation,2,Medication,5,Neutral
+P3617,Menstrual,2,Medication,7,Tired
+P3618,Luteal,5,Rest,5,Tired
+P3619,Ovulation,10,Heating Pad,8,Tired
+P3620,Menstrual,4,Rest,7,Neutral
+P3621,Ovulation,6,Medication,1,Neutral
+P3622,Luteal,5,Medication,2,Neutral
+P3623,Follicular,2,Rest,7,Irritable
+P3624,Luteal,9,Heating Pad,3,Neutral
+P3625,Menstrual,10,Heating Pad,2,Happy
+P3626,Ovulation,8,Heating Pad,9,Happy
+P3627,Follicular,9,Rest,10,Happy
+P3628,Ovulation,6,Rest,8,Tired
+P3629,Ovulation,5,Rest,8,Neutral
+P3630,Luteal,5,Medication,3,Tired
+P3631,Follicular,2,Heating Pad,10,Sad
+P3632,Follicular,4,Rest,9,Tired
+P3633,Follicular,2,None,8,Sad
+P3634,Luteal,2,Medication,2,Happy
+P3635,Luteal,8,Medication,7,Tired
+P3636,Ovulation,4,Heating Pad,8,Irritable
+P3637,Menstrual,4,Medication,7,Tired
+P3638,Follicular,7,Heating Pad,9,Irritable
+P3639,Luteal,4,Rest,7,Happy
+P3640,Luteal,9,Medication,7,Irritable
+P3641,Follicular,9,Heating Pad,1,Tired
+P3642,Ovulation,3,Medication,2,Irritable
+P3643,Luteal,6,None,5,Irritable
+P3644,Follicular,7,Medication,1,Happy
+P3645,Menstrual,3,Medication,10,Sad
+P3646,Menstrual,4,Heating Pad,7,Tired
+P3647,Ovulation,1,None,5,Neutral
+P3648,Ovulation,9,Heating Pad,5,Neutral
+P3649,Menstrual,7,Heating Pad,8,Neutral
+P3650,Ovulation,10,Medication,9,Happy
+P3651,Follicular,7,Heating Pad,10,Sad
+P3652,Ovulation,9,Yoga,1,Neutral
+P3653,Follicular,6,Medication,10,Happy
+P3654,Ovulation,8,Yoga,4,Neutral
+P3655,Menstrual,5,Yoga,2,Neutral
+P3656,Ovulation,8,Heating Pad,9,Sad
+P3657,Ovulation,10,Rest,9,Neutral
+P3658,Ovulation,1,Heating Pad,1,Irritable
+P3659,Luteal,3,Heating Pad,3,Neutral
+P3660,Follicular,4,Heating Pad,10,Irritable
+P3661,Follicular,9,Heating Pad,8,Irritable
+P3662,Menstrual,8,Medication,2,Happy
+P3663,Follicular,8,Yoga,2,Tired
+P3664,Luteal,2,Heating Pad,2,Tired
+P3665,Follicular,7,Heating Pad,5,Tired
+P3666,Ovulation,3,Medication,9,Sad
+P3667,Follicular,6,Yoga,7,Tired
+P3668,Menstrual,4,Heating Pad,7,Neutral
+P3669,Ovulation,6,Medication,2,Happy
+P3670,Luteal,4,Medication,2,Irritable
+P3671,Follicular,3,Rest,5,Happy
+P3672,Follicular,2,Medication,7,Happy
+P3673,Follicular,4,Heating Pad,7,Happy
+P3674,Menstrual,10,Heating Pad,9,Happy
+P3675,Menstrual,2,Heating Pad,3,Neutral
+P3676,Menstrual,7,Heating Pad,1,Neutral
+P3677,Follicular,1,Medication,9,Tired
+P3678,Luteal,1,Yoga,1,Sad
+P3679,Ovulation,5,Rest,8,Sad
+P3680,Menstrual,7,Rest,5,Tired
+P3681,Luteal,1,Rest,8,Sad
+P3682,Ovulation,4,Yoga,7,Tired
+P3683,Follicular,5,Heating Pad,9,Happy
+P3684,Menstrual,2,Heating Pad,2,Tired
+P3685,Menstrual,7,Medication,9,Sad
+P3686,Ovulation,4,Yoga,10,Neutral
+P3687,Luteal,8,Rest,5,Sad
+P3688,Follicular,1,Heating Pad,5,Happy
+P3689,Follicular,10,Heating Pad,1,Irritable
+P3690,Luteal,1,Rest,6,Sad
+P3691,Ovulation,1,Medication,10,Neutral
+P3692,Ovulation,4,Heating Pad,10,Irritable
+P3693,Luteal,1,Heating Pad,10,Neutral
+P3694,Ovulation,5,Heating Pad,10,Irritable
+P3695,Ovulation,6,None,3,Happy
+P3696,Luteal,7,Medication,10,Tired
+P3697,Ovulation,8,Heating Pad,3,Sad
+P3698,Menstrual,8,Yoga,3,Happy
+P3699,Follicular,2,Yoga,4,Neutral
+P3700,Luteal,4,Medication,9,Tired
+P3701,Luteal,7,Medication,8,Tired
+P3702,Follicular,9,Heating Pad,6,Neutral
+P3703,Menstrual,9,Medication,8,Sad
+P3704,Menstrual,3,Medication,8,Tired
+P3705,Ovulation,7,None,1,Sad
+P3706,Follicular,4,Yoga,9,Happy
+P3707,Ovulation,9,Medication,1,Irritable
+P3708,Follicular,7,Medication,2,Neutral
+P3709,Ovulation,6,Heating Pad,9,Happy
+P3710,Menstrual,9,Medication,7,Neutral
+P3711,Ovulation,7,Medication,10,Happy
+P3712,Ovulation,8,None,1,Happy
+P3713,Follicular,5,Rest,3,Tired
+P3714,Follicular,4,Rest,1,Neutral
+P3715,Follicular,1,Heating Pad,5,Irritable
+P3716,Luteal,8,Rest,4,Tired
+P3717,Menstrual,6,Yoga,8,Tired
+P3718,Follicular,4,Heating Pad,9,Happy
+P3719,Follicular,3,Heating Pad,4,Sad
+P3720,Luteal,5,Heating Pad,3,Sad
+P3721,Ovulation,4,Rest,4,Tired
+P3722,Menstrual,7,Yoga,3,Sad
+P3723,Luteal,6,Heating Pad,6,Neutral
+P3724,Menstrual,3,Yoga,1,Neutral
+P3725,Menstrual,10,Medication,2,Happy
+P3726,Follicular,1,Heating Pad,8,Irritable
+P3727,Luteal,7,Rest,3,Tired
+P3728,Ovulation,5,Medication,4,Happy
+P3729,Ovulation,1,Medication,1,Neutral
+P3730,Ovulation,1,Rest,3,Neutral
+P3731,Luteal,6,Medication,1,Tired
+P3732,Menstrual,4,Medication,10,Irritable
+P3733,Luteal,8,Heating Pad,5,Happy
+P3734,Ovulation,2,Medication,1,Neutral
+P3735,Luteal,4,Heating Pad,9,Tired
+P3736,Luteal,8,Medication,7,Happy
+P3737,Luteal,8,Medication,8,Neutral
+P3738,Follicular,5,Rest,9,Neutral
+P3739,Menstrual,3,Heating Pad,10,Sad
+P3740,Menstrual,4,Medication,8,Tired
+P3741,Menstrual,3,Rest,3,Sad
+P3742,Menstrual,2,None,7,Sad
+P3743,Menstrual,4,Medication,7,Sad
+P3744,Luteal,9,Yoga,7,Happy
+P3745,Ovulation,6,Rest,8,Tired
+P3746,Menstrual,4,Medication,4,Irritable
+P3747,Follicular,1,Medication,6,Sad
+P3748,Follicular,7,Heating Pad,2,Sad
+P3749,Menstrual,2,Medication,7,Sad
+P3750,Follicular,6,Medication,9,Irritable
+P3751,Luteal,10,Heating Pad,5,Tired
+P3752,Follicular,1,Yoga,4,Sad
+P3753,Ovulation,7,Rest,2,Irritable
+P3754,Ovulation,4,Heating Pad,7,Sad
+P3755,Ovulation,3,Yoga,2,Irritable
+P3756,Menstrual,10,Medication,2,Sad
+P3757,Ovulation,7,Medication,9,Sad
+P3758,Luteal,3,Medication,2,Neutral
+P3759,Follicular,8,Medication,10,Happy
+P3760,Ovulation,4,Heating Pad,3,Tired
+P3761,Luteal,3,Medication,3,Happy
+P3762,Ovulation,7,Heating Pad,2,Tired
+P3763,Follicular,7,Yoga,10,Tired
+P3764,Luteal,9,Heating Pad,3,Irritable
+P3765,Follicular,10,Yoga,9,Sad
+P3766,Menstrual,7,Yoga,3,Neutral
+P3767,Luteal,6,Yoga,5,Tired
+P3768,Follicular,3,Heating Pad,7,Sad
+P3769,Ovulation,4,Medication,1,Tired
+P3770,Luteal,8,Medication,1,Happy
+P3771,Follicular,6,Heating Pad,10,Tired
+P3772,Follicular,9,Medication,2,Happy
+P3773,Luteal,8,Rest,1,Tired
+P3774,Luteal,8,Rest,1,Irritable
+P3775,Follicular,10,Medication,10,Happy
+P3776,Ovulation,10,Medication,4,Irritable
+P3777,Luteal,7,Medication,10,Tired
+P3778,Luteal,10,Heating Pad,3,Irritable
+P3779,Luteal,1,Yoga,1,Tired
+P3780,Ovulation,5,Medication,3,Irritable
+P3781,Ovulation,7,Heating Pad,1,Neutral
+P3782,Follicular,10,Heating Pad,3,Sad
+P3783,Menstrual,9,Medication,4,Irritable
+P3784,Ovulation,4,Medication,8,Happy
+P3785,Luteal,8,None,3,Tired
+P3786,Menstrual,1,Medication,3,Tired
+P3787,Ovulation,4,Rest,9,Tired
+P3788,Follicular,4,Heating Pad,9,Happy
+P3789,Menstrual,2,Medication,6,Irritable
+P3790,Ovulation,3,Rest,10,Irritable
+P3791,Ovulation,3,Medication,4,Neutral
+P3792,Menstrual,9,Medication,10,Happy
+P3793,Menstrual,7,Medication,5,Tired
+P3794,Follicular,2,None,9,Neutral
+P3795,Menstrual,9,None,1,Tired
+P3796,Luteal,8,Heating Pad,7,Tired
+P3797,Menstrual,6,None,7,Happy
+P3798,Menstrual,6,None,10,Neutral
+P3799,Follicular,2,Medication,1,Happy
+P3800,Luteal,3,Heating Pad,1,Irritable
+P3801,Luteal,6,Medication,9,Irritable
+P3802,Ovulation,3,Heating Pad,7,Neutral
+P3803,Follicular,7,Heating Pad,4,Happy
+P3804,Ovulation,5,Medication,9,Irritable
+P3805,Ovulation,4,Medication,5,Happy
+P3806,Luteal,8,Medication,3,Neutral
+P3807,Follicular,2,Heating Pad,2,Sad
+P3808,Menstrual,3,Medication,9,Tired
+P3809,Menstrual,10,Medication,4,Tired
+P3810,Follicular,4,Medication,7,Irritable
+P3811,Ovulation,10,Heating Pad,1,Happy
+P3812,Follicular,6,Medication,9,Irritable
+P3813,Follicular,5,Medication,9,Happy
+P3814,Menstrual,5,Medication,10,Sad
+P3815,Follicular,7,Heating Pad,6,Happy
+P3816,Ovulation,8,Medication,6,Neutral
+P3817,Ovulation,6,Medication,6,Tired
+P3818,Menstrual,3,Heating Pad,5,Tired
+P3819,Follicular,4,Medication,1,Irritable
+P3820,Follicular,1,Rest,4,Irritable
+P3821,Luteal,5,Medication,10,Happy
+P3822,Follicular,10,None,1,Tired
+P3823,Luteal,8,Medication,5,Irritable
+P3824,Ovulation,3,Medication,4,Neutral
+P3825,Ovulation,10,Yoga,8,Happy
+P3826,Menstrual,4,Heating Pad,1,Happy
+P3827,Menstrual,4,Yoga,8,Sad
+P3828,Follicular,6,Rest,8,Neutral
+P3829,Ovulation,9,Medication,1,Sad
+P3830,Menstrual,10,None,9,Tired
+P3831,Ovulation,3,Rest,9,Sad
+P3832,Follicular,4,Yoga,6,Irritable
+P3833,Ovulation,6,Medication,1,Sad
+P3834,Follicular,6,Heating Pad,7,Sad
+P3835,Luteal,7,Heating Pad,7,Neutral
+P3836,Luteal,1,Rest,9,Sad
+P3837,Ovulation,9,Medication,1,Irritable
+P3838,Menstrual,2,Medication,8,Tired
+P3839,Follicular,4,Heating Pad,8,Tired
+P3840,Ovulation,3,None,7,Sad
+P3841,Ovulation,3,Medication,6,Sad
+P3842,Menstrual,5,Heating Pad,1,Neutral
+P3843,Luteal,7,Heating Pad,10,Happy
+P3844,Luteal,7,Medication,8,Happy
+P3845,Luteal,7,Medication,5,Irritable
+P3846,Luteal,3,Yoga,4,Neutral
+P3847,Ovulation,9,Medication,5,Happy
+P3848,Luteal,6,Medication,5,Happy
+P3849,Luteal,10,Yoga,10,Sad
+P3850,Luteal,8,Heating Pad,3,Tired
+P3851,Ovulation,1,None,4,Tired
+P3852,Luteal,4,Heating Pad,4,Happy
+P3853,Menstrual,7,Medication,8,Irritable
+P3854,Menstrual,9,None,5,Irritable
+P3855,Follicular,3,Yoga,6,Tired
+P3856,Ovulation,6,Heating Pad,10,Sad
+P3857,Menstrual,8,Heating Pad,2,Tired
+P3858,Ovulation,3,Medication,9,Happy
+P3859,Follicular,6,Medication,8,Irritable
+P3860,Luteal,9,Heating Pad,8,Tired
+P3861,Luteal,9,Medication,10,Sad
+P3862,Menstrual,6,None,5,Neutral
+P3863,Ovulation,5,None,5,Tired
+P3864,Luteal,1,None,3,Neutral
+P3865,Menstrual,3,Rest,2,Irritable
+P3866,Ovulation,3,Medication,9,Tired
+P3867,Ovulation,4,Heating Pad,6,Tired
+P3868,Follicular,5,Rest,8,Sad
+P3869,Ovulation,8,Heating Pad,4,Irritable
+P3870,Ovulation,9,Medication,5,Tired
+P3871,Ovulation,7,Medication,10,Tired
+P3872,Ovulation,10,None,5,Happy
+P3873,Menstrual,6,Medication,10,Sad
+P3874,Menstrual,3,Rest,4,Irritable
+P3875,Menstrual,9,Medication,2,Tired
+P3876,Luteal,10,Medication,6,Neutral
+P3877,Follicular,1,Rest,4,Irritable
+P3878,Follicular,9,Yoga,4,Happy
+P3879,Luteal,3,Heating Pad,10,Tired
+P3880,Ovulation,9,Yoga,3,Sad
+P3881,Ovulation,10,Medication,8,Irritable
+P3882,Menstrual,1,Heating Pad,6,Neutral
+P3883,Luteal,8,Rest,9,Happy
+P3884,Ovulation,6,Yoga,5,Irritable
+P3885,Luteal,9,Medication,6,Irritable
+P3886,Follicular,4,Rest,9,Happy
+P3887,Ovulation,5,Yoga,4,Tired
+P3888,Luteal,6,Heating Pad,10,Irritable
+P3889,Luteal,9,Medication,7,Irritable
+P3890,Follicular,6,Rest,10,Tired
+P3891,Ovulation,9,Heating Pad,10,Tired
+P3892,Follicular,2,Yoga,6,Sad
+P3893,Ovulation,4,Medication,6,Neutral
+P3894,Ovulation,3,Medication,6,Irritable
+P3895,Ovulation,4,Medication,4,Neutral
+P3896,Menstrual,1,Rest,10,Happy
+P3897,Ovulation,2,Heating Pad,6,Irritable
+P3898,Follicular,4,Medication,7,Sad
+P3899,Ovulation,10,Medication,2,Irritable
+P3900,Ovulation,4,Heating Pad,9,Neutral
+P3901,Menstrual,5,Yoga,7,Tired
+P3902,Follicular,9,Medication,3,Tired
+P3903,Luteal,1,Heating Pad,10,Tired
+P3904,Follicular,8,Heating Pad,10,Tired
+P3905,Ovulation,3,Yoga,7,Sad
+P3906,Follicular,9,Medication,10,Irritable
+P3907,Menstrual,8,Rest,10,Happy
+P3908,Menstrual,8,Heating Pad,5,Irritable
+P3909,Follicular,9,Yoga,9,Tired
+P3910,Follicular,4,Yoga,6,Irritable
+P3911,Luteal,5,Medication,7,Irritable
+P3912,Menstrual,7,Heating Pad,4,Tired
+P3913,Ovulation,2,Rest,2,Tired
+P3914,Ovulation,7,Heating Pad,4,Happy
+P3915,Luteal,3,Medication,9,Tired
+P3916,Luteal,6,Medication,3,Sad
+P3917,Menstrual,6,Heating Pad,7,Irritable
+P3918,Follicular,6,Medication,4,Irritable
+P3919,Menstrual,10,Medication,3,Happy
+P3920,Follicular,2,Medication,5,Sad
+P3921,Ovulation,9,Medication,2,Sad
+P3922,Menstrual,8,Heating Pad,10,Tired
+P3923,Follicular,7,Medication,4,Tired
+P3924,Ovulation,9,Heating Pad,7,Irritable
+P3925,Luteal,4,Medication,2,Tired
+P3926,Follicular,2,Heating Pad,10,Tired
+P3927,Ovulation,4,Rest,6,Irritable
+P3928,Luteal,10,Medication,5,Sad
+P3929,Follicular,3,Heating Pad,3,Sad
+P3930,Follicular,2,Medication,5,Happy
+P3931,Luteal,2,Medication,10,Neutral
+P3932,Follicular,8,Medication,7,Tired
+P3933,Menstrual,5,None,3,Happy
+P3934,Menstrual,6,Heating Pad,8,Happy
+P3935,Follicular,8,Heating Pad,7,Sad
+P3936,Follicular,7,Medication,4,Tired
+P3937,Follicular,7,Heating Pad,5,Irritable
+P3938,Follicular,7,Medication,10,Happy
+P3939,Follicular,7,Medication,4,Neutral
+P3940,Menstrual,8,Heating Pad,2,Irritable
+P3941,Luteal,1,Medication,9,Tired
+P3942,Menstrual,3,Medication,1,Sad
+P3943,Ovulation,1,Heating Pad,8,Happy
+P3944,Luteal,8,Medication,4,Irritable
+P3945,Luteal,2,Yoga,9,Tired
+P3946,Ovulation,7,None,3,Irritable
+P3947,Luteal,6,Medication,7,Tired
+P3948,Follicular,1,Medication,3,Neutral
+P3949,Ovulation,6,Heating Pad,10,Happy
+P3950,Luteal,9,Heating Pad,7,Sad
+P3951,Menstrual,3,Heating Pad,2,Sad
+P3952,Ovulation,7,Medication,3,Tired
+P3953,Menstrual,4,Yoga,8,Neutral
+P3954,Luteal,1,Heating Pad,7,Happy
+P3955,Follicular,7,Medication,3,Tired
+P3956,Follicular,1,Medication,8,Happy
+P3957,Luteal,4,Medication,9,Irritable
+P3958,Luteal,9,Medication,2,Tired
+P3959,Ovulation,5,Medication,2,Happy
+P3960,Ovulation,7,Heating Pad,7,Tired
+P3961,Follicular,7,Yoga,8,Tired
+P3962,Luteal,3,Yoga,5,Irritable
+P3963,Luteal,8,Medication,2,Tired
+P3964,Menstrual,1,Yoga,10,Tired
+P3965,Menstrual,4,Medication,5,Happy
+P3966,Follicular,10,Medication,3,Happy
+P3967,Luteal,4,Medication,9,Sad
+P3968,Follicular,2,Heating Pad,2,Tired
+P3969,Menstrual,6,Heating Pad,9,Sad
+P3970,Follicular,1,Rest,2,Neutral
+P3971,Follicular,3,Heating Pad,1,Irritable
+P3972,Luteal,9,Medication,10,Sad
+P3973,Follicular,10,Rest,6,Irritable
+P3974,Follicular,6,Medication,6,Happy
+P3975,Menstrual,2,Rest,4,Tired
+P3976,Menstrual,9,Heating Pad,2,Tired
+P3977,Follicular,2,Yoga,10,Tired
+P3978,Ovulation,7,Medication,3,Happy
+P3979,Menstrual,1,Medication,6,Sad
+P3980,Ovulation,5,Medication,4,Happy
+P3981,Menstrual,7,Medication,5,Tired
+P3982,Luteal,3,Medication,9,Happy
+P3983,Luteal,4,Yoga,5,Tired
+P3984,Menstrual,5,Heating Pad,10,Sad
+P3985,Follicular,3,Medication,8,Sad
+P3986,Menstrual,6,Medication,2,Tired
+P3987,Luteal,3,Medication,6,Tired
+P3988,Luteal,8,Medication,6,Sad
+P3989,Menstrual,7,None,5,Neutral
+P3990,Luteal,1,None,6,Happy
+P3991,Menstrual,2,Heating Pad,5,Tired
+P3992,Menstrual,4,Heating Pad,2,Irritable
+P3993,Follicular,5,Heating Pad,5,Tired
+P3994,Menstrual,10,Medication,1,Sad
+P3995,Menstrual,4,Heating Pad,3,Sad
+P3996,Follicular,4,Heating Pad,7,Irritable
+P3997,Luteal,9,Heating Pad,4,Tired
+P3998,Ovulation,4,Rest,8,Neutral
+P3999,Follicular,4,Medication,3,Neutral
+P4000,Ovulation,4,Medication,7,Irritable
+P4001,Menstrual,2,Medication,2,Irritable
+P4002,Follicular,8,None,8,Irritable
+P4003,Luteal,4,Heating Pad,3,Irritable
+P4004,Menstrual,5,Medication,6,Sad
+P4005,Ovulation,8,Heating Pad,2,Sad
+P4006,Menstrual,4,Medication,7,Irritable
+P4007,Follicular,5,Medication,4,Irritable
+P4008,Follicular,5,Yoga,6,Irritable
+P4009,Luteal,6,Rest,2,Happy
+P4010,Menstrual,7,Yoga,3,Happy
+P4011,Follicular,3,Heating Pad,3,Sad
+P4012,Ovulation,10,Medication,4,Neutral
+P4013,Luteal,3,Heating Pad,1,Tired
+P4014,Luteal,9,Medication,6,Happy
+P4015,Follicular,1,Medication,6,Neutral
+P4016,Follicular,10,Medication,4,Neutral
+P4017,Ovulation,8,Medication,8,Neutral
+P4018,Menstrual,10,Heating Pad,5,Irritable
+P4019,Ovulation,3,None,10,Tired
+P4020,Menstrual,5,Heating Pad,4,Tired
+P4021,Ovulation,3,Medication,7,Sad
+P4022,Menstrual,10,Heating Pad,10,Sad
+P4023,Follicular,1,Yoga,10,Neutral
+P4024,Follicular,10,Medication,8,Neutral
+P4025,Menstrual,5,Heating Pad,2,Tired
+P4026,Luteal,8,Rest,1,Irritable
+P4027,Follicular,5,Rest,6,Tired
+P4028,Menstrual,4,Heating Pad,2,Neutral
+P4029,Luteal,9,Heating Pad,8,Happy
+P4030,Menstrual,1,Medication,5,Tired
+P4031,Follicular,5,Heating Pad,2,Irritable
+P4032,Menstrual,1,Heating Pad,5,Happy
+P4033,Luteal,6,Rest,2,Happy
+P4034,Luteal,10,Rest,6,Neutral
+P4035,Luteal,9,Heating Pad,8,Happy
+P4036,Follicular,2,Heating Pad,2,Irritable
+P4037,Menstrual,4,Rest,6,Happy
+P4038,Follicular,8,Yoga,6,Happy
+P4039,Ovulation,3,Heating Pad,1,Tired
+P4040,Follicular,7,Rest,9,Neutral
+P4041,Ovulation,7,Heating Pad,8,Tired
+P4042,Menstrual,2,Medication,4,Happy
+P4043,Menstrual,10,Rest,7,Irritable
+P4044,Follicular,4,Heating Pad,4,Happy
+P4045,Ovulation,1,Medication,8,Irritable
+P4046,Menstrual,8,None,10,Irritable
+P4047,Menstrual,10,Medication,2,Happy
+P4048,Ovulation,10,Heating Pad,2,Happy
+P4049,Menstrual,9,Medication,3,Irritable
+P4050,Menstrual,1,Medication,4,Tired
+P4051,Follicular,7,Yoga,6,Sad
+P4052,Luteal,1,Medication,5,Tired
+P4053,Menstrual,1,Heating Pad,10,Happy
+P4054,Luteal,9,Heating Pad,10,Sad
+P4055,Luteal,10,Heating Pad,7,Happy
+P4056,Follicular,10,None,6,Irritable
+P4057,Ovulation,6,Medication,4,Irritable
+P4058,Follicular,1,Medication,10,Sad
+P4059,Menstrual,7,Rest,9,Happy
+P4060,Luteal,3,Heating Pad,7,Neutral
+P4061,Menstrual,10,Yoga,1,Happy
+P4062,Ovulation,4,Medication,8,Neutral
+P4063,Menstrual,4,Heating Pad,4,Tired
+P4064,Ovulation,8,Rest,7,Tired
+P4065,Follicular,1,Medication,2,Happy
+P4066,Ovulation,8,Yoga,3,Neutral
+P4067,Ovulation,9,Heating Pad,1,Happy
+P4068,Ovulation,7,Rest,2,Neutral
+P4069,Ovulation,1,Heating Pad,5,Tired
+P4070,Menstrual,7,Medication,2,Neutral
+P4071,Follicular,6,Medication,6,Sad
+P4072,Menstrual,5,Heating Pad,6,Sad
+P4073,Ovulation,5,Rest,6,Tired
+P4074,Menstrual,1,Rest,3,Sad
+P4075,Follicular,6,Heating Pad,3,Neutral
+P4076,Follicular,4,Medication,10,Tired
+P4077,Follicular,1,Rest,7,Tired
+P4078,Ovulation,8,Heating Pad,4,Sad
+P4079,Ovulation,8,Medication,6,Sad
+P4080,Luteal,4,Rest,8,Irritable
+P4081,Menstrual,7,Medication,3,Sad
+P4082,Menstrual,3,None,9,Sad
+P4083,Ovulation,8,Medication,9,Sad
+P4084,Follicular,7,Yoga,3,Tired
+P4085,Follicular,5,Heating Pad,6,Happy
+P4086,Luteal,5,Medication,5,Irritable
+P4087,Luteal,9,Heating Pad,4,Neutral
+P4088,Follicular,6,Medication,8,Irritable
+P4089,Follicular,6,Heating Pad,10,Irritable
+P4090,Ovulation,2,Heating Pad,9,Irritable
+P4091,Luteal,5,Heating Pad,9,Irritable
+P4092,Menstrual,4,Yoga,5,Happy
+P4093,Menstrual,10,Medication,5,Neutral
+P4094,Menstrual,3,Medication,3,Happy
+P4095,Luteal,9,Medication,9,Neutral
+P4096,Follicular,7,Rest,1,Neutral
+P4097,Ovulation,4,Medication,3,Neutral
+P4098,Follicular,9,Yoga,7,Neutral
+P4099,Menstrual,9,Rest,7,Happy
+P4100,Follicular,7,Medication,5,Sad
+P4101,Follicular,5,Rest,6,Sad
+P4102,Ovulation,9,Rest,4,Sad
+P4103,Menstrual,7,Heating Pad,8,Happy
+P4104,Luteal,9,Medication,4,Sad
+P4105,Follicular,3,Yoga,10,Tired
+P4106,Luteal,9,Yoga,6,Happy
+P4107,Ovulation,1,Medication,5,Happy
+P4108,Menstrual,5,Yoga,10,Happy
+P4109,Luteal,2,Heating Pad,6,Neutral
+P4110,Ovulation,1,Heating Pad,3,Irritable
+P4111,Follicular,3,None,3,Irritable
+P4112,Menstrual,7,None,10,Happy
+P4113,Menstrual,3,Medication,7,Neutral
+P4114,Follicular,10,Medication,1,Irritable
+P4115,Ovulation,10,Heating Pad,1,Neutral
+P4116,Follicular,9,Medication,1,Neutral
+P4117,Follicular,3,Rest,6,Happy
+P4118,Menstrual,6,Medication,4,Irritable
+P4119,Menstrual,2,Heating Pad,6,Irritable
+P4120,Follicular,8,Heating Pad,1,Happy
+P4121,Menstrual,10,Rest,4,Tired
+P4122,Menstrual,5,Medication,4,Tired
+P4123,Follicular,2,Heating Pad,2,Neutral
+P4124,Luteal,7,Medication,1,Irritable
+P4125,Luteal,3,Yoga,8,Tired
+P4126,Ovulation,5,Medication,6,Neutral
+P4127,Ovulation,9,Heating Pad,4,Neutral
+P4128,Menstrual,1,Heating Pad,2,Neutral
+P4129,Ovulation,2,Medication,5,Happy
+P4130,Follicular,5,Rest,9,Sad
+P4131,Ovulation,4,Heating Pad,7,Neutral
+P4132,Menstrual,1,Medication,4,Sad
+P4133,Ovulation,7,Heating Pad,5,Happy
+P4134,Luteal,9,Medication,8,Tired
+P4135,Follicular,1,Heating Pad,5,Neutral
+P4136,Follicular,8,Medication,6,Irritable
+P4137,Follicular,9,Rest,10,Tired
+P4138,Ovulation,2,Heating Pad,6,Happy
+P4139,Ovulation,1,Medication,8,Sad
+P4140,Ovulation,6,Yoga,5,Neutral
+P4141,Menstrual,7,Yoga,1,Sad
+P4142,Menstrual,2,Medication,4,Neutral
+P4143,Menstrual,5,Medication,3,Irritable
+P4144,Luteal,5,Rest,2,Tired
+P4145,Luteal,7,Medication,7,Irritable
+P4146,Luteal,1,Yoga,7,Tired
+P4147,Luteal,10,Heating Pad,8,Neutral
+P4148,Luteal,8,Medication,10,Neutral
+P4149,Follicular,5,Medication,5,Sad
+P4150,Ovulation,3,Heating Pad,1,Sad
+P4151,Ovulation,9,Medication,6,Tired
+P4152,Luteal,3,Medication,6,Sad
+P4153,Luteal,7,Medication,8,Neutral
+P4154,Ovulation,10,Rest,10,Neutral
+P4155,Follicular,7,Heating Pad,2,Tired
+P4156,Luteal,10,Yoga,9,Neutral
+P4157,Follicular,8,Medication,6,Irritable
+P4158,Follicular,10,Heating Pad,1,Tired
+P4159,Follicular,8,Yoga,9,Happy
+P4160,Ovulation,4,Rest,8,Happy
+P4161,Luteal,1,Yoga,10,Sad
+P4162,Follicular,4,Rest,1,Happy
+P4163,Luteal,6,Heating Pad,8,Neutral
+P4164,Menstrual,10,Medication,7,Neutral
+P4165,Follicular,6,Medication,5,Tired
+P4166,Luteal,6,Medication,6,Neutral
+P4167,Luteal,7,Medication,4,Irritable
+P4168,Follicular,1,Yoga,9,Sad
+P4169,Luteal,10,Medication,9,Sad
+P4170,Ovulation,1,Heating Pad,10,Irritable
+P4171,Menstrual,7,Medication,1,Neutral
+P4172,Ovulation,4,Heating Pad,9,Irritable
+P4173,Follicular,6,Medication,3,Neutral
+P4174,Follicular,6,Medication,2,Neutral
+P4175,Follicular,9,Medication,4,Sad
+P4176,Menstrual,2,Yoga,4,Irritable
+P4177,Menstrual,4,Heating Pad,9,Neutral
+P4178,Follicular,4,Rest,4,Irritable
+P4179,Ovulation,7,Heating Pad,5,Neutral
+P4180,Luteal,1,Heating Pad,6,Irritable
+P4181,Follicular,5,Medication,4,Happy
+P4182,Luteal,4,Yoga,1,Neutral
+P4183,Follicular,2,Medication,2,Irritable
+P4184,Menstrual,5,Medication,3,Neutral
+P4185,Ovulation,9,Medication,4,Irritable
+P4186,Ovulation,8,Medication,5,Tired
+P4187,Luteal,9,Medication,10,Sad
+P4188,Follicular,7,None,10,Neutral
+P4189,Ovulation,10,Medication,3,Happy
+P4190,Ovulation,7,Medication,1,Happy
+P4191,Menstrual,2,Medication,8,Sad
+P4192,Ovulation,3,Heating Pad,8,Happy
+P4193,Luteal,10,Medication,4,Irritable
+P4194,Ovulation,8,Rest,7,Sad
+P4195,Follicular,2,Medication,4,Sad
+P4196,Luteal,7,Heating Pad,3,Happy
+P4197,Menstrual,6,Heating Pad,7,Happy
+P4198,Luteal,10,Medication,6,Sad
+P4199,Follicular,4,Heating Pad,1,Sad
+P4200,Ovulation,4,Medication,9,Neutral
+P4201,Follicular,3,None,2,Sad
+P4202,Follicular,6,Medication,3,Happy
+P4203,Menstrual,3,Medication,5,Neutral
+P4204,Luteal,9,Medication,3,Happy
+P4205,Follicular,4,None,3,Neutral
+P4206,Menstrual,4,Medication,8,Irritable
+P4207,Follicular,2,Yoga,4,Neutral
+P4208,Follicular,2,Medication,10,Sad
+P4209,Menstrual,7,Rest,2,Tired
+P4210,Luteal,5,Heating Pad,5,Neutral
+P4211,Menstrual,3,Medication,2,Irritable
+P4212,Ovulation,6,Heating Pad,10,Sad
+P4213,Menstrual,6,Yoga,8,Tired
+P4214,Follicular,1,Medication,3,Happy
+P4215,Follicular,3,Yoga,2,Neutral
+P4216,Follicular,5,Medication,3,Sad
+P4217,Luteal,7,Heating Pad,3,Irritable
+P4218,Menstrual,4,Medication,1,Happy
+P4219,Follicular,8,Heating Pad,3,Irritable
+P4220,Luteal,3,Medication,3,Happy
+P4221,Ovulation,6,Heating Pad,4,Tired
+P4222,Menstrual,6,Medication,8,Irritable
+P4223,Luteal,9,None,9,Neutral
+P4224,Follicular,4,Rest,1,Sad
+P4225,Ovulation,7,Heating Pad,1,Irritable
+P4226,Follicular,10,Medication,6,Happy
+P4227,Follicular,1,Yoga,1,Neutral
+P4228,Luteal,1,Heating Pad,5,Tired
+P4229,Luteal,2,Rest,1,Neutral
+P4230,Ovulation,4,Heating Pad,8,Neutral
+P4231,Menstrual,6,Yoga,5,Happy
+P4232,Menstrual,4,Heating Pad,6,Happy
+P4233,Menstrual,6,Medication,4,Neutral
+P4234,Ovulation,2,Rest,8,Tired
+P4235,Menstrual,9,Medication,9,Irritable
+P4236,Follicular,3,Medication,9,Happy
+P4237,Menstrual,7,Heating Pad,1,Tired
+P4238,Menstrual,1,Heating Pad,7,Neutral
+P4239,Menstrual,8,Heating Pad,4,Neutral
+P4240,Menstrual,4,Medication,10,Tired
+P4241,Menstrual,5,Medication,8,Neutral
+P4242,Luteal,7,Heating Pad,7,Neutral
+P4243,Ovulation,3,Rest,1,Irritable
+P4244,Menstrual,9,Medication,1,Neutral
+P4245,Follicular,9,Medication,1,Happy
+P4246,Ovulation,8,Heating Pad,2,Sad
+P4247,Menstrual,1,Heating Pad,10,Tired
+P4248,Ovulation,2,Rest,2,Happy
+P4249,Luteal,2,Medication,9,Sad
+P4250,Follicular,3,Heating Pad,5,Sad
+P4251,Menstrual,2,Heating Pad,1,Happy
+P4252,Ovulation,1,Medication,7,Sad
+P4253,Luteal,5,Medication,10,Neutral
+P4254,Luteal,6,Medication,2,Neutral
+P4255,Ovulation,7,Rest,3,Tired
+P4256,Menstrual,10,Medication,4,Tired
+P4257,Menstrual,7,Rest,3,Happy
+P4258,Luteal,2,Rest,3,Sad
+P4259,Ovulation,7,Heating Pad,9,Sad
+P4260,Ovulation,2,Medication,4,Happy
+P4261,Follicular,2,Rest,8,Neutral
+P4262,Menstrual,6,Medication,1,Irritable
+P4263,Menstrual,6,Medication,6,Irritable
+P4264,Luteal,8,Medication,1,Tired
+P4265,Ovulation,5,Medication,5,Sad
+P4266,Menstrual,5,Rest,7,Irritable
+P4267,Luteal,10,Medication,1,Happy
+P4268,Menstrual,1,Medication,9,Neutral
+P4269,Menstrual,4,Yoga,9,Sad
+P4270,Menstrual,1,Medication,6,Irritable
+P4271,Ovulation,10,Heating Pad,2,Irritable
+P4272,Follicular,5,Medication,2,Neutral
+P4273,Ovulation,8,Rest,9,Tired
+P4274,Menstrual,1,Medication,4,Neutral
+P4275,Follicular,3,Medication,6,Tired
+P4276,Luteal,1,Heating Pad,10,Happy
+P4277,Menstrual,6,Medication,2,Happy
+P4278,Luteal,10,Yoga,4,Sad
+P4279,Menstrual,1,Rest,2,Sad
+P4280,Ovulation,10,Medication,3,Neutral
+P4281,Menstrual,3,Medication,2,Irritable
+P4282,Follicular,5,Yoga,8,Sad
+P4283,Follicular,5,None,5,Happy
+P4284,Luteal,2,Heating Pad,5,Neutral
+P4285,Luteal,3,Yoga,8,Irritable
+P4286,Menstrual,9,Heating Pad,8,Neutral
+P4287,Follicular,1,Rest,7,Tired
+P4288,Follicular,1,Heating Pad,5,Neutral
+P4289,Menstrual,2,Medication,7,Tired
+P4290,Luteal,8,Rest,1,Sad
+P4291,Follicular,6,Medication,3,Happy
+P4292,Ovulation,4,Heating Pad,3,Irritable
+P4293,Menstrual,7,Heating Pad,2,Tired
+P4294,Menstrual,6,Medication,6,Sad
+P4295,Menstrual,9,Heating Pad,3,Neutral
+P4296,Follicular,6,Medication,4,Neutral
+P4297,Follicular,2,Medication,3,Tired
+P4298,Menstrual,3,Yoga,7,Irritable
+P4299,Follicular,9,Heating Pad,4,Tired
+P4300,Ovulation,7,None,5,Happy
+P4301,Ovulation,6,Medication,7,Tired
+P4302,Follicular,5,Yoga,4,Neutral
+P4303,Luteal,3,Heating Pad,6,Tired
+P4304,Follicular,4,Medication,9,Irritable
+P4305,Menstrual,1,Rest,6,Tired
+P4306,Ovulation,5,Heating Pad,5,Neutral
+P4307,Follicular,7,Yoga,1,Happy
+P4308,Menstrual,2,Medication,8,Neutral
+P4309,Menstrual,8,None,5,Happy
+P4310,Ovulation,10,Medication,5,Happy
+P4311,Luteal,6,Rest,3,Neutral
+P4312,Follicular,10,Yoga,10,Tired
+P4313,Follicular,3,Medication,2,Tired
+P4314,Luteal,2,None,1,Neutral
+P4315,Follicular,8,Medication,9,Tired
+P4316,Luteal,4,Heating Pad,5,Neutral
+P4317,Menstrual,7,Rest,10,Sad
+P4318,Follicular,7,Medication,4,Irritable
+P4319,Luteal,10,Rest,7,Tired
+P4320,Ovulation,9,Heating Pad,4,Neutral
+P4321,Luteal,10,Heating Pad,2,Happy
+P4322,Luteal,8,Heating Pad,9,Happy
+P4323,Follicular,8,Heating Pad,8,Happy
+P4324,Menstrual,7,Medication,4,Tired
+P4325,Menstrual,10,Rest,8,Tired
+P4326,Luteal,5,Medication,9,Happy
+P4327,Follicular,9,Heating Pad,2,Sad
+P4328,Ovulation,7,Medication,4,Tired
+P4329,Menstrual,3,Rest,6,Neutral
+P4330,Follicular,6,Heating Pad,7,Neutral
+P4331,Ovulation,3,Medication,5,Sad
+P4332,Ovulation,6,Rest,10,Neutral
+P4333,Luteal,8,Rest,10,Neutral
+P4334,Ovulation,9,Medication,7,Tired
+P4335,Ovulation,2,Heating Pad,4,Happy
+P4336,Luteal,6,Heating Pad,8,Neutral
+P4337,Ovulation,3,Heating Pad,3,Sad
+P4338,Luteal,7,Heating Pad,3,Neutral
+P4339,Ovulation,4,Medication,5,Happy
+P4340,Luteal,5,Heating Pad,6,Neutral
+P4341,Menstrual,10,Heating Pad,3,Irritable
+P4342,Luteal,6,None,10,Tired
+P4343,Ovulation,8,Rest,2,Neutral
+P4344,Follicular,2,Medication,5,Sad
+P4345,Menstrual,4,Heating Pad,10,Happy
+P4346,Menstrual,4,Rest,6,Tired
+P4347,Menstrual,6,Heating Pad,3,Neutral
+P4348,Follicular,4,Medication,7,Sad
+P4349,Luteal,5,Medication,3,Sad
+P4350,Luteal,5,Medication,2,Happy
+P4351,Menstrual,8,Medication,10,Sad
+P4352,Ovulation,4,None,4,Irritable
+P4353,Menstrual,6,Yoga,3,Irritable
+P4354,Luteal,7,Medication,7,Neutral
+P4355,Follicular,8,Heating Pad,8,Tired
+P4356,Luteal,9,Yoga,3,Neutral
+P4357,Luteal,10,Heating Pad,6,Sad
+P4358,Menstrual,8,Medication,1,Irritable
+P4359,Ovulation,4,Medication,5,Happy
+P4360,Follicular,4,Heating Pad,2,Irritable
+P4361,Ovulation,10,Heating Pad,1,Irritable
+P4362,Follicular,5,Yoga,7,Tired
+P4363,Ovulation,3,Rest,10,Tired
+P4364,Ovulation,2,Heating Pad,4,Happy
+P4365,Ovulation,2,None,5,Neutral
+P4366,Luteal,9,Yoga,2,Tired
+P4367,Ovulation,8,Medication,8,Neutral
+P4368,Menstrual,6,Rest,10,Irritable
+P4369,Ovulation,9,Heating Pad,3,Sad
+P4370,Follicular,5,Rest,7,Happy
+P4371,Follicular,10,Medication,1,Irritable
+P4372,Follicular,1,Rest,10,Happy
+P4373,Ovulation,8,Heating Pad,1,Happy
+P4374,Luteal,3,Heating Pad,7,Happy
+P4375,Ovulation,9,Heating Pad,1,Sad
+P4376,Ovulation,1,Medication,9,Neutral
+P4377,Ovulation,3,Heating Pad,9,Irritable
+P4378,Ovulation,1,Medication,8,Neutral
+P4379,Menstrual,1,Medication,8,Neutral
+P4380,Ovulation,6,Medication,4,Irritable
+P4381,Menstrual,4,Medication,4,Neutral
+P4382,Follicular,10,Medication,5,Irritable
+P4383,Follicular,4,Rest,9,Sad
+P4384,Luteal,5,Medication,3,Tired
+P4385,Menstrual,3,Heating Pad,4,Tired
+P4386,Ovulation,2,Medication,10,Neutral
+P4387,Ovulation,10,Medication,5,Happy
+P4388,Follicular,8,Heating Pad,7,Tired
+P4389,Luteal,7,Medication,5,Sad
+P4390,Follicular,10,Heating Pad,9,Sad
+P4391,Follicular,4,Medication,6,Irritable
+P4392,Luteal,2,Medication,3,Happy
+P4393,Follicular,9,Yoga,6,Neutral
+P4394,Luteal,8,Rest,6,Irritable
+P4395,Luteal,4,Medication,10,Neutral
+P4396,Menstrual,5,None,1,Sad
+P4397,Follicular,10,Heating Pad,7,Irritable
+P4398,Luteal,6,Medication,3,Irritable
+P4399,Ovulation,4,Heating Pad,1,Happy
+P4400,Luteal,2,Rest,1,Neutral
+P4401,Luteal,5,Yoga,5,Sad
+P4402,Menstrual,1,Medication,10,Irritable
+P4403,Follicular,7,Heating Pad,10,Neutral
+P4404,Follicular,9,Heating Pad,2,Sad
+P4405,Menstrual,3,Medication,2,Neutral
+P4406,Luteal,6,Medication,4,Irritable
+P4407,Menstrual,9,Heating Pad,10,Happy
+P4408,Follicular,4,Rest,7,Tired
+P4409,Luteal,6,Medication,8,Neutral
+P4410,Luteal,3,Medication,10,Sad
+P4411,Luteal,9,Heating Pad,7,Irritable
+P4412,Luteal,7,Medication,9,Happy
+P4413,Follicular,7,Medication,7,Irritable
+P4414,Menstrual,4,Yoga,4,Neutral
+P4415,Menstrual,6,Heating Pad,9,Irritable
+P4416,Menstrual,8,Heating Pad,9,Irritable
+P4417,Luteal,6,Heating Pad,3,Neutral
+P4418,Ovulation,6,Medication,10,Happy
+P4419,Follicular,4,Heating Pad,8,Sad
+P4420,Menstrual,8,Medication,1,Happy
+P4421,Menstrual,10,Rest,2,Neutral
+P4422,Ovulation,8,Rest,8,Tired
+P4423,Luteal,9,Medication,8,Neutral
+P4424,Follicular,6,Heating Pad,6,Tired
+P4425,Luteal,2,Heating Pad,8,Sad
+P4426,Follicular,4,Medication,8,Tired
+P4427,Ovulation,4,Rest,2,Neutral
+P4428,Follicular,8,Medication,3,Neutral
+P4429,Luteal,5,Rest,7,Tired
+P4430,Menstrual,4,Yoga,3,Tired
+P4431,Menstrual,8,Medication,2,Irritable
+P4432,Ovulation,3,Medication,6,Sad
+P4433,Menstrual,2,Medication,2,Happy
+P4434,Menstrual,4,Yoga,2,Sad
+P4435,Follicular,1,None,2,Tired
+P4436,Ovulation,1,Medication,4,Happy
+P4437,Menstrual,5,Yoga,7,Neutral
+P4438,Menstrual,1,Heating Pad,6,Irritable
+P4439,Menstrual,4,Medication,5,Sad
+P4440,Menstrual,8,Heating Pad,4,Sad
+P4441,Menstrual,8,Heating Pad,2,Neutral
+P4442,Follicular,2,Rest,8,Neutral
+P4443,Follicular,3,Heating Pad,2,Happy
+P4444,Luteal,3,Medication,8,Sad
+P4445,Follicular,1,Medication,10,Neutral
+P4446,Menstrual,3,Rest,4,Irritable
+P4447,Luteal,8,Medication,5,Tired
+P4448,Luteal,6,Medication,1,Neutral
+P4449,Menstrual,5,Medication,2,Irritable
+P4450,Luteal,10,Medication,8,Neutral
+P4451,Menstrual,9,Heating Pad,1,Neutral
+P4452,Follicular,7,Medication,3,Irritable
+P4453,Follicular,6,Heating Pad,2,Tired
+P4454,Follicular,5,Medication,10,Sad
+P4455,Follicular,5,Yoga,5,Irritable
+P4456,Follicular,10,Yoga,4,Happy
+P4457,Ovulation,9,Medication,4,Tired
+P4458,Follicular,10,Medication,4,Neutral
+P4459,Menstrual,6,Yoga,4,Happy
+P4460,Luteal,4,Medication,4,Tired
+P4461,Ovulation,4,Medication,6,Sad
+P4462,Menstrual,4,Rest,2,Irritable
+P4463,Luteal,6,Yoga,4,Irritable
+P4464,Luteal,1,Heating Pad,7,Neutral
+P4465,Menstrual,9,Medication,7,Irritable
+P4466,Menstrual,2,Medication,1,Irritable
+P4467,Luteal,2,Medication,10,Neutral
+P4468,Luteal,5,Yoga,9,Tired
+P4469,Ovulation,4,Heating Pad,7,Tired
+P4470,Ovulation,3,Heating Pad,6,Sad
+P4471,Ovulation,5,Heating Pad,2,Happy
+P4472,Menstrual,7,Heating Pad,6,Sad
+P4473,Follicular,10,Heating Pad,5,Tired
+P4474,Menstrual,2,Heating Pad,9,Happy
+P4475,Follicular,6,Medication,1,Sad
+P4476,Luteal,4,Medication,5,Neutral
+P4477,Ovulation,2,Medication,3,Happy
+P4478,Ovulation,1,Medication,9,Happy
+P4479,Follicular,8,Medication,1,Neutral
+P4480,Follicular,5,Heating Pad,6,Tired
+P4481,Follicular,10,Medication,3,Sad
+P4482,Menstrual,2,None,1,Sad
+P4483,Follicular,8,Medication,3,Irritable
+P4484,Menstrual,3,Heating Pad,2,Neutral
+P4485,Ovulation,7,Medication,10,Neutral
+P4486,Luteal,2,Rest,8,Neutral
+P4487,Menstrual,7,Yoga,3,Sad
+P4488,Follicular,4,Medication,7,Sad
+P4489,Ovulation,10,Heating Pad,10,Happy
+P4490,Menstrual,1,Rest,6,Happy
+P4491,Menstrual,5,Medication,7,Happy
+P4492,Menstrual,4,Heating Pad,7,Sad
+P4493,Menstrual,8,Medication,10,Tired
+P4494,Luteal,1,Medication,1,Irritable
+P4495,Ovulation,2,Rest,4,Tired
+P4496,Follicular,5,Medication,4,Neutral
+P4497,Follicular,10,Medication,5,Irritable
+P4498,Menstrual,10,Yoga,10,Irritable
+P4499,Ovulation,2,Heating Pad,5,Tired
+P4500,Menstrual,1,Yoga,8,Tired
+P4501,Menstrual,6,Medication,4,Tired
+P4502,Luteal,10,Medication,1,Happy
+P4503,Luteal,4,Medication,5,Sad
+P4504,Ovulation,5,Heating Pad,1,Sad
+P4505,Ovulation,3,Heating Pad,3,Irritable
+P4506,Luteal,10,Yoga,8,Neutral
+P4507,Luteal,6,Heating Pad,10,Tired
+P4508,Menstrual,4,Rest,5,Irritable
+P4509,Luteal,6,Heating Pad,7,Tired
+P4510,Ovulation,5,Rest,1,Happy
+P4511,Ovulation,2,Rest,6,Irritable
+P4512,Luteal,4,Heating Pad,8,Irritable
+P4513,Menstrual,2,Medication,6,Sad
+P4514,Luteal,5,Medication,4,Sad
+P4515,Follicular,3,Medication,8,Tired
+P4516,Ovulation,6,Yoga,8,Happy
+P4517,Follicular,5,Heating Pad,6,Sad
+P4518,Ovulation,2,Rest,8,Neutral
+P4519,Menstrual,10,Medication,6,Tired
+P4520,Menstrual,8,Medication,4,Neutral
+P4521,Ovulation,6,Medication,6,Neutral
+P4522,Follicular,9,Rest,9,Sad
+P4523,Ovulation,3,Rest,8,Irritable
+P4524,Luteal,4,Medication,7,Irritable
+P4525,Menstrual,8,Medication,5,Happy
+P4526,Luteal,7,Rest,7,Irritable
+P4527,Ovulation,8,Heating Pad,1,Neutral
+P4528,Menstrual,9,Yoga,8,Neutral
+P4529,Luteal,8,Medication,5,Sad
+P4530,Luteal,8,None,7,Happy
+P4531,Menstrual,6,Heating Pad,7,Neutral
+P4532,Luteal,2,Medication,8,Sad
+P4533,Menstrual,7,Rest,7,Happy
+P4534,Menstrual,4,Medication,6,Happy
+P4535,Menstrual,3,Medication,6,Happy
+P4536,Menstrual,4,Medication,5,Sad
+P4537,Luteal,4,None,5,Sad
+P4538,Follicular,3,Medication,4,Happy
+P4539,Luteal,9,Rest,7,Sad
+P4540,Luteal,3,Heating Pad,3,Neutral
+P4541,Luteal,2,None,5,Tired
+P4542,Follicular,1,Medication,3,Happy
+P4543,Luteal,1,Heating Pad,8,Sad
+P4544,Luteal,5,Rest,5,Neutral
+P4545,Luteal,5,Heating Pad,10,Neutral
+P4546,Luteal,9,Yoga,6,Sad
+P4547,Menstrual,4,Yoga,1,Tired
+P4548,Luteal,5,Heating Pad,4,Tired
+P4549,Follicular,6,Heating Pad,9,Sad
+P4550,Luteal,10,Heating Pad,5,Irritable
+P4551,Menstrual,7,Heating Pad,1,Happy
+P4552,Ovulation,9,Medication,4,Neutral
+P4553,Follicular,6,None,6,Sad
+P4554,Follicular,1,Rest,7,Happy
+P4555,Menstrual,8,Medication,7,Happy
+P4556,Follicular,2,Medication,8,Irritable
+P4557,Menstrual,9,Medication,5,Tired
+P4558,Follicular,7,Yoga,6,Irritable
+P4559,Follicular,7,Medication,2,Happy
+P4560,Luteal,10,Yoga,10,Happy
+P4561,Luteal,10,Medication,2,Tired
+P4562,Luteal,5,Medication,3,Tired
+P4563,Follicular,8,Medication,4,Tired
+P4564,Ovulation,10,Medication,6,Sad
+P4565,Ovulation,1,None,6,Sad
+P4566,Menstrual,3,Heating Pad,3,Neutral
+P4567,Follicular,9,Medication,1,Irritable
+P4568,Luteal,1,Heating Pad,3,Neutral
+P4569,Luteal,8,Medication,4,Irritable
+P4570,Follicular,6,Medication,9,Sad
+P4571,Ovulation,10,Medication,10,Neutral
+P4572,Luteal,5,Medication,8,Neutral
+P4573,Luteal,6,Medication,4,Tired
+P4574,Follicular,5,Yoga,7,Neutral
+P4575,Menstrual,9,Medication,9,Sad
+P4576,Ovulation,2,Medication,2,Happy
+P4577,Menstrual,10,Heating Pad,3,Irritable
+P4578,Ovulation,6,Medication,1,Sad
+P4579,Menstrual,4,Yoga,8,Happy
+P4580,Ovulation,3,Heating Pad,2,Irritable
+P4581,Ovulation,5,Medication,7,Happy
+P4582,Ovulation,2,Heating Pad,7,Sad
+P4583,Follicular,3,Medication,3,Neutral
+P4584,Follicular,7,Medication,2,Neutral
+P4585,Menstrual,1,Medication,3,Irritable
+P4586,Menstrual,2,Heating Pad,8,Happy
+P4587,Ovulation,3,Heating Pad,9,Tired
+P4588,Follicular,10,Medication,8,Happy
+P4589,Luteal,7,Heating Pad,2,Tired
+P4590,Luteal,4,Heating Pad,9,Tired
+P4591,Follicular,8,Medication,6,Tired
+P4592,Follicular,8,Medication,2,Irritable
+P4593,Menstrual,1,Heating Pad,9,Sad
+P4594,Follicular,5,Heating Pad,5,Tired
+P4595,Luteal,1,Heating Pad,6,Tired
+P4596,Luteal,7,Medication,1,Sad
+P4597,Follicular,4,Medication,2,Irritable
+P4598,Luteal,8,Medication,1,Tired
+P4599,Ovulation,8,Heating Pad,4,Sad
+P4600,Ovulation,9,Rest,2,Happy
+P4601,Luteal,6,Yoga,1,Sad
+P4602,Menstrual,7,Rest,3,Tired
+P4603,Ovulation,7,Medication,4,Sad
+P4604,Ovulation,5,Heating Pad,4,Irritable
+P4605,Luteal,7,Yoga,3,Happy
+P4606,Ovulation,9,Medication,2,Neutral
+P4607,Menstrual,4,Heating Pad,8,Happy
+P4608,Follicular,2,Medication,10,Happy
+P4609,Follicular,8,Medication,2,Neutral
+P4610,Follicular,7,Heating Pad,5,Irritable
+P4611,Ovulation,6,Yoga,7,Happy
+P4612,Menstrual,7,Heating Pad,9,Tired
+P4613,Follicular,3,None,3,Neutral
+P4614,Follicular,6,Heating Pad,1,Happy
+P4615,Luteal,10,Rest,9,Tired
+P4616,Ovulation,7,Heating Pad,1,Tired
+P4617,Luteal,7,Heating Pad,8,Sad
+P4618,Ovulation,5,Heating Pad,2,Tired
+P4619,Follicular,3,Heating Pad,7,Tired
+P4620,Luteal,2,Rest,3,Sad
+P4621,Menstrual,7,Yoga,6,Neutral
+P4622,Follicular,4,Yoga,6,Tired
+P4623,Luteal,2,Rest,4,Sad
+P4624,Follicular,8,Heating Pad,8,Sad
+P4625,Ovulation,2,Medication,5,Irritable
+P4626,Luteal,6,None,7,Happy
+P4627,Ovulation,4,Heating Pad,5,Neutral
+P4628,Follicular,9,Heating Pad,4,Irritable
+P4629,Menstrual,5,Rest,6,Irritable
+P4630,Luteal,4,Yoga,3,Neutral
+P4631,Menstrual,8,Medication,6,Tired
+P4632,Menstrual,3,Medication,6,Tired
+P4633,Ovulation,9,Heating Pad,6,Tired
+P4634,Follicular,8,Medication,3,Happy
+P4635,Follicular,8,Yoga,8,Tired
+P4636,Ovulation,10,Medication,4,Neutral
+P4637,Follicular,5,Heating Pad,2,Sad
+P4638,Menstrual,1,Medication,7,Irritable
+P4639,Ovulation,10,Medication,8,Tired
+P4640,Menstrual,9,Yoga,4,Tired
+P4641,Ovulation,2,Heating Pad,6,Tired
+P4642,Follicular,1,Heating Pad,8,Tired
+P4643,Menstrual,6,None,5,Irritable
+P4644,Menstrual,1,Medication,9,Happy
+P4645,Ovulation,10,Heating Pad,6,Irritable
+P4646,Follicular,10,Heating Pad,6,Sad
+P4647,Follicular,10,Yoga,2,Sad
+P4648,Ovulation,7,Heating Pad,7,Irritable
+P4649,Menstrual,7,Medication,9,Neutral
+P4650,Ovulation,1,Heating Pad,5,Sad
+P4651,Ovulation,10,Heating Pad,5,Sad
+P4652,Ovulation,5,Heating Pad,5,Sad
+P4653,Luteal,3,Medication,1,Irritable
+P4654,Follicular,2,Rest,5,Tired
+P4655,Menstrual,5,None,10,Irritable
+P4656,Ovulation,5,Heating Pad,8,Neutral
+P4657,Luteal,2,Heating Pad,3,Neutral
+P4658,Follicular,6,Medication,9,Happy
+P4659,Ovulation,7,Rest,9,Happy
+P4660,Ovulation,1,Heating Pad,6,Happy
+P4661,Luteal,3,Rest,4,Tired
+P4662,Ovulation,4,Heating Pad,4,Sad
+P4663,Ovulation,2,None,1,Tired
+P4664,Ovulation,10,Medication,10,Neutral
+P4665,Luteal,5,Heating Pad,5,Tired
+P4666,Menstrual,4,Heating Pad,5,Sad
+P4667,Follicular,2,Heating Pad,5,Happy
+P4668,Follicular,1,None,1,Irritable
+P4669,Luteal,8,Heating Pad,1,Neutral
+P4670,Follicular,2,Rest,10,Tired
+P4671,Luteal,4,Heating Pad,2,Neutral
+P4672,Ovulation,10,Medication,1,Irritable
+P4673,Follicular,5,Yoga,8,Happy
+P4674,Follicular,2,Heating Pad,4,Neutral
+P4675,Ovulation,10,Yoga,6,Irritable
+P4676,Ovulation,9,Medication,8,Tired
+P4677,Ovulation,2,Yoga,5,Irritable
+P4678,Ovulation,6,Medication,6,Sad
+P4679,Luteal,7,Medication,4,Sad
+P4680,Luteal,6,Medication,6,Neutral
+P4681,Ovulation,4,Heating Pad,6,Neutral
+P4682,Follicular,1,Medication,3,Irritable
+P4683,Luteal,2,Rest,4,Neutral
+P4684,Luteal,10,Yoga,6,Happy
+P4685,Menstrual,10,Heating Pad,8,Irritable
+P4686,Ovulation,6,Rest,7,Neutral
+P4687,Menstrual,8,None,4,Tired
+P4688,Menstrual,3,Rest,3,Irritable
+P4689,Luteal,7,Heating Pad,8,Sad
+P4690,Menstrual,9,Medication,6,Happy
+P4691,Follicular,4,Heating Pad,8,Sad
+P4692,Ovulation,7,Medication,9,Irritable
+P4693,Menstrual,7,Rest,9,Happy
+P4694,Ovulation,10,Yoga,10,Irritable
+P4695,Luteal,9,Medication,9,Tired
+P4696,Luteal,3,None,10,Neutral
+P4697,Menstrual,1,Yoga,1,Tired
+P4698,Luteal,8,None,3,Neutral
+P4699,Follicular,4,Heating Pad,9,Tired
+P4700,Luteal,2,Medication,4,Happy
+P4701,Follicular,5,Heating Pad,10,Sad
+P4702,Ovulation,4,Heating Pad,2,Irritable
+P4703,Follicular,1,Medication,1,Irritable
+P4704,Ovulation,7,Rest,5,Happy
+P4705,Menstrual,4,Medication,4,Irritable
+P4706,Menstrual,8,Medication,5,Sad
+P4707,Menstrual,9,Medication,5,Neutral
+P4708,Ovulation,8,Heating Pad,8,Happy
+P4709,Ovulation,1,Heating Pad,6,Happy
+P4710,Ovulation,8,None,3,Neutral
+P4711,Luteal,5,Rest,9,Irritable
+P4712,Follicular,1,Rest,8,Happy
+P4713,Menstrual,9,Medication,9,Tired
+P4714,Ovulation,9,Medication,4,Happy
+P4715,Follicular,7,Medication,8,Sad
+P4716,Follicular,7,Rest,3,Tired
+P4717,Follicular,1,Medication,5,Tired
+P4718,Ovulation,9,Heating Pad,7,Irritable
+P4719,Menstrual,1,Medication,1,Tired
+P4720,Ovulation,7,Yoga,1,Irritable
+P4721,Luteal,9,Medication,3,Tired
+P4722,Ovulation,9,Medication,4,Neutral
+P4723,Luteal,5,Medication,1,Irritable
+P4724,Follicular,6,Medication,8,Irritable
+P4725,Ovulation,2,Heating Pad,2,Neutral
+P4726,Ovulation,2,Heating Pad,5,Sad
+P4727,Menstrual,10,Medication,6,Irritable
+P4728,Menstrual,9,Rest,6,Neutral
+P4729,Luteal,1,Heating Pad,6,Happy
+P4730,Follicular,10,Medication,1,Tired
+P4731,Ovulation,5,Yoga,3,Happy
+P4732,Luteal,7,Medication,3,Irritable
+P4733,Luteal,10,Medication,8,Irritable
+P4734,Menstrual,6,Heating Pad,6,Tired
+P4735,Luteal,6,Heating Pad,2,Tired
+P4736,Luteal,6,Medication,1,Happy
+P4737,Luteal,8,Heating Pad,4,Tired
+P4738,Luteal,7,Rest,1,Irritable
+P4739,Ovulation,5,None,5,Tired
+P4740,Menstrual,10,Medication,8,Sad
+P4741,Luteal,2,Medication,10,Sad
+P4742,Luteal,10,Medication,2,Neutral
+P4743,Follicular,6,Rest,8,Neutral
+P4744,Ovulation,10,Heating Pad,8,Irritable
+P4745,Follicular,5,Rest,6,Happy
+P4746,Menstrual,4,Rest,8,Tired
+P4747,Menstrual,10,Heating Pad,2,Neutral
+P4748,Follicular,5,Medication,7,Neutral
+P4749,Follicular,9,Medication,8,Tired
+P4750,Luteal,2,Heating Pad,4,Neutral
+P4751,Menstrual,6,None,9,Happy
+P4752,Ovulation,9,Heating Pad,6,Happy
+P4753,Ovulation,10,Medication,3,Irritable
+P4754,Ovulation,5,Medication,4,Tired
+P4755,Ovulation,6,Medication,4,Sad
+P4756,Follicular,10,Heating Pad,1,Happy
+P4757,Menstrual,4,Medication,10,Neutral
+P4758,Luteal,5,Rest,1,Happy
+P4759,Ovulation,8,Yoga,1,Neutral
+P4760,Ovulation,1,Heating Pad,4,Happy
+P4761,Luteal,1,Medication,1,Irritable
+P4762,Ovulation,10,Medication,6,Sad
+P4763,Menstrual,4,Medication,2,Neutral
+P4764,Menstrual,10,Heating Pad,1,Neutral
+P4765,Luteal,3,Heating Pad,7,Happy
+P4766,Luteal,5,None,6,Sad
+P4767,Luteal,10,Rest,1,Sad
+P4768,Follicular,8,Yoga,10,Neutral
+P4769,Luteal,1,Medication,9,Sad
+P4770,Ovulation,5,Heating Pad,6,Tired
+P4771,Luteal,5,Heating Pad,2,Neutral
+P4772,Luteal,2,Medication,7,Happy
+P4773,Ovulation,5,Rest,3,Tired
+P4774,Luteal,8,Medication,7,Tired
+P4775,Luteal,10,Heating Pad,9,Neutral
+P4776,Menstrual,7,Medication,5,Neutral
+P4777,Follicular,2,None,1,Sad
+P4778,Luteal,6,Heating Pad,5,Tired
+P4779,Ovulation,10,Medication,8,Irritable
+P4780,Ovulation,1,Heating Pad,8,Irritable
+P4781,Ovulation,10,Medication,3,Sad
+P4782,Ovulation,10,Rest,4,Tired
+P4783,Luteal,3,Medication,8,Sad
+P4784,Menstrual,6,Yoga,8,Tired
+P4785,Luteal,9,None,7,Tired
+P4786,Luteal,1,Medication,6,Irritable
+P4787,Menstrual,6,Rest,4,Tired
+P4788,Follicular,2,Yoga,10,Neutral
+P4789,Ovulation,9,Heating Pad,9,Tired
+P4790,Luteal,2,Medication,2,Happy
+P4791,Menstrual,3,Heating Pad,2,Tired
+P4792,Follicular,2,Heating Pad,1,Tired
+P4793,Ovulation,4,Yoga,3,Neutral
+P4794,Luteal,4,Medication,3,Happy
+P4795,Luteal,10,Heating Pad,4,Happy
+P4796,Ovulation,1,Medication,3,Neutral
+P4797,Follicular,8,Rest,10,Tired
+P4798,Ovulation,5,Heating Pad,6,Sad
+P4799,Ovulation,8,Heating Pad,9,Neutral
+P4800,Follicular,6,Yoga,8,Neutral
+P4801,Luteal,2,Heating Pad,6,Happy
+P4802,Ovulation,7,Medication,8,Neutral
+P4803,Menstrual,10,Medication,8,Irritable
+P4804,Ovulation,9,Medication,10,Neutral
+P4805,Menstrual,7,Heating Pad,6,Tired
+P4806,Menstrual,5,Heating Pad,2,Sad
+P4807,Follicular,4,Medication,5,Sad
+P4808,Menstrual,8,Heating Pad,4,Sad
+P4809,Luteal,6,Rest,6,Happy
+P4810,Luteal,5,Rest,2,Sad
+P4811,Luteal,7,Medication,4,Neutral
+P4812,Ovulation,3,Yoga,8,Tired
+P4813,Ovulation,9,Medication,1,Tired
+P4814,Follicular,4,Heating Pad,3,Tired
+P4815,Follicular,4,Medication,4,Tired
+P4816,Follicular,8,Heating Pad,2,Neutral
+P4817,Follicular,6,Medication,2,Happy
+P4818,Follicular,1,Rest,6,Happy
+P4819,Follicular,2,Medication,6,Happy
+P4820,Menstrual,9,Medication,3,Neutral
+P4821,Menstrual,6,Heating Pad,8,Happy
+P4822,Menstrual,7,Medication,3,Tired
+P4823,Ovulation,9,Medication,2,Neutral
+P4824,Menstrual,3,Medication,5,Happy
+P4825,Ovulation,5,Medication,7,Sad
+P4826,Follicular,5,Medication,1,Happy
+P4827,Menstrual,10,Yoga,2,Neutral
+P4828,Luteal,7,Heating Pad,2,Neutral
+P4829,Luteal,2,Heating Pad,8,Neutral
+P4830,Follicular,4,None,10,Irritable
+P4831,Ovulation,4,Heating Pad,6,Tired
+P4832,Menstrual,8,Heating Pad,4,Happy
+P4833,Ovulation,10,Heating Pad,4,Sad
+P4834,Ovulation,3,Medication,5,Irritable
+P4835,Menstrual,2,Medication,3,Tired
+P4836,Luteal,9,Heating Pad,4,Neutral
+P4837,Ovulation,4,Yoga,4,Irritable
+P4838,Luteal,9,Medication,7,Neutral
+P4839,Luteal,6,Heating Pad,7,Tired
+P4840,Luteal,1,Medication,1,Happy
+P4841,Menstrual,3,Rest,3,Neutral
+P4842,Menstrual,7,Yoga,9,Neutral
+P4843,Follicular,9,Medication,6,Tired
+P4844,Luteal,8,Medication,6,Sad
+P4845,Menstrual,5,Heating Pad,4,Sad
+P4846,Luteal,8,None,10,Sad
+P4847,Follicular,2,Heating Pad,9,Irritable
+P4848,Follicular,3,Heating Pad,3,Irritable
+P4849,Luteal,8,Heating Pad,8,Sad
+P4850,Follicular,9,Medication,6,Irritable
+P4851,Luteal,10,Medication,2,Tired
+P4852,Luteal,8,Rest,3,Sad
+P4853,Ovulation,4,Heating Pad,1,Neutral
+P4854,Ovulation,6,Heating Pad,3,Irritable
+P4855,Luteal,5,Heating Pad,4,Sad
+P4856,Ovulation,4,Heating Pad,6,Neutral
+P4857,Follicular,9,Heating Pad,10,Happy
+P4858,Follicular,10,Yoga,7,Sad
+P4859,Follicular,3,Medication,3,Neutral
+P4860,Menstrual,1,Heating Pad,7,Happy
+P4861,Follicular,7,Medication,4,Neutral
+P4862,Follicular,10,Rest,1,Irritable
+P4863,Follicular,8,Heating Pad,1,Irritable
+P4864,Ovulation,3,Heating Pad,8,Neutral
+P4865,Luteal,3,Rest,10,Happy
+P4866,Ovulation,6,None,7,Tired
+P4867,Follicular,2,Rest,4,Neutral
+P4868,Ovulation,6,Yoga,1,Sad
+P4869,Follicular,5,Heating Pad,6,Tired
+P4870,Luteal,7,Medication,10,Tired
+P4871,Ovulation,9,Heating Pad,7,Tired
+P4872,Menstrual,9,Medication,6,Sad
+P4873,Ovulation,1,Heating Pad,6,Sad
+P4874,Menstrual,7,Medication,8,Sad
+P4875,Luteal,3,Medication,6,Happy
+P4876,Menstrual,4,Medication,2,Sad
+P4877,Menstrual,2,Heating Pad,7,Irritable
+P4878,Luteal,1,Heating Pad,10,Neutral
+P4879,Luteal,10,Heating Pad,4,Tired
+P4880,Ovulation,3,Rest,3,Irritable
+P4881,Menstrual,10,Medication,8,Neutral
+P4882,Follicular,9,Heating Pad,10,Sad
+P4883,Ovulation,1,None,5,Happy
+P4884,Menstrual,3,Yoga,4,Tired
+P4885,Menstrual,5,Medication,4,Tired
+P4886,Follicular,3,Medication,5,Neutral
+P4887,Follicular,4,Medication,4,Irritable
+P4888,Ovulation,4,Medication,3,Tired
+P4889,Luteal,1,Rest,4,Happy
+P4890,Ovulation,6,Heating Pad,10,Tired
+P4891,Menstrual,7,None,5,Neutral
+P4892,Follicular,7,Rest,2,Neutral
+P4893,Menstrual,6,Medication,7,Neutral
+P4894,Follicular,7,Medication,5,Sad
+P4895,Luteal,3,Medication,9,Sad
+P4896,Luteal,5,Medication,6,Sad
+P4897,Menstrual,7,Medication,1,Happy
+P4898,Follicular,10,Heating Pad,9,Irritable
+P4899,Follicular,5,Rest,5,Tired
+P4900,Follicular,10,None,9,Tired
+P4901,Menstrual,2,Rest,1,Irritable
+P4902,Menstrual,6,Medication,2,Irritable
+P4903,Follicular,7,Medication,3,Tired
+P4904,Luteal,2,None,5,Tired
+P4905,Luteal,10,None,6,Happy
+P4906,Ovulation,8,Heating Pad,5,Happy
+P4907,Menstrual,5,Heating Pad,1,Tired
+P4908,Luteal,8,Medication,4,Irritable
+P4909,Ovulation,3,None,6,Sad
+P4910,Follicular,2,Medication,4,Happy
+P4911,Follicular,7,Medication,4,Sad
+P4912,Menstrual,5,None,5,Neutral
+P4913,Follicular,5,Heating Pad,8,Irritable
+P4914,Menstrual,8,Heating Pad,5,Happy
+P4915,Follicular,9,Heating Pad,7,Happy
+P4916,Ovulation,8,Heating Pad,8,Irritable
+P4917,Luteal,10,Heating Pad,6,Irritable
+P4918,Luteal,2,Medication,6,Sad
+P4919,Follicular,10,Medication,2,Neutral
+P4920,Menstrual,7,None,10,Sad
+P4921,Menstrual,5,Heating Pad,5,Neutral
+P4922,Luteal,7,Rest,1,Tired
+P4923,Menstrual,3,Rest,9,Neutral
+P4924,Menstrual,4,Medication,7,Tired
+P4925,Menstrual,7,Rest,2,Sad
+P4926,Follicular,2,Medication,6,Neutral
+P4927,Luteal,2,Medication,10,Irritable
+P4928,Ovulation,1,Medication,9,Happy
+P4929,Menstrual,1,Medication,5,Tired
+P4930,Ovulation,1,Heating Pad,3,Sad
+P4931,Menstrual,6,Heating Pad,10,Irritable
+P4932,Ovulation,5,Heating Pad,4,Sad
+P4933,Menstrual,10,Heating Pad,3,Happy
+P4934,Ovulation,8,Rest,1,Tired
+P4935,Follicular,5,Medication,10,Happy
+P4936,Luteal,1,Medication,7,Neutral
+P4937,Luteal,8,Yoga,8,Sad
+P4938,Ovulation,6,Medication,2,Sad
+P4939,Ovulation,8,Heating Pad,8,Happy
+P4940,Menstrual,2,None,9,Neutral
+P4941,Menstrual,10,Medication,7,Sad
+P4942,Luteal,8,Heating Pad,1,Sad
+P4943,Follicular,6,Rest,4,Happy
+P4944,Ovulation,1,Medication,7,Irritable
+P4945,Ovulation,1,Medication,6,Neutral
+P4946,Luteal,10,Medication,8,Neutral
+P4947,Ovulation,5,Medication,6,Irritable
+P4948,Menstrual,7,Yoga,10,Sad
+P4949,Menstrual,4,Medication,6,Tired
+P4950,Luteal,10,Rest,10,Tired
+P4951,Follicular,5,Heating Pad,6,Happy
+P4952,Ovulation,10,Medication,7,Tired
+P4953,Luteal,3,Heating Pad,5,Irritable
+P4954,Luteal,2,Medication,9,Irritable
+P4955,Menstrual,2,Yoga,7,Tired
+P4956,Luteal,5,Heating Pad,1,Irritable
+P4957,Luteal,4,Rest,9,Irritable
+P4958,Menstrual,2,Medication,6,Sad
+P4959,Follicular,5,Yoga,8,Happy
+P4960,Ovulation,10,Rest,9,Neutral
+P4961,Menstrual,9,Heating Pad,2,Tired
+P4962,Menstrual,8,Heating Pad,2,Happy
+P4963,Ovulation,9,Medication,5,Happy
+P4964,Menstrual,9,Rest,5,Neutral
+P4965,Ovulation,8,Medication,10,Tired
+P4966,Menstrual,9,Medication,10,Irritable
+P4967,Luteal,4,Heating Pad,2,Irritable
+P4968,Ovulation,8,Medication,10,Sad
+P4969,Follicular,2,Heating Pad,4,Happy
+P4970,Follicular,9,Heating Pad,9,Tired
+P4971,Ovulation,9,Medication,4,Neutral
+P4972,Follicular,3,Heating Pad,1,Neutral
+P4973,Luteal,6,Medication,5,Neutral
+P4974,Menstrual,7,Medication,2,Irritable
+P4975,Follicular,3,Heating Pad,6,Sad
+P4976,Follicular,5,Yoga,1,Sad
+P4977,Menstrual,1,Yoga,7,Irritable
+P4978,Ovulation,3,None,7,Happy
+P4979,Ovulation,8,Yoga,4,Irritable
+P4980,Ovulation,3,Medication,9,Tired
+P4981,Luteal,8,Rest,3,Sad
+P4982,Luteal,9,Medication,5,Happy
+P4983,Luteal,6,Heating Pad,5,Sad
+P4984,Luteal,7,Medication,8,Sad
+P4985,Menstrual,6,Medication,10,Happy
+P4986,Luteal,8,Rest,10,Irritable
+P4987,Ovulation,7,Heating Pad,4,Irritable
+P4988,Ovulation,10,Heating Pad,1,Neutral
+P4989,Follicular,1,Heating Pad,5,Happy
+P4990,Follicular,3,Medication,1,Sad
+P4991,Menstrual,3,Heating Pad,3,Tired
+P4992,Luteal,3,None,6,Neutral
+P4993,Follicular,4,Heating Pad,1,Tired
+P4994,Ovulation,1,Medication,10,Sad
+P4995,Follicular,2,Medication,3,Tired
+P4996,Luteal,5,Medication,7,Neutral
+P4997,Luteal,6,None,2,Tired
+P4998,Ovulation,9,Medication,6,Neutral
+P4999,Follicular,2,None,7,Neutral
+P5000,Menstrual,9,Heating Pad,2,Irritable
